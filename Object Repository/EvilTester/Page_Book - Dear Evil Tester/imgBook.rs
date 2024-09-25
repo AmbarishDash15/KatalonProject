@@ -19,7 +19,7 @@
          <value>Screenshots/Targets/Page_Dear Evil Tester - A Software Testing Book - EvilTester.com/imgBook.png</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>CSS</selectorMethod>
+   <selectorMethod>IMAGE</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
@@ -34,7 +34,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>8929ce4c-c994-4daa-bb63-cae95aaeee75</webElementGuid>
+      <webElementGuid>878546c3-2eac-446a-9df4-ade1c0110a4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>src</name>
       <type>Main</type>
       <value>/dominion_images/books/dearEvilTester/dearEvilTesterEbookCover_219x310.png</value>
-      <webElementGuid>a2c82d58-a807-41c5-b156-b4ca28ed0fa8</webElementGuid>
+      <webElementGuid>df2cf136-f8f7-4f84-a410-7b8c6da52ca0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;main-content&quot;)/div[@class=&quot;jumbotron&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4&quot;]/a[1]/img[1]</value>
-      <webElementGuid>f7157e26-cbe9-4406-a77f-6496b16d16a2</webElementGuid>
+      <webElementGuid>e16e4eb8-ca2b-4407-a774-880da498ce56</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='main-content']/div/div/div/a/img</value>
-      <webElementGuid>01cd292b-7a43-4e7e-a868-61ecc12749ed</webElementGuid>
+      <webElementGuid>e3c478c3-5292-463c-921d-4b05e8ae5650</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//img</value>
-      <webElementGuid>a630bde2-8d24-43c2-942f-dff7ac1f62b0</webElementGuid>
+      <webElementGuid>7fd9f579-7784-4963-9b1a-cd43285b6cab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,6 +74,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = '/dominion_images/books/dearEvilTester/dearEvilTesterEbookCover_219x310.png']</value>
-      <webElementGuid>af21eb9a-201f-42f8-81b4-b8969e9e1524</webElementGuid>
+      <webElementGuid>ef709535-749f-48f6-a80c-5347b5a7be32</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

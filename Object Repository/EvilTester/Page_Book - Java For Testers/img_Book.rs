@@ -19,7 +19,7 @@
          <value>Screenshots/Targets/Page_Java For Testers Book by Alan Richardson - EvilTester.com/img_Book.png</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>CSS</selectorMethod>
+   <selectorMethod>IMAGE</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
@@ -34,7 +34,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>49b5ee44-87ad-48cd-98d5-a4734d0ff808</webElementGuid>
+      <webElementGuid>eaea9959-7524-4d19-9898-8437745da515</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>src</name>
       <type>Main</type>
       <value>/dominion_images/books/javafortesters/20150904_physical_createspace_trans_231x332.png</value>
-      <webElementGuid>388acdab-562f-4d07-9004-d51bf30b5640</webElementGuid>
+      <webElementGuid>55f82ad8-9392-4cd0-90df-16f88f0147b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;main-content&quot;)/div[@class=&quot;jumbotron&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4&quot;]/img[1]</value>
-      <webElementGuid>5dc5e82e-9293-46e3-8e06-53b60d36b804</webElementGuid>
+      <webElementGuid>ce6eb535-a7af-4f73-8c4f-8eac7b434d68</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='main-content']/div/div/div/img</value>
-      <webElementGuid>409acf3f-aea4-4316-b83b-16a68a310045</webElementGuid>
+      <webElementGuid>0a20aad4-0095-4e76-80d2-f3ecc578f2d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//img</value>
-      <webElementGuid>10f79680-3d2b-4667-b0be-cb043086aafd</webElementGuid>
+      <webElementGuid>32e01918-302c-443e-9f5b-b11c347652ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,6 +74,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = '/dominion_images/books/javafortesters/20150904_physical_createspace_trans_231x332.png']</value>
-      <webElementGuid>30db17c8-1dde-44af-8487-60387abe5180</webElementGuid>
+      <webElementGuid>0b88d131-322c-49d2-9aa3-e3073b6d64eb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
