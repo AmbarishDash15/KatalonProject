@@ -19,7 +19,7 @@
          <value>//section[@id='main-content']/div[2]/p[20]/a/img</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>IMAGE</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>

@@ -11,7 +11,11 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/div/div/div/div/div[2]/a[2]</value>
+         <value>//h4[@class='product-name'][contains(text(),'Brocolli - 1 Kg')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '#' and (text() = '+' or . = '+')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>7d3010ae-565b-4776-957b-3256262259b3</webElementGuid>
+      <webElementGuid>835ad3f0-df60-43bb-8c2d-2d96c410009c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +41,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>0c1626a6-2f3b-4f68-9ef9-eda689ba6f93</webElementGuid>
+      <webElementGuid>4e49209f-6ee1-4a47-ba43-ce605ad4fd73</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +49,7 @@
       <name>class</name>
       <type>Main</type>
       <value>increment</value>
-      <webElementGuid>be6ecb5d-5f08-4e4d-a071-5915df5fe55e</webElementGuid>
+      <webElementGuid>ad80e9ae-b4f9-4d82-abeb-72816ed9a3bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +57,7 @@
       <name>text</name>
       <type>Main</type>
       <value>+</value>
-      <webElementGuid>3764a03b-ac46-4af9-9aeb-e6d1384ecf12</webElementGuid>
+      <webElementGuid>d490384b-130a-4821-b20b-941220e26214</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +65,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;products-wrapper&quot;]/div[@class=&quot;products&quot;]/div[@class=&quot;product&quot;]/div[@class=&quot;stepper-input&quot;]/a[@class=&quot;increment&quot;]</value>
-      <webElementGuid>63cf5246-847b-4750-b9ff-0dd1475c88a9</webElementGuid>
+      <webElementGuid>ac322be8-f631-4021-9cc7-f632970f683c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/RS-Academy/Page_GreenKart - veg and fruits kart/Product</value>
+      <webElementGuid>df61d9c7-b05f-4d71-845b-c40ecabec2a5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +81,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div/div[2]/a[2]</value>
-      <webElementGuid>84c4405c-18af-4499-a396-5bb38f5c058b</webElementGuid>
+      <webElementGuid>37adbb31-0b90-4ffd-8f59-39dfd2ce62f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +89,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'+')]</value>
-      <webElementGuid>2fb9f78d-5082-4c6a-b4d4-90f83b97bb13</webElementGuid>
+      <webElementGuid>476acace-6d2b-4895-9022-aaf2a891b626</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Brocolli - 1 Kg'])[1]/following::a[2]</value>
-      <webElementGuid>551d71b5-3af3-48a0-b502-ed393447032a</webElementGuid>
+      <webElementGuid>6e63e774-5eb0-47ba-8296-fe1984f8d00a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +105,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PROCEED TO CHECKOUT'])[1]/following::a[2]</value>
-      <webElementGuid>2b72c651-d590-4b64-b586-86e8c189994c</webElementGuid>
+      <webElementGuid>c5ba02ba-8eac-4307-a627-184d8f8c78ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +113,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ADD TO CART'])[1]/preceding::a[1]</value>
-      <webElementGuid>91817a9d-ab3e-4c5a-9894-2d21beda6355</webElementGuid>
+      <webElementGuid>7b8ef47d-74b8-4ec8-9103-ca8b46ad416d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +121,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cauliflower - 1 Kg'])[1]/preceding::a[1]</value>
-      <webElementGuid>b6d5bea6-b446-4a2e-8f5c-a3fb9a458e94</webElementGuid>
+      <webElementGuid>8489579b-2a4d-44b2-a4d9-ab1afc345ad0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +129,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='+']/parent::*</value>
-      <webElementGuid>9b407ca7-1379-434c-85b9-3fb17af91b40</webElementGuid>
+      <webElementGuid>14491ff6-4286-48e8-8ea8-c8af58350b38</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +137,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[6]</value>
-      <webElementGuid>273193ca-970d-4785-87d7-988df9261c88</webElementGuid>
+      <webElementGuid>b4ba8f1e-d73d-4e23-a29d-0956c6d132b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +145,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/a[2]</value>
-      <webElementGuid>4b458488-61dd-4fb5-bb27-72a6e551f510</webElementGuid>
+      <webElementGuid>18085455-7382-4aec-9e96-e517c5f51ab5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +153,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = '+' or . = '+')]</value>
-      <webElementGuid>bfb78512-ffa6-4e27-b315-6a7c65abb076</webElementGuid>
+      <webElementGuid>14cd3dc3-0b6b-480b-bcc2-eb6533b60c6b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

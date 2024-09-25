@@ -33,3 +33,13 @@ WebUI.click(findTestObject('Object Repository/RS-Academy/Page_Landing/button_Sub
 
 WebUI.click(findTestObject('Object Repository/RS-Academy/Page_Home/a_Automation Practise - 1'))
 
+WebUI.waitForPageLoad(0)
+
+siteURL = WebUI.getUrl()
+
+WebUI.verifyMatch(siteURL, 'https://rahulshettyacademy.com/seleniumPractise/#/', false, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.verifyElementPresent(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/Product'), 0)
+
+WebUI.findWebElements(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/a_'), 0)
+
