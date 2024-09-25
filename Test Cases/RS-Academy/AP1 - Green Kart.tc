@@ -24,6 +24,12 @@
       <value></value>
       <variableId>75c045e0-401a-43eb-a445-cb4ee506741d</variableId>
    </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cb5a0cd1-739a-424b-a7ab-9ed814179331</variableId>
+   </variableLinks>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
@@ -44,5 +50,12 @@
       <id>75c045e0-401a-43eb-a445-cb4ee506741d</id>
       <masked>false</masked>
       <name>secondItem</name>
+   </variable>
+   <variable>
+      <defaultValue>'Beetroot - 1 Kg'</defaultValue>
+      <description></description>
+      <id>cb5a0cd1-739a-424b-a7ab-9ed814179331</id>
+      <masked>false</masked>
+      <name>thirdItem</name>
    </variable>
 </TestCaseEntity>
