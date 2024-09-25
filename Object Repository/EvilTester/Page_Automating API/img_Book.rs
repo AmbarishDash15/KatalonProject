@@ -7,6 +7,10 @@
    <imagePath>Screenshots/Targets/Page_Automating and Testing A REST API Case Study Book by Alan Richardson - EvilTester.com/img_Tracks Automating and Testing Case Study_image-center.png</imagePath>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main-content']/div/img</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>img.image-center</value>
       </entry>
@@ -14,12 +18,8 @@
          <key>IMAGE</key>
          <value>Screenshots/Targets/Page_Automating and Testing A REST API Case Study Book by Alan Richardson - EvilTester.com/img_Tracks Automating and Testing Case Study_image-center.png</value>
       </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//section[@id='main-content']/div/img</value>
-      </entry>
    </selectorCollection>
-   <selectorMethod>IMAGE</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
@@ -34,7 +34,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>6d8d9d9f-9053-4573-8c99-bfdcd60bc3d3</webElementGuid>
+      <webElementGuid>b31aa5ee-75a5-42f2-b7ad-1d4a15965883</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>image-center</value>
-      <webElementGuid>5f76d37f-f974-4bf7-b8b5-7c7da796621d</webElementGuid>
+      <webElementGuid>97abb49b-0f8f-4714-9210-3c1093e5d869</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
       <name>src</name>
       <type>Main</type>
       <value>/dominion_images/books/tracksApiTesting_cover_200x260.png</value>
-      <webElementGuid>84cf6636-24d1-414b-a160-920aeeb0561c</webElementGuid>
+      <webElementGuid>e77bdced-f140-4cd4-9d87-27862da709e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;main-content&quot;)/div[@class=&quot;jumbotron&quot;]/img[@class=&quot;image-center&quot;]</value>
-      <webElementGuid>3a12dd65-ce81-4c79-9b33-e39d9cf56104</webElementGuid>
+      <webElementGuid>364e4f9c-cbf5-4ea1-9ddc-5c653f837744</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='main-content']/div/img</value>
-      <webElementGuid>c8f8852c-a101-4fb8-9d5b-b80e293172a2</webElementGuid>
+      <webElementGuid>06dff214-e394-4e48-b753-c747e288da62</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//img</value>
-      <webElementGuid>82710d51-4492-463e-bfe1-866d2cca7219</webElementGuid>
+      <webElementGuid>3c5d1ee4-6fc0-416c-9220-16f9e527b294</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,6 +82,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = '/dominion_images/books/tracksApiTesting_cover_200x260.png']</value>
-      <webElementGuid>fe5e33c7-3f28-4208-be6f-cc494e256fb2</webElementGuid>
+      <webElementGuid>75289401-2841-4e3c-8e46-18472ff4049c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

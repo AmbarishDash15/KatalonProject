@@ -7,19 +7,19 @@
    <imagePath>Screenshots/Targets/Page_Software Testing Online Courses By Alan Richardson - EvilTester.com/img_Selenium WebDriver With Java Course Cover Image.png</imagePath>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>.course-cover-list > p > a:nth-child(1) > img</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//section[@id='main-content']/div/div/p/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.course-cover-list > p > a:nth-child(1) > img</value>
       </entry>
       <entry>
          <key>IMAGE</key>
          <value>Screenshots/Targets/Page_Software Testing Online Courses By Alan Richardson - EvilTester.com/img_Selenium WebDriver With Java Course Cover Image.png</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>IMAGE</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
@@ -34,7 +34,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>b6c50ff3-f379-4df1-b34e-27090a37ebb1</webElementGuid>
+      <webElementGuid>3ed06bd7-1d65-4e01-8f8c-32a8521f0bc1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>src</name>
       <type>Main</type>
       <value>/images/courses/selenium_2_webdriver_75pc.jpg</value>
-      <webElementGuid>7a0c8400-2747-4dc9-9e99-b529c23d331f</webElementGuid>
+      <webElementGuid>3117efda-e970-469b-8de2-962b8eca32a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Selenium WebDriver With Java Course Cover Image</value>
-      <webElementGuid>6eefd683-15f9-4cfa-9494-ca8c1018a72b</webElementGuid>
+      <webElementGuid>44124960-2330-4936-b228-0bf661dffee9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;main-content&quot;)/div[@class=&quot;jumbotron&quot;]/div[@class=&quot;course-cover-list&quot;]/p[1]/a[1]/img[1]</value>
-      <webElementGuid>6ef50fd3-d0c7-4bcd-a090-9be54ba9f212</webElementGuid>
+      <webElementGuid>7f57f45b-70eb-4201-b1e2-22cc0fc7c1f0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='main-content']/div/div/p/a/img</value>
-      <webElementGuid>f524cddd-3ba3-485d-a19f-46fadc0ffbe0</webElementGuid>
+      <webElementGuid>cd8f2a7b-c231-44a4-ab06-88e0c0175fc1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Selenium WebDriver With Java Course Cover Image']</value>
-      <webElementGuid>3ffbd46c-6f0f-44ef-a6e8-f445de9e7d20</webElementGuid>
+      <webElementGuid>218fbd33-eb8a-4712-9dcd-f565a3bc910d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//img</value>
-      <webElementGuid>33c8d6a9-3a66-447c-85ff-8d0ce58cf98c</webElementGuid>
+      <webElementGuid>32a3deb3-d12f-49f2-b1db-2d2bc0d5c797</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,6 +90,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = '/images/courses/selenium_2_webdriver_75pc.jpg' and @alt = 'Selenium WebDriver With Java Course Cover Image']</value>
-      <webElementGuid>b12ed790-dcd7-4124-82bd-af60c38177c7</webElementGuid>
+      <webElementGuid>66f60137-c1e2-488e-935f-eb1809a1bb31</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
