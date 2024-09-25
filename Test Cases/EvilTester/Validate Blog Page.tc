@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate Blog Page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a7cfb0f4-0306-4481-9373-f407682d15e5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>da53ae4c-80ab-4aac-944c-27446fe9392d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>da53ae4c-80ab-4aac-944c-27446fe9392d</id>
+      <masked>false</masked>
+      <name>pageURL</name>
+   </variable>
+</TestCaseEntity>

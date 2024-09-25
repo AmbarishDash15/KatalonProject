@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_hacking-javascript-ebook</name>
+   <tag></tag>
+   <elementGuidId>44057956-f982-477c-9baf-c8cb17490272</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_Software Testing Books Written By Alan Richardson - EvilTester.com/img_hacking-javascript-ebook.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#hacking-javascript-ebook + p > a > img</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_Software Testing Books Written By Alan Richardson - EvilTester.com/img_hacking-javascript-ebook.png</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main-content']/div[2]/p[30]/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>p:nth-child(40) > a</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>f7c92b1a-bead-4de8-8283-a6c63157212a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/images/ebooks/hacking-js-ebook-cover-100x120.png</value>
+      <webElementGuid>4f9343e9-7831-469d-954a-b3799c8db300</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;book-image-center&quot;]/p[30]/a[1]/img[1]</value>
+      <webElementGuid>c2a884ad-2923-4ba9-8771-2584f19211a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/div[2]/p[30]/a/img</value>
+      <webElementGuid>7be37951-6cbd-45b9-9cd4-a710938df4fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[30]/a/img</value>
+      <webElementGuid>bfb28a05-a662-419d-ac1b-2d07270c7a36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/images/ebooks/hacking-js-ebook-cover-100x120.png']</value>
+      <webElementGuid>a9e5d877-b4ac-4ec9-97a7-6edd53c90248</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate Training - Java Script</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5f87f1de-603e-46d1-b5fc-aa7f37cb1fda</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9691b8ab-b8f3-49bd-a7ee-b2be571bad77</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>33bdc538-059f-4baa-94a1-9288dd6bae06</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9691b8ab-b8f3-49bd-a7ee-b2be571bad77</id>
+      <masked>false</masked>
+      <name>pageURL</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>33bdc538-059f-4baa-94a1-9288dd6bae06</id>
+      <masked>false</masked>
+      <name>linkURL</name>
+   </variable>
+</TestCaseEntity>

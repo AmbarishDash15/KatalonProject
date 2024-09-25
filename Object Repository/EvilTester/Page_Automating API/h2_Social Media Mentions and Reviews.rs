@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Social Media Mentions and Reviews</name>
+   <tag></tag>
+   <elementGuidId>79aee6ba-a831-47e0-bf93-8124d8ffe8d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#social-media-mentions-and-reviews</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='social-media-mentions-and-reviews']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Social Media Mentions and Reviews&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>ab7c32e8-5f1e-4148-8f6e-ab0b0efb3a7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>social-media-mentions-and-reviews</value>
+      <webElementGuid>ebc36bf2-55ec-451f-8e92-3583cda0faca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Social Media Mentions and Reviews</value>
+      <webElementGuid>2e6b6815-40d7-4ad0-8df3-11ba8e4b1cd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;social-media-mentions-and-reviews&quot;)</value>
+      <webElementGuid>57b9c4c2-fdcc-4250-99b7-4881e810104b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='social-media-mentions-and-reviews']</value>
+      <webElementGuid>fc759ea6-868d-40ce-bbb2-e23d29828b9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/h2[3]</value>
+      <webElementGuid>4591f115-3009-482e-86a4-11e220dad6b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='book support page'])[1]/following::h2[1]</value>
+      <webElementGuid>0631cf2d-46db-487f-ba86-922a328950c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Related Reading'])[1]/following::h2[1]</value>
+      <webElementGuid>071de45a-d674-442e-9575-05290ef0f138</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Join The Evil Tester Patreon Community'])[1]/preceding::h2[1]</value>
+      <webElementGuid>b2e341a2-363f-4b49-8e4c-9065d76b4428</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Social Media Mentions and Reviews']/parent::*</value>
+      <webElementGuid>c54a8806-4a23-4641-a116-e77e702b72fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2[3]</value>
+      <webElementGuid>99a047de-9f0b-40ae-8aa6-b5c931cd75e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'social-media-mentions-and-reviews' and (text() = 'Social Media Mentions and Reviews' or . = 'Social Media Mentions and Reviews')]</value>
+      <webElementGuid>6a286f5e-aa4d-4706-b251-99339267ad6e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

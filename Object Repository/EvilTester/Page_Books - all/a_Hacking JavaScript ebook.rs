@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Hacking JavaScript ebook</name>
+   <tag></tag>
+   <elementGuidId>f44a2224-2e91-46ac-8ae5-a79b7a8b011a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.jumbotron > ul:nth-child(5) > li > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main-content']/div/ul[2]/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Hacking JavaScript ebook&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c8741dd4-596c-439c-a7e1-0d865aa498cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#hacking-javascript-ebook</value>
+      <webElementGuid>25514a64-ae44-4a2a-beb4-4bdd82317292</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hacking JavaScript ebook</value>
+      <webElementGuid>fc369b9d-0cb3-4337-827b-989ba43aac64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;jumbotron&quot;]/ul[2]/li[1]/a[1]</value>
+      <webElementGuid>c31ddb80-9e9f-49dc-aa8f-e1f6804dcfa6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/div/ul[2]/li/a</value>
+      <webElementGuid>cbc64965-1f16-49ef-aa1c-e3a208427a60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Hacking JavaScript ebook')]</value>
+      <webElementGuid>2abc56ed-befc-4852-b557-54e4f946ae39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='An Interactive COBOL Interpreter and JSP Debugger'])[1]/following::a[1]</value>
+      <webElementGuid>586ccfba-5f59-488e-85b8-7b36163c1514</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Migrating Selenium 1 to Selenium 2'])[1]/following::a[2]</value>
+      <webElementGuid>4c7e380c-e9f5-4a13-a970-80c6f0374593</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Java For Testers'])[3]/preceding::a[1]</value>
+      <webElementGuid>2d13bb93-5b30-43b7-8502-b71fa6ff8982</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hacking JavaScript ebook']/parent::*</value>
+      <webElementGuid>7de014a5-30d1-45c0-9958-5933fdb4de42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#hacking-javascript-ebook')])[2]</value>
+      <webElementGuid>53af9839-2dbf-4e15-a814-fa1acfbdb265</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li/a</value>
+      <webElementGuid>b672df8b-8af2-4a41-95c1-e8fb531b2fa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#hacking-javascript-ebook' and (text() = 'Hacking JavaScript ebook' or . = 'Hacking JavaScript ebook')]</value>
+      <webElementGuid>f067abae-b7b7-4139-8c78-d70c5458bfb3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

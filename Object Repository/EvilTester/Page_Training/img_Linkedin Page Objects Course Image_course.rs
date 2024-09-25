@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Linkedin Page Objects Course Image_course</name>
+   <tag></tag>
+   <elementGuidId>52e63294-8812-412d-b330-708763c96747</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#selenium-webdriver-page-objects-and-abstractions + p > a > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main-content']/div[2]/p[14]/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Linkedin Page Objects Course Image&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>71707e1f-0f94-436e-af71-5b47d1c043b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/images/courses/linkedinlearning/page-objects-240x135.jpg</value>
+      <webElementGuid>6d7abc36-f4c1-4fbc-8685-3797a9fd564b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Linkedin Page Objects Course Image</value>
+      <webElementGuid>54da6374-908f-4c00-bc32-69946be9cf06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;course-image-center&quot;]/p[14]/a[1]/img[1]</value>
+      <webElementGuid>b424d53f-6be7-4b7c-a1e1-2948046b51b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/div[2]/p[14]/a/img</value>
+      <webElementGuid>ee01c093-e06c-4c77-9b4b-2d915d2254d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Linkedin Page Objects Course Image']</value>
+      <webElementGuid>4dceda81-320e-4ec2-9e74-edcba7413288</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[14]/a/img</value>
+      <webElementGuid>4ef1dbd1-1225-4e5f-92eb-8e7aab70e875</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/images/courses/linkedinlearning/page-objects-240x135.jpg' and @alt = 'Linkedin Page Objects Course Image']</value>
+      <webElementGuid>6aa350d6-79ad-4cd6-b5a6-c81d32344920</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

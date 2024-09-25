@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Java For Testers</name>
+   <tag></tag>
+   <elementGuidId>2b769095-715c-4739-b1b0-8dd0604abc53</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.jumbotron > ul:nth-child(3) > li:nth-child(1) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main-content']/div/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#main-content a >> internal:has-text=/^Java For Testers$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b47ec6ef-aaf8-49cb-ae24-9ed60b0bcc5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#java-for-testers</value>
+      <webElementGuid>2ad7b88e-161d-4ddc-a098-c08bc0b67a89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Java For Testers</value>
+      <webElementGuid>eefe1fa7-525e-4de4-9196-23f7a8797e66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;jumbotron&quot;]/ul[1]/li[1]/a[1]</value>
+      <webElementGuid>14ce4c04-50ec-490f-bba1-ca3732bf2a10</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/div/ul/li/a</value>
+      <webElementGuid>855ef5e4-c88e-4420-b18c-c1d9a2222bb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Java For Testers')])[2]</value>
+      <webElementGuid>38d25b8e-8039-4a38-908d-9924e6b4a9e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Books Written By Alan Richardson'])[1]/following::a[8]</value>
+      <webElementGuid>2d77755f-8ac6-4ee8-a871-0d2ea01f24df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Form'])[1]/following::a[8]</value>
+      <webElementGuid>9d20033a-cc20-4282-abad-5303c6d4597c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dear Evil Tester'])[2]/preceding::a[1]</value>
+      <webElementGuid>f0c32ae5-962c-4f49-9b4e-e078028c7857</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automating and Testing a REST API'])[1]/preceding::a[2]</value>
+      <webElementGuid>9b862e5d-205c-4247-8b60-66b310e52d0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#java-for-testers')])[2]</value>
+      <webElementGuid>8a17e060-d592-4e60-923c-9e0168fa0cb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/ul/li/a</value>
+      <webElementGuid>a79eddcd-b8bc-4a3d-b83b-4828d69df118</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#java-for-testers' and (text() = 'Java For Testers' or . = 'Java For Testers')]</value>
+      <webElementGuid>a80296ba-be90-48b5-88ef-28ad6485b4f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

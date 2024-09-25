@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Automating in the Browser with JavaScript</name>
+   <tag></tag>
+   <elementGuidId>55d90988-9ca5-4b20-80ef-5f70942d4437</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#automating-in-the-browser-with-javascript</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='automating-in-the-browser-with-javascript']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Automating in the Browser with JavaScript&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>e6ae9341-f411-461c-b23e-21aba64f1e38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>automating-in-the-browser-with-javascript</value>
+      <webElementGuid>f978e7b2-2bc3-47b7-a439-3357d685a12a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Automating in the Browser with JavaScript</value>
+      <webElementGuid>57f2f64b-c3aa-459a-b928-ed2f0722cb89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;automating-in-the-browser-with-javascript&quot;)</value>
+      <webElementGuid>40e1d65d-1fdb-44d3-a699-88e68b4b0016</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='automating-in-the-browser-with-javascript']</value>
+      <webElementGuid>30b98034-9623-4b37-8027-7c97e5a90dd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/div[2]/h2[10]</value>
+      <webElementGuid>058a0f4c-e601-4be9-8d5f-5bf01d77c1e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn some Technical Testing'])[1]/following::h2[1]</value>
+      <webElementGuid>8de701f2-867a-4dbc-87a1-08ee9708a9d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Protect The Square'])[2]/following::h2[1]</value>
+      <webElementGuid>472cb03a-583f-4563-be09-69093045985b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn some JavaScript'])[1]/preceding::h2[1]</value>
+      <webElementGuid>26714b3e-9576-44e5-8290-d168ff73bcbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Course Support Page'])[1]/preceding::h2[1]</value>
+      <webElementGuid>05de5af0-ade3-4753-adc6-4d742dd7849b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2[10]</value>
+      <webElementGuid>d775690c-3f2d-40ab-93af-a15a6b33ab84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'automating-in-the-browser-with-javascript' and (text() = 'Automating in the Browser with JavaScript' or . = 'Automating in the Browser with JavaScript')]</value>
+      <webElementGuid>e49a6de6-41bc-4c98-bbcf-0e3fa3a46140</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

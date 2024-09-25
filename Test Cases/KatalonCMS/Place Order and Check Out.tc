@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Place Order and Check Out</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f2ec68f0-496c-4bd1-a057-9ccf1a0cdf98</testCaseGuid>
+</TestCaseEntity>

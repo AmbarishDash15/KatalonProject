@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_java for tester</name>
+   <tag></tag>
+   <elementGuidId>ecffebd6-24c5-430d-8162-3c4b33754fdd</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_Software Testing Books Written By Alan Richardson - EvilTester.com/img.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#java-for-testers + p > a > img</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_Software Testing Books Written By Alan Richardson - EvilTester.com/img.png</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main-content']/div[2]/p/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.book-image-center > p > a >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>94a789a3-f8f1-46eb-80dc-231b7bd52caf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/dominion_images/books/smallJavaForTestersCover.png</value>
+      <webElementGuid>2a9649f1-9847-4932-a111-319888bf18fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;book-image-center&quot;]/p[1]/a[1]/img[1]</value>
+      <webElementGuid>2c771fe8-0ad6-41c3-91c7-6dee550ec2f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/div[2]/p/a/img</value>
+      <webElementGuid>b6e35136-b3d4-448b-b02d-17c9d2ad951f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p/a/img</value>
+      <webElementGuid>e96062f4-ae98-4bef-a2fb-2d331c63d40b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/dominion_images/books/smallJavaForTestersCover.png']</value>
+      <webElementGuid>627e4825-cf0e-485a-90f0-e6a56cc999ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Migrating Selenium 1 to Selenium 2</name>
+   <tag></tag>
+   <elementGuidId>e78cd3e6-e7ac-41ae-a685-7ca17e8864ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#migrating-selenium-1-to-selenium-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='migrating-selenium-1-to-selenium-2']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Migrating Selenium 1 to Selenium 2&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>fd13ec04-ba0b-40b6-b5ee-21b1e5f38659</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>migrating-selenium-1-to-selenium-2</value>
+      <webElementGuid>f66329dd-ccac-4d24-aae1-d7f5f9c2b195</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Migrating Selenium 1 to Selenium 2</value>
+      <webElementGuid>ad2f69bf-c54e-4b3e-9807-5c5d3a779324</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;migrating-selenium-1-to-selenium-2&quot;)</value>
+      <webElementGuid>c89ae4f2-96e8-4d45-8bfe-aa2909cef150</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='migrating-selenium-1-to-selenium-2']</value>
+      <webElementGuid>abf15a96-b624-46e5-9c0a-9e1acc8498fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/div[2]/h2[5]</value>
+      <webElementGuid>54b14abc-19f4-4715-96e3-bb661e6b08b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More about the book and free download links'])[1]/following::h2[1]</value>
+      <webElementGuid>735ed90a-6a8c-45a1-a769-46b91abbf42c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selenium Simplified'])[2]/following::h2[1]</value>
+      <webElementGuid>58e16644-0de6-4c2b-985b-c4d4bf95c48c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download as a free pdf'])[1]/preceding::h2[1]</value>
+      <webElementGuid>5a4a918c-73bc-433e-a8ec-d55abe5f61d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='An Interactive COBOL Interpreter and JSP Debugger'])[2]/preceding::h2[1]</value>
+      <webElementGuid>2d72bc6a-5b41-4994-a01f-79e7e95972b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2[5]</value>
+      <webElementGuid>800f7653-9950-43e8-8621-29ffa8f40ec5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'migrating-selenium-1-to-selenium-2' and (text() = 'Migrating Selenium 1 to Selenium 2' or . = 'Migrating Selenium 1 to Selenium 2')]</value>
+      <webElementGuid>4921eb0c-13ea-43fa-911e-38c8842561bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

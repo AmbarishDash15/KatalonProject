@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Read a .pdf Sample</name>
+   <tag></tag>
+   <elementGuidId>335ec4e4-fe19-457a-9ea2-eaa43b3fe044</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.jumbotron > div > a:nth-child(3)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main-content']/div/div/a[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;[Read a .pdf Sample]&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6f841dd5-8600-4136-9b1b-6ba7496bcaea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-lg btn-primary</value>
+      <webElementGuid>97db0cf0-9a85-4625-b292-6bd4ec7c8f9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://samples.leanpub.com/testrestapi-sample-preview.pdf</value>
+      <webElementGuid>a37ab699-0592-4aef-83cc-325dbd5cbfcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>b3bb2014-108c-4bee-ad68-c7e660dda7fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noopener noreferrer</value>
+      <webElementGuid>07380584-1ca6-43c4-8b05-e0037783509a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>[Read a .pdf Sample]</value>
+      <webElementGuid>23751025-1197-4741-993c-2a283350a032</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;jumbotron&quot;]/div[1]/a[@class=&quot;btn btn-lg btn-primary&quot;]</value>
+      <webElementGuid>f401fc69-824e-4e91-b046-d69143e4d6df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/div/div/a[3]</value>
+      <webElementGuid>f1e7b2fb-da7b-42be-aea0-b2ec6f01e0d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'[Read a .pdf Sample]')]</value>
+      <webElementGuid>371df373-406e-4565-824b-cf78f72c57b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amazon'])[1]/following::a[1]</value>
+      <webElementGuid>231811b6-8204-4f15-a8c5-c22440513ece</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy the ebook'])[1]/following::a[2]</value>
+      <webElementGuid>4177af1e-7a7b-4f9d-a1ed-16b5ad8cb9b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[Read sample online]'])[1]/preceding::a[1]</value>
+      <webElementGuid>af31d25d-5d00-43a1-a10a-bd359cd88337</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[Book Support Page]'])[1]/preceding::a[2]</value>
+      <webElementGuid>09e3d37f-a0e3-410f-aa2f-8dc162a61f9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='[Read a .pdf Sample]']/parent::*</value>
+      <webElementGuid>305573f1-ffbf-4bb8-902d-d8fcbee6b3e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://samples.leanpub.com/testrestapi-sample-preview.pdf']</value>
+      <webElementGuid>bdada9f4-8171-4dc1-ba89-26712bc6cf32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]</value>
+      <webElementGuid>4e1fdb93-4c5c-4db6-81ae-db85bd54a749</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://samples.leanpub.com/testrestapi-sample-preview.pdf' and (text() = '[Read a .pdf Sample]' or . = '[Read a .pdf Sample]')]</value>
+      <webElementGuid>29828722-5b3a-4dee-8927-3d1fb437c32a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

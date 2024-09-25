@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Selenium WebDriver With Java</name>
+   <tag></tag>
+   <elementGuidId>822c1da3-fd31-4e84-8cab-31e7fb9fba45</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#selenium-webdriver-with-java</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='selenium-webdriver-with-java']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Selenium WebDriver With Java&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>7c25fff9-38d5-481b-8867-646955368555</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>selenium-webdriver-with-java</value>
+      <webElementGuid>e39c015e-20bd-467f-bd11-874d7b7ddf05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selenium WebDriver With Java</value>
+      <webElementGuid>cd89a7d4-a9a4-4778-a654-618771bfbf66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;selenium-webdriver-with-java&quot;)</value>
+      <webElementGuid>1d8bde8c-4ef8-4534-b485-758b29cd7535</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='selenium-webdriver-with-java']</value>
+      <webElementGuid>8f78a778-d5da-4f61-81f7-08731719610a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/div[2]/h2</value>
+      <webElementGuid>6a0ba77b-59d0-432d-98ef-89087260a121</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Case Study : Java Desktop Application Technical Testing'])[1]/following::h2[1]</value>
+      <webElementGuid>cc2c2e31-5403-4e08-9c2f-586bce6cc900</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How I Test - Web App'])[1]/following::h2[1]</value>
+      <webElementGuid>7e1caba2-e52b-4514-ae57-20e0a153f382</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='“Everything you ever wanted to know about … but did not even know the questions”'])[1]/preceding::h2[1]</value>
+      <webElementGuid>002bbc11-6b7a-4950-a2ce-c383bba9b3dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='“Excellent coverage and code examples!”'])[1]/preceding::h2[1]</value>
+      <webElementGuid>d69b478e-7e01-4714-807f-8366eb4179a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Selenium WebDriver With Java']/parent::*</value>
+      <webElementGuid>0477ef6e-aa90-4a11-9b2c-76a698b88bb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>9374f4f0-0b79-4469-947c-9b50bb0b6448</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'selenium-webdriver-with-java' and (text() = 'Selenium WebDriver With Java' or . = 'Selenium WebDriver With Java')]</value>
+      <webElementGuid>7893a1e0-12e7-4a44-a5f6-a3d0ee660c62</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

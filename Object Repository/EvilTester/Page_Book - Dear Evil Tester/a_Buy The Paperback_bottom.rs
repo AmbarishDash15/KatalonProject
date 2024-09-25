@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Buy The Paperback_bottom</name>
+   <tag></tag>
+   <elementGuidId>8eea0a5a-c8df-4bc4-9973-820d8520cc99</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main-content']/div[3]/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.row:nth-child(7) > div:nth-child(2) > a:nth-child(1)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Buy The Paperback&quot;i] >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1c76eb33-838d-44f7-a86c-3787d034ac35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-lg btn-primary</value>
+      <webElementGuid>a02b753a-5bbb-41f9-bb46-614dd58490fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://www.amazon.com/exec/obidos/ASIN/0956733271</value>
+      <webElementGuid>81543082-895f-451b-8126-3d135849333d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>9bfb95ad-239d-4429-904b-f3cf3c213893</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noopener noreferrer</value>
+      <webElementGuid>c91d6634-a4d8-482f-b597-529685896caa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Buy The Paperback</value>
+      <webElementGuid>62d8cbef-cebc-4bf1-9dac-a090138dc956</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/a[@class=&quot;btn btn-lg btn-primary&quot;]</value>
+      <webElementGuid>caa58617-8c24-4b53-9d4a-853592f67f31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/div[3]/div[2]/a</value>
+      <webElementGuid>35c429d9-eab0-429f-a1d9-3c5f84392f3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Buy The Paperback')])[2]</value>
+      <webElementGuid>a2d5e75c-ed88-4765-ae99-67e859c4ec69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy The eBook'])[2]/following::a[1]</value>
+      <webElementGuid>8ac40c4c-6c32-4aac-8acc-df02b32e0da6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='“Dear Evil Tester” is available to purchase now.'])[1]/following::a[2]</value>
+      <webElementGuid>bd57c7ce-f641-4a9a-b33c-40bb6f7b74aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read what our early reviewers had to say:'])[1]/preceding::a[1]</value>
+      <webElementGuid>c936db1f-8072-4f6a-a987-4cb8f154ffc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='“Wonderful stuff there. Real deep.”'])[1]/preceding::a[1]</value>
+      <webElementGuid>5dc8d1f7-4e52-4600-96d2-10031cd912cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[@href='http://www.amazon.com/exec/obidos/ASIN/0956733271'])[2]</value>
+      <webElementGuid>159cfe77-53ea-4d31-bc0d-fc5e2717bea2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/a</value>
+      <webElementGuid>a0d87c6c-edb4-4673-8c7d-9cce46740d24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://www.amazon.com/exec/obidos/ASIN/0956733271' and (text() = 'Buy The Paperback' or . = 'Buy The Paperback')]</value>
+      <webElementGuid>f4dfcd6c-0b60-4f47-be0f-e53cbbd766fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

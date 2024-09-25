@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate Books - Dear Evil Tester</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8811e484-bc95-489b-8f5e-9f426c826694</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e10cd8d3-2ba4-4fdf-bb1a-00d78b00e3ab</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0cc68c88-28d9-400e-ac4b-3d91bba219dd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e10cd8d3-2ba4-4fdf-bb1a-00d78b00e3ab</id>
+      <masked>false</masked>
+      <name>pageURL</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0cc68c88-28d9-400e-ac4b-3d91bba219dd</id>
+      <masked>false</masked>
+      <name>linkherf</name>
+   </variable>
+</TestCaseEntity>

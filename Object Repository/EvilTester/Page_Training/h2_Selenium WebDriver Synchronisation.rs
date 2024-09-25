@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Selenium WebDriver Synchronisation</name>
+   <tag></tag>
+   <elementGuidId>950e7528-f360-4632-b541-0163b4d11b53</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#selenium-webdriver-synchronisation</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='selenium-webdriver-synchronisation']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Selenium WebDriver Synchronisation&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>bf47267f-73d4-4e20-855b-532819898954</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>selenium-webdriver-synchronisation</value>
+      <webElementGuid>f14f9920-d873-428e-a8fe-f1d4769e0a92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selenium WebDriver Synchronisation</value>
+      <webElementGuid>98c02555-d7bf-4e4a-8ad8-8fffe29833ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;selenium-webdriver-synchronisation&quot;)</value>
+      <webElementGuid>2a5150c2-7c21-4475-98e6-7d06fa72e057</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='selenium-webdriver-synchronisation']</value>
+      <webElementGuid>35682d78-d485-4cfe-9402-157d1a7e3e08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/div[2]/h2[3]</value>
+      <webElementGuid>3c7e39d0-9311-4f3d-be76-10a02bdc68ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dive into the Support Classes'])[1]/following::h2[1]</value>
+      <webElementGuid>b7d50e61-e924-4e4c-9026-f7ea11bd31aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selenium WebDriver Support Classes With Java'])[1]/following::h2[1]</value>
+      <webElementGuid>6ad8fda6-4ae3-4373-be65-7b4175234fa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn to Avoid Flaky Automation'])[1]/preceding::h2[1]</value>
+      <webElementGuid>268b95ad-2985-4a07-bb1d-a0eb8f19f900</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View course on Linkedin Learning'])[1]/preceding::h2[1]</value>
+      <webElementGuid>188c50b9-12cd-4b4f-98d4-0ee2e6a8d84a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2[3]</value>
+      <webElementGuid>a77e65dd-db2a-4fce-a6d5-880701390707</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'selenium-webdriver-synchronisation' and (text() = 'Selenium WebDriver Synchronisation' or . = 'Selenium WebDriver Synchronisation')]</value>
+      <webElementGuid>3d5cbb1c-57b7-4104-b497-91f02571a995</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

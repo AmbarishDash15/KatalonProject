@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>youTubeContainer</name>
+   <tag></tag>
+   <elementGuidId>013ac10c-95a5-4337-aef5-be54a9d461cb</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div[4]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.video-container > iframe[src='https://www.youtube.com/embed/ObEZh3mApJw']</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//DIV[@class = 'ytp-cued-thumbnail-overlay-image']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>4a9c0b7a-d451-4a48-aa83-8268c9d98342</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ytp-cued-thumbnail-overlay-image</value>
+      <webElementGuid>1a043e58-83a7-4fb9-998f-8f47aae58329</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

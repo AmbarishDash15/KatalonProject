@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate Training - Evil Tester Talk</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7d80ee43-d2f7-4920-ba20-3490c0b79258</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ef073c45-53f9-4fe4-a22d-72492aa73090</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>33567828-378a-4005-b396-511a315c5207</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ef073c45-53f9-4fe4-a22d-72492aa73090</id>
+      <masked>false</masked>
+      <name>pageURL</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>33567828-378a-4005-b396-511a315c5207</id>
+      <masked>false</masked>
+      <name>linkURL</name>
+   </variable>
+</TestCaseEntity>

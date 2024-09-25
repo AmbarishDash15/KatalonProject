@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Protect The Square</name>
+   <tag></tag>
+   <elementGuidId>2c34c874-1397-4b3a-b237-93096bad35ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#protect-the-square</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='protect-the-square']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Protect The Square&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>8d73a915-d504-4ecd-8999-eb835858ce80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>protect-the-square</value>
+      <webElementGuid>c9010969-5320-4797-b570-b0aeab066951</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Protect The Square</value>
+      <webElementGuid>3ae21809-68ef-4233-998d-a3f4950dd4cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;protect-the-square&quot;)</value>
+      <webElementGuid>c2510655-7644-4992-be50-45a68fc61a3c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='protect-the-square']</value>
+      <webElementGuid>fba909e0-7379-4464-b76c-5311c0215ed0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/div[2]/h2[9]</value>
+      <webElementGuid>56c61e38-f8c8-4884-985c-d96c2093afd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn how to audit your Test Ability'])[1]/following::h2[1]</value>
+      <webElementGuid>0583b57d-6ac0-4467-b5d5-428b67cb1430</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Ability Audit'])[2]/following::h2[1]</value>
+      <webElementGuid>948b5ea5-69ef-4ddf-b7b8-125a74999776</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn some Technical Testing'])[1]/preceding::h2[1]</value>
+      <webElementGuid>6ca810fa-82c0-45cd-bf8b-1c7cd774b36b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automating in the Browser with JavaScript'])[2]/preceding::h2[1]</value>
+      <webElementGuid>e3ec53af-c212-4c20-9922-02cf75892b30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2[9]</value>
+      <webElementGuid>03944b60-95b7-4b13-94eb-35101e665750</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'protect-the-square' and (text() = 'Protect The Square' or . = 'Protect The Square')]</value>
+      <webElementGuid>06857e5f-cb73-401e-adc3-86d0dc378bf9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

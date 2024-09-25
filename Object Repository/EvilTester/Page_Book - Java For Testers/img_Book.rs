@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Book</name>
+   <tag></tag>
+   <elementGuidId>2ce01236-4f09-4408-8f24-180d40d0858a</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_Java For Testers Book by Alan Richardson - EvilTester.com/img_Book.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main-content']/div/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.col-md-4 > img:nth-child(1)</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_Java For Testers Book by Alan Richardson - EvilTester.com/img_Book.png</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>IMAGE</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#main-content >> internal:role=img</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ac4da98d-09b3-4f5a-9bb4-a81db17a7ea8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/dominion_images/books/javafortesters/20150904_physical_createspace_trans_231x332.png</value>
+      <webElementGuid>f132cd28-c540-4934-aca8-ca597b8571ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;jumbotron&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4&quot;]/img[1]</value>
+      <webElementGuid>62b416bf-f85d-4afb-b5f1-76c73c382216</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/div/div/div/img</value>
+      <webElementGuid>0a120715-7d1b-4ea2-8cd1-9ec2ab76ccc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>e976454f-594e-4e9a-a86f-69528c3036b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/dominion_images/books/javafortesters/20150904_physical_createspace_trans_231x332.png']</value>
+      <webElementGuid>ca189529-522e-422a-8c63-2a9cbc3dc511</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

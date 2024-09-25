@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Technical Web Testing 101</name>
+   <tag></tag>
+   <elementGuidId>307cedf1-aa40-42c8-a6c1-4ae39256368c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#technical-web-testing-101</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='technical-web-testing-101']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Technical Web Testing 101&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>ee143c19-dd92-4068-9127-6cd5f9a6f398</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>technical-web-testing-101</value>
+      <webElementGuid>1d605e00-5c2d-4b82-b802-49125daa3203</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Technical Web Testing 101</value>
+      <webElementGuid>5cf70606-1130-4e55-917a-a51ba2d6fc16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;technical-web-testing-101&quot;)</value>
+      <webElementGuid>dcafbe4d-b0d8-451f-995d-25c84789c024</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='technical-web-testing-101']</value>
+      <webElementGuid>e742cd62-3b10-4f77-a65c-c5b5cfaee546</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/div[2]/h2[5]</value>
+      <webElementGuid>88ab3df6-e9e0-4e8f-9cb9-0441c2500b64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn Abstractions'])[1]/following::h2[1]</value>
+      <webElementGuid>1dd5f2c8-cc93-4a68-80dd-091af375e8e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selenium WebDriver Page Objects and Abstractions'])[1]/following::h2[1]</value>
+      <webElementGuid>f3cf5d47-13cd-4668-b69e-dbdb44258ed1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='“Very easy to comprehend in good bite size portions”'])[1]/preceding::h2[1]</value>
+      <webElementGuid>d6fafbc4-2d47-4db5-8ca0-260342a3adf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='“This course will act as a great catalyst to future learning. Great stuff!!!!”'])[1]/preceding::h2[1]</value>
+      <webElementGuid>323a8eab-5257-4f63-a022-e983e501b2d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2[5]</value>
+      <webElementGuid>64e00989-9c64-41a3-bbbb-41cf38a61e01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'technical-web-testing-101' and (text() = 'Technical Web Testing 101' or . = 'Technical Web Testing 101')]</value>
+      <webElementGuid>4655ae0d-0d49-4995-ae8f-d840825b8c42</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

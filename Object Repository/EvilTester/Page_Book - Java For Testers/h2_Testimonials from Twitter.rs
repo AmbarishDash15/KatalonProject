@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Testimonials from Twitter</name>
+   <tag></tag>
+   <elementGuidId>44f2d86e-e357-4f00-bea0-7a844e034999</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='testimonials-from-twitter']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#testimonials-from-twitter</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Testimonials from Twitter&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>036f23be-a3a9-484f-8659-0f1d0d4c2b23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>testimonials-from-twitter</value>
+      <webElementGuid>52a0d38d-0407-4b48-9a45-994653512f38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Testimonials from Twitter</value>
+      <webElementGuid>329a409e-ffa8-489f-856e-84f70ef6dabe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;testimonials-from-twitter&quot;)</value>
+      <webElementGuid>e45da45b-60fa-4342-80f4-c9bdafc46b70</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='testimonials-from-twitter']</value>
+      <webElementGuid>2ed4a55f-ddd7-4b88-92bc-0461bf587b43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/h2[5]</value>
+      <webElementGuid>c28eb746-53a6-47cf-83e4-d71de38885ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read a Sample'])[2]/following::h2[1]</value>
+      <webElementGuid>8cb447a8-ef9d-4bea-8ff2-32736d99867b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy The Paperback'])[2]/following::h2[1]</value>
+      <webElementGuid>051d1f93-d270-4fe8-b3cb-0c5b4762d08c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Some Java For Testers feedback'])[1]/preceding::h2[1]</value>
+      <webElementGuid>4f84de8c-a1e4-431a-a53f-c71732d79df1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Join The Evil Tester Patreon Community'])[1]/preceding::h2[1]</value>
+      <webElementGuid>e0dab50e-f063-4c61-bf88-d3e4fa58763e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Testimonials from Twitter']/parent::*</value>
+      <webElementGuid>d69ab7d4-c829-4f5e-9b89-cf887a3d30fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2[5]</value>
+      <webElementGuid>e2fe5c1e-99d9-45db-b9a5-06ff021a34dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'testimonials-from-twitter' and (text() = 'Testimonials from Twitter' or . = 'Testimonials from Twitter')]</value>
+      <webElementGuid>e782abb6-95e7-454e-91c9-711e8b0022ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

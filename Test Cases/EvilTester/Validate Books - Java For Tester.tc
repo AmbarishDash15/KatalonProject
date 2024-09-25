@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate Books - Java For Tester</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>92221fa0-c19f-4860-ab95-3df0b62716ee</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a241e774-c53a-4d9e-acfc-629394c46ec8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bb05662d-d52e-440c-a5dd-6ff860dcd2c8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a241e774-c53a-4d9e-acfc-629394c46ec8</id>
+      <masked>false</masked>
+      <name>pageURL</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bb05662d-d52e-440c-a5dd-6ff860dcd2c8</id>
+      <masked>false</masked>
+      <name>linkherf</name>
+   </variable>
+</TestCaseEntity>

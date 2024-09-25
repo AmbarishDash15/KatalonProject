@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_All Posts</name>
+   <tag></tag>
+   <elementGuidId>8b8ce9e4-b244-405c-b819-694f363efd9f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main']/div/div[2]/p/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.jumbotron > p:nth-child(2) > a:nth-child(1)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;All Posts&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>adb713c4-0e13-4790-aeec-efa149c4725c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/blog/</value>
+      <webElementGuid>91bcf45b-68e9-461c-b74d-1051121ccd57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All Posts</value>
+      <webElementGuid>05b5165f-9e7f-42a6-8265-0a13ad1215d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;jumbotron&quot;]/p[1]/a[1]</value>
+      <webElementGuid>44d7a148-e2de-4f0e-be7f-5c64cd439ed4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main']/div/div[2]/p/a</value>
+      <webElementGuid>77548e4e-a5d1-41af-9442-c450acbeb47c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'All Posts')]</value>
+      <webElementGuid>46d5732b-35a2-4250-9b86-bccb677789c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RSS'])[1]/following::a[1]</value>
+      <webElementGuid>1882efb2-3ac5-44e6-a0a6-59a314f296ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog Posts'])[1]/following::a[2]</value>
+      <webElementGuid>c4aaf5c9-1c7b-4dfe-9cfd-c2f7deffc77e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Categories'])[1]/preceding::a[1]</value>
+      <webElementGuid>dba220fb-f939-4698-8edd-3a370c90868c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Archive'])[1]/preceding::a[2]</value>
+      <webElementGuid>ed836bb4-c1c1-47ae-a663-6e93b2fd1704</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/blog/')])[2]</value>
+      <webElementGuid>a4bb73fe-3063-4250-805c-b3ea390cdb83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p/a</value>
+      <webElementGuid>d1590a6c-6865-4948-afc6-7902b802b54e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/blog/' and (text() = 'All Posts' or . = 'All Posts')]</value>
+      <webElementGuid>53ad77f5-3a74-4be2-b586-1388af784ad5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

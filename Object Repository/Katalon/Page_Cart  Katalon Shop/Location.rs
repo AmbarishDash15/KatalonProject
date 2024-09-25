@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Location</name>
+   <tag></tag>
+   <elementGuidId>2da30a05-e6bd-432f-853a-1ea730c82929</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-8']/div/div/div[2]/div/table/tbody/tr[2]/td/p/strong</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Flat rate: $20.00 Shipping to Australia. Change address&quot;i] >> internal:role=strong</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>6b9ce40d-040c-4807-a94d-c71b65ec0ade</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Australia</value>
+      <webElementGuid>24e9825d-1a7b-46c0-8fe8-10da697f2a9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-8&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;woocommerce&quot;]/div[@class=&quot;cart-collaterals&quot;]/div[@class=&quot;cart_totals&quot;]/table[@class=&quot;shop_table shop_table_responsive&quot;]/tbody[1]/tr[@class=&quot;woocommerce-shipping-totals shipping&quot;]/td[1]/p[@class=&quot;woocommerce-shipping-destination&quot;]/strong[1]</value>
+      <webElementGuid>082beffe-408d-4c65-a1bc-f0753b595dc3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-8']/div/div/div[2]/div/table/tbody/tr[2]/td/p/strong</value>
+      <webElementGuid>e689c034-5132-4ee3-a38b-52391c47462a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$'])[4]/following::strong[1]</value>
+      <webElementGuid>39d0386d-2fde-41a2-b650-44641424e023</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update'])[1]/preceding::strong[1]</value>
+      <webElementGuid>54e5123a-3ea8-4827-be32-5c7fa21b43c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[2]/preceding::strong[1]</value>
+      <webElementGuid>8e80a97c-d1c0-4217-8a99-11dee8010967</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Australia']/parent::*</value>
+      <webElementGuid>29be3d29-6204-4c56-b53d-851198d8a83d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong</value>
+      <webElementGuid>92f02752-f0b5-4488-b519-6aec455c6377</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'Australia' or . = 'Australia')]</value>
+      <webElementGuid>3d2ed0b4-c473-4ab5-95d1-1b770ce55a2b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

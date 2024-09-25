@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Selenium Simplified</name>
+   <tag></tag>
+   <elementGuidId>6c97e0a8-5dd7-4edc-a078-f054f3cc527b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#selenium-simplified</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='selenium-simplified']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Selenium Simplified&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>4d29d9e0-8694-4885-8ec8-cb97377a1d01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>selenium-simplified</value>
+      <webElementGuid>1ed35062-f5d2-4c9c-a99a-324af1b812f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selenium Simplified</value>
+      <webElementGuid>968fc01d-4c06-4264-ac9a-f78dc0818ac6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;selenium-simplified&quot;)</value>
+      <webElementGuid>2bd918ef-d683-46bc-a80b-89a89d9fd418</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='selenium-simplified']</value>
+      <webElementGuid>ca3a5b84-1339-42a6-a543-ccfdcb639603</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/div[2]/h2[4]</value>
+      <webElementGuid>96c8b715-d4ca-4471-a6ba-5b7ebbc00eb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automating and Testing a REST API'])[2]/following::h2[1]</value>
+      <webElementGuid>e5710887-4e60-4877-9c10-9ad6d57fe3f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More about the book and free download links'])[1]/preceding::h2[1]</value>
+      <webElementGuid>6791ec58-0160-4dd6-87c6-951b45edf6dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Migrating Selenium 1 to Selenium 2'])[2]/preceding::h2[1]</value>
+      <webElementGuid>c0b3f4c5-707e-45f4-b05a-5e5097712773</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2[4]</value>
+      <webElementGuid>32ef5cf0-ce8f-474c-8eb7-116e2bde64fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'selenium-simplified' and (text() = 'Selenium Simplified' or . = 'Selenium Simplified')]</value>
+      <webElementGuid>ddfb3fb3-17ec-4f09-935e-5dae2499cc31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

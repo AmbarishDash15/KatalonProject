@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_How I Test - Web App</name>
+   <tag></tag>
+   <elementGuidId>961dd6a1-d416-4c9e-832b-587895e2d707</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#how-i-test---web-app</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='how-i-test---web-app']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;How I Test - Web App&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>280ca11d-046b-4e4d-bef9-bb8e230a2af7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>how-i-test---web-app</value>
+      <webElementGuid>6763b6b2-6459-4464-b571-bbaa82f9e1be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>How I Test - Web App</value>
+      <webElementGuid>83ec8d1e-2596-41de-9b05-bf045be5d5c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;how-i-test---web-app&quot;)</value>
+      <webElementGuid>f348f658-2ed5-4190-ae91-7f2d4e982617</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='how-i-test---web-app']</value>
+      <webElementGuid>8d0715bf-1b28-42ff-8749-e28f86ec3c6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/div[2]/h2[11]</value>
+      <webElementGuid>cb802f48-da89-433b-876d-802430877908</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Course Support Page'])[1]/following::h2[1]</value>
+      <webElementGuid>68789b29-0954-4b86-a8ee-b96d13dba4d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn some JavaScript'])[1]/following::h2[1]</value>
+      <webElementGuid>04d11885-a644-45b5-92a4-48121807f61e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn Exploratory Testing'])[1]/preceding::h2[1]</value>
+      <webElementGuid>5b7fa3e9-8abc-41ee-85eb-10fa5143a0bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Case Study : Java Desktop Application Technical Testing'])[2]/preceding::h2[1]</value>
+      <webElementGuid>7ea64588-43f9-49e4-8ff1-7f52c6ec7807</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2[11]</value>
+      <webElementGuid>30a6da01-a419-456e-80c7-fe3724dd756b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'how-i-test---web-app' and (text() = 'How I Test - Web App' or . = 'How I Test - Web App')]</value>
+      <webElementGuid>314988ab-d206-4576-9c1c-0c6aea9b5671</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

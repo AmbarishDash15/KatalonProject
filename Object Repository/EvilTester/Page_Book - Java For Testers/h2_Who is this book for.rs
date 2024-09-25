@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Who is this book for</name>
+   <tag></tag>
+   <elementGuidId>13287143-5d9b-400d-8cb7-0e38bed3b1d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='who-is-this-book-for']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#who-is-this-book-for</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Who is this book for?&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>c8e5ef2b-b13e-4f8c-bcbc-b56c47b73909</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>who-is-this-book-for</value>
+      <webElementGuid>12649e2d-890e-485c-ba1b-d3fdd972d196</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Who is this book for?</value>
+      <webElementGuid>77354b5f-7306-4180-8fb6-fcdfcdf03f2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;who-is-this-book-for&quot;)</value>
+      <webElementGuid>846ca860-c25d-4b0a-b3b8-efc7a9c275b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='who-is-this-book-for']</value>
+      <webElementGuid>788a1a60-7e6d-4f2c-ba48-31e3b5c04c3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/h2[3]</value>
+      <webElementGuid>b7be7c23-44d2-4f9c-8d75-06e0223e471e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Code examples shown throughout making it easy to follow and learn as you work through the examples'])[1]/following::h2[1]</value>
+      <webElementGuid>f667e34e-2305-4d76-8b1b-2d3a90045e6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All code for Java For Testers is tested on Windows, Mac and Linux (JDK 1.7, 1.8 and OpenJDK 1.7)'])[1]/following::h2[1]</value>
+      <webElementGuid>f8604638-45c7-4d2e-9e9e-c36270e61c63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy The Book'])[1]/preceding::h2[1]</value>
+      <webElementGuid>fd73b46d-d191-42a6-926d-6634cc87d94c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy The eBook'])[2]/preceding::h2[2]</value>
+      <webElementGuid>1d3a3f5a-2b9d-429a-a653-ec50647e0d34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Who is this book for?']/parent::*</value>
+      <webElementGuid>f1c6efc8-8d2f-479f-8d72-28942815c23f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2[3]</value>
+      <webElementGuid>18ff9f6e-c23b-4035-9728-9ae714bb2015</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'who-is-this-book-for' and (text() = 'Who is this book for?' or . = 'Who is this book for?')]</value>
+      <webElementGuid>2d242a76-f8d0-4380-ae4d-69035a409d1a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Buy The Book</name>
+   <tag></tag>
+   <elementGuidId>d5113c13-ea17-4ad7-a66b-15b43cfc658c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='buy-the-book']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#buy-the-book</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Buy The Book&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>245330ad-51b7-4a02-8493-569857e2eebd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>buy-the-book</value>
+      <webElementGuid>03591756-979b-4dd3-a852-19da16c9f7c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Buy The Book</value>
+      <webElementGuid>9645c0c6-6a9d-46b3-81c7-d56896913668</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;buy-the-book&quot;)</value>
+      <webElementGuid>65c9aed2-1bc6-46d7-b1a3-b204a4cee232</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='buy-the-book']</value>
+      <webElementGuid>37d6520d-d875-4b25-a955-d659a68b6b49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/h2[4]</value>
+      <webElementGuid>e8d20125-eab5-4ab9-81ed-947ca9996a24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Who is this book for?'])[1]/following::h2[1]</value>
+      <webElementGuid>53b18758-f560-42aa-a302-e2f04b85c6ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Code examples shown throughout making it easy to follow and learn as you work through the examples'])[1]/following::h2[2]</value>
+      <webElementGuid>bb8878ab-d83f-48f1-b1a0-af091ee130c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy The eBook'])[2]/preceding::h2[1]</value>
+      <webElementGuid>ef66d11e-6711-494b-b10c-896baf75f5a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy The Paperback'])[2]/preceding::h2[1]</value>
+      <webElementGuid>f8c808dd-0c37-46c4-b5f4-c41716549122</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Buy The Book']/parent::*</value>
+      <webElementGuid>5b83961a-171b-4b50-8e48-684d0a750e53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2[4]</value>
+      <webElementGuid>322237eb-ebe6-4d18-8d88-add90f1ea7e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'buy-the-book' and (text() = 'Buy The Book' or . = 'Buy The Book')]</value>
+      <webElementGuid>aad99e29-da95-4dab-8038-7f59c1d1c2c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

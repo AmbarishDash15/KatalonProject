@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Description</name>
+   <tag></tag>
+   <elementGuidId>c518562a-e38a-4a9c-84bd-72b1340004c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main-content']/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#main-content > p:nth-child(1)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;A book to help develop the Attitude and Mindset of a Software Tester.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>842b1ca2-4fc8-47f6-bee9-b6675746b22d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>A book to help develop the Attitude and Mindset of a Software Tester.</value>
+      <webElementGuid>d5fd620e-db94-4f2b-9546-dc9133bdc685</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/p[1]</value>
+      <webElementGuid>8ce55b21-b511-47db-976c-82c0729f3d69</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/p</value>
+      <webElementGuid>8044afeb-ec1d-42b7-a387-dee089904f6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Form'])[1]/following::p[1]</value>
+      <webElementGuid>c3884035-d602-459b-9106-d42c69181b9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='provoke not placate,'])[1]/preceding::p[4]</value>
+      <webElementGuid>467acdfa-34c9-48d8-95a1-b579f041fb26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='make you react rather than relax,'])[1]/preceding::p[4]</value>
+      <webElementGuid>cb958b24-3a0d-493b-86c0-93a819582b91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='A book to help develop the Attitude and Mindset of a Software Tester.']/parent::*</value>
+      <webElementGuid>aafe83ca-e761-48b3-b992-208a3ac18504</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>1625e8d5-057e-4ba4-9231-bea09221deb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'A book to help develop the Attitude and Mindset of a Software Tester.' or . = 'A book to help develop the Attitude and Mindset of a Software Tester.')]</value>
+      <webElementGuid>0c5fb235-d6c2-4950-b9b4-64c03141804a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

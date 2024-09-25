@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate Training - Technical Web Testing</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>86a5ff4b-3818-4de9-86af-52afcf03b67e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b8ec7fe9-8f27-428d-a333-d9081c1f6561</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1cf00aa7-fe06-4d23-97b1-0906b9fbb5a4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b8ec7fe9-8f27-428d-a333-d9081c1f6561</id>
+      <masked>false</masked>
+      <name>pageURL</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1cf00aa7-fe06-4d23-97b1-0906b9fbb5a4</id>
+      <masked>false</masked>
+      <name>linkURL</name>
+   </variable>
+</TestCaseEntity>

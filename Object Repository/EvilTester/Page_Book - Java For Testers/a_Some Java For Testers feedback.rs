@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Some Java For Testers feedback</name>
+   <tag></tag>
+   <elementGuidId>a797e19d-4032-42ea-9127-99643570439c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main-content']/a[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.twitter-moment</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;main-content&quot;)/a[@class=&quot;twitter-moment twitter-moment-error&quot;][count(. | //*[@class = 'twitter-moment twitter-moment-error' and @href = 'https://twitter.com/i/moments/942703766784094208?ref_src=twsrc%5Etfw' and (text() = 'Some Java For Testers feedback' or . = 'Some Java For Testers feedback')]) = count(//*[@class = 'twitter-moment twitter-moment-error' and @href = 'https://twitter.com/i/moments/942703766784094208?ref_src=twsrc%5Etfw' and (text() = 'Some Java For Testers feedback' or . = 'Some Java For Testers feedback')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Some Java For Testers feedback&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>16a8e828-2a2d-4774-83b9-46b9587b332d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>twitter-moment twitter-moment-error</value>
+      <webElementGuid>03fbe0da-5977-473d-999f-fd27390ba486</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://twitter.com/i/moments/942703766784094208?ref_src=twsrc%5Etfw</value>
+      <webElementGuid>e70ebbb6-a1c5-43d1-b25c-e86f59c2357c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>b3b77eea-6cbb-4892-833a-71111f379161</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noopener noreferrer</value>
+      <webElementGuid>321a3159-0735-4f05-ba86-2ee4faef9db3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-twitter-extracted-i1726816923620413343</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>2ac6a97b-8ed6-4bba-b47a-7705ff0ab472</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Some Java For Testers feedback</value>
+      <webElementGuid>69d7a949-803f-4983-a71b-f3820f42f804</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/a[@class=&quot;twitter-moment twitter-moment-error&quot;]</value>
+      <webElementGuid>8de6a6a4-0e5b-4d1b-b0a2-cc1f87de2718</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/a[4]</value>
+      <webElementGuid>da5dd76c-15b9-4a53-bcf2-f20edde9d923</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Some Java For Testers feedback')]</value>
+      <webElementGuid>699ae986-0457-41db-84e1-4f4bc1a7f3c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Testimonials from Twitter'])[1]/following::a[1]</value>
+      <webElementGuid>a6a20f3f-0f2e-4364-a2fc-e0c7fadedf8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read a Sample'])[2]/following::a[1]</value>
+      <webElementGuid>130245b2-e774-402a-b1d6-68bee13c0856</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Join The Evil Tester Patreon Community'])[1]/preceding::a[1]</value>
+      <webElementGuid>d35bf15f-0cc2-433e-9971-081943552aa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Free training courses and ebooks (sold for over $200).'])[1]/preceding::a[1]</value>
+      <webElementGuid>89a642a6-b9ce-42c1-b7e3-333d037176ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Some Java For Testers feedback']/parent::*</value>
+      <webElementGuid>cf4f2360-0147-4d89-9587-f8a5323de534</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://twitter.com/i/moments/942703766784094208?ref_src=twsrc%5Etfw')]</value>
+      <webElementGuid>e9664da2-ffad-455a-86ea-d8df955251f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/a[4]</value>
+      <webElementGuid>9df5e2e4-264a-4431-bff2-075d06d484a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://twitter.com/i/moments/942703766784094208?ref_src=twsrc%5Etfw' and (text() = 'Some Java For Testers feedback' or . = 'Some Java For Testers feedback')]</value>
+      <webElementGuid>c41becbc-82a8-4f7d-9295-fee582de265a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

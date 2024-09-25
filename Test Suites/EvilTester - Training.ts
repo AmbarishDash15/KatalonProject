@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>EvilTester - Training</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>90</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>1275aa42-0698-49af-8273-a3a5b6921958</testSuiteGuid>
+   <testCaseLink>
+      <guid>e6862e15-01ea-446e-aeee-a35e3fe6a989</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/EvilTester/Validate Training Page - Header</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>31550bfb-4e6b-47a2-a7ce-2d1e9fe3791a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d53d60df-29ca-442b-abad-5b56631518ea</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>6f73a264-d1ae-46b1-8648-8a035d6205ee</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7b549bc5-ac0e-472a-a24e-14f48b8f7dbc</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/EvilTester/Validate Training - Java Script</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>9691b8ab-b8f3-49bd-a7ee-b2be571bad77</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>33bdc538-059f-4baa-94a1-9288dd6bae06</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>99d62a36-7fca-4c85-9254-e5a4d9a2f071</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/EvilTester/Validate Training - Technical Web Testing</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b8ec7fe9-8f27-428d-a333-d9081c1f6561</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>1cf00aa7-fe06-4d23-97b1-0906b9fbb5a4</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c4d5e8d4-d1b5-4cc9-9528-a14a85ad1ab8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/EvilTester/Validate Training - Evil Tester Talk</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ef073c45-53f9-4fe4-a22d-72492aa73090</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>33567828-378a-4005-b396-511a315c5207</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

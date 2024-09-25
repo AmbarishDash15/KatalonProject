@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Java for tester_gen</name>
+   <tag></tag>
+   <elementGuidId>55c8c4db-fc1b-481c-b5dc-5414d2483ff7</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_Books - all/img_Java for tester_gen.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.jumbotron > div > p > a:nth-child(1) > img</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_Books - all/img_Java for tester_gen.png</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main-content']/div[2]/p/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.book-image-center > p > a >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>8a693337-5869-4719-8ed4-febd839fafd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/dominion_images/books/smallJavaForTestersCover.png</value>
+      <webElementGuid>c58fbdaf-c660-4074-ab1e-a29ff9e88efa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Java For Testers</value>
+      <webElementGuid>ad8ecf61-83ec-4f7f-8e8b-331e08925b8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Java For Testers Book Cover</value>
+      <webElementGuid>77526aea-626f-4cdc-8bf7-230fb434cb9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;book-image-center&quot;]/p[1]/a[1]/img[1]</value>
+      <webElementGuid>7a554e87-8eeb-444d-9ae2-b96c496d5e3e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/div[2]/p/a/img</value>
+      <webElementGuid>14477b01-3355-4dfe-8492-c048d05095d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p/a/img</value>
+      <webElementGuid>f1f1fa5b-074a-4a33-8374-02a90902670e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/dominion_images/books/smallJavaForTestersCover.png']</value>
+      <webElementGuid>8e3c9815-3560-468b-b7ab-85427eee52a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/div/div/p/a/img</value>
+      <webElementGuid>561e0966-f4f1-42a9-ab8e-81e9a4a38a37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Java For Testers']</value>
+      <webElementGuid>4c698d28-d7d3-4c48-a122-04c982282723</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>1b5562c9-d405-4e4d-9feb-0e8da8c59d0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/dominion_images/books/smallJavaForTestersCover.png' and @alt = 'Java For Testers' and @title = 'Java For Testers Book Cover']</value>
+      <webElementGuid>38685d1a-c13b-42fe-9069-b0f194845a6c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

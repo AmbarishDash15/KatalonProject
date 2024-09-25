@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_migrating-selenium-1-to-selenium-2</name>
+   <tag></tag>
+   <elementGuidId>398544e5-0db7-474e-8d04-85e783b97153</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_Software Testing Books Written By Alan Richardson - EvilTester.com/img_migrating-selenium-1-to-selenium-2.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#migrating-selenium-1-to-selenium-2 + p > a > img</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_Software Testing Books Written By Alan Richardson - EvilTester.com/img_migrating-selenium-1-to-selenium-2.png</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main-content']/div[2]/p[20]/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>p:nth-child(27) > a</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>53e10afe-a487-4121-9881-403e2e34aa74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/dominion_images/books/migrating_100x150_result.png</value>
+      <webElementGuid>4977fe9f-3373-49cb-b79f-3aec2956ffbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;book-image-center&quot;]/p[20]/a[1]/img[1]</value>
+      <webElementGuid>993dc5b3-b231-47ad-afa1-c2f724f48a35</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/div[2]/p[20]/a/img</value>
+      <webElementGuid>497678fe-ae0a-488b-ac87-a46804bad536</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[20]/a/img</value>
+      <webElementGuid>6c7f5fb0-1e18-46c4-b81f-5d67bf7dffea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/dominion_images/books/migrating_100x150_result.png']</value>
+      <webElementGuid>88bca179-23ed-43f9-9f3a-a7309f837d70</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_32.00</name>
+   <tag></tag>
+   <elementGuidId>1b48e400-6ae4-49ff-9835-2f8610d48f2f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-9']/div/div/div/section/table/tfoot/tr[4]/td/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(4) > td > span.woocommerce-Price-amount.amount</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=table >> internal:text=&quot;$32.00&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>70cc3e6b-54f7-49d8-887b-a9298231c34c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-Price-amount amount</value>
+      <webElementGuid>83e37ef0-1179-477b-bf41-109a49265f36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$32.00</value>
+      <webElementGuid>619b6d5c-b2b6-4007-8e44-1533e81a0e33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-9&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;woocommerce&quot;]/div[@class=&quot;woocommerce-order&quot;]/section[@class=&quot;woocommerce-order-details&quot;]/table[@class=&quot;woocommerce-table woocommerce-table--order-details shop_table order_details&quot;]/tfoot[1]/tr[4]/td[1]/span[@class=&quot;woocommerce-Price-amount amount&quot;]</value>
+      <webElementGuid>d7413cc3-7070-4b25-9995-4379ab293cbc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-9']/div/div/div/section/table/tfoot/tr[4]/td/span</value>
+      <webElementGuid>fbe01534-ed60-486a-9138-6a0b0fa952c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total:'])[1]/following::span[1]</value>
+      <webElementGuid>53a1d713-c49b-4e28-9eda-de387c9aa7c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cash on delivery'])[2]/following::span[1]</value>
+      <webElementGuid>50c7a1a6-6087-4371-80dd-8371d4e2f141</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search for:'])[1]/preceding::span[2]</value>
+      <webElementGuid>a3d4df26-b430-4170-8e4c-2ed328fe8877</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td/span</value>
+      <webElementGuid>e416711d-b4f5-4c72-8a62-3e0f0b73bd69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '$32.00' or . = '$32.00')]</value>
+      <webElementGuid>c4a29353-0656-484a-a201-c85d751a5079</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_FirstBlog</name>
+   <tag></tag>
+   <elementGuidId>706243a6-cf2d-4d4a-9f83-e2fd6773d284</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main']/div/div[4]/article/div[2]/h2/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.blog-post-list > article:nth-child(1) > div:nth-child(2) > h2:nth-child(1) > a:nth-child(1)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Modelling Software Testing for Naming and Understanding&quot;i] >> internal:role=link</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1014372e-fc48-438f-b4ed-56554db21622</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.eviltester.com/blog/eviltester/modelling/modelling-for-naming/</value>
+      <webElementGuid>f023285d-18e0-4d10-bf09-c6df07f184c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Modelling Software Testing for Naming and Understanding</value>
+      <webElementGuid>719140fb-18eb-42cc-a3cf-761081e8f991</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;blog-post-list&quot;]/article[1]/div[2]/h2[1]/a[1]</value>
+      <webElementGuid>08267ebc-9c40-4905-9ff1-39e5ce3ec95d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main']/div/div[4]/article/div[2]/h2/a</value>
+      <webElementGuid>49d564b3-4d17-4e0b-af8c-73a9b7e3ec41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Modelling Software Testing for Naming and Understanding')]</value>
+      <webElementGuid>6f2bff4b-b946-4de9-8c52-e3e55a2f69a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Archive'])[1]/following::a[11]</value>
+      <webElementGuid>c7eb76fe-e6d3-4f69-bbb9-4b610fcbb71c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Categories'])[1]/following::a[12]</value>
+      <webElementGuid>49f31340-4f5b-4e67-9efe-decbeb39dfd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modelling'])[1]/preceding::a[1]</value>
+      <webElementGuid>eca51b2b-ad2a-4987-9b0c-2ea74b017fa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read More...'])[1]/preceding::a[2]</value>
+      <webElementGuid>f88e00c3-6762-45be-9361-bc21d0c3ede7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.eviltester.com/blog/eviltester/modelling/modelling-for-naming/')])[2]</value>
+      <webElementGuid>bab4a8eb-b04f-41b9-b3d6-401bb25fcc9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2/a</value>
+      <webElementGuid>67cb2770-26b2-42aa-ad7c-f6a6e3cdb3a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.eviltester.com/blog/eviltester/modelling/modelling-for-naming/' and (text() = 'Modelling Software Testing for Naming and Understanding' or . = 'Modelling Software Testing for Naming and Understanding')]</value>
+      <webElementGuid>3439c80a-a39f-40e7-9289-fcb8e086e84f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

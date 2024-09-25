@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_An Interactive COBOL Interpreter and JSP Debugger</name>
+   <tag></tag>
+   <elementGuidId>8093d692-fef1-4327-a6d3-2a5925413dbd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#an-interactive-cobol-interpreter-and-jsp-debugger</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='an-interactive-cobol-interpreter-and-jsp-debugger']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;An Interactive COBOL Interpreter and JSP Debugger&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>82f0ff96-b7ca-4983-a68f-fc174676f4dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>an-interactive-cobol-interpreter-and-jsp-debugger</value>
+      <webElementGuid>430a4cf5-4a87-4065-8d0b-a3b7f7101091</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>An Interactive COBOL Interpreter and JSP Debugger</value>
+      <webElementGuid>000bbdfe-74aa-4b7c-981d-3985e560115e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;an-interactive-cobol-interpreter-and-jsp-debugger&quot;)</value>
+      <webElementGuid>22f37920-49a0-445c-b7f5-6483c14e01e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='an-interactive-cobol-interpreter-and-jsp-debugger']</value>
+      <webElementGuid>59a9513c-bf73-4809-84ee-87e3cbfd79fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/div[2]/h2[6]</value>
+      <webElementGuid>1a81e2f5-aedb-4f58-8eac-e07e8496178b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download as a free pdf'])[1]/following::h2[1]</value>
+      <webElementGuid>544f8d39-3398-48dd-9a0a-57dfcb2a6daa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Migrating Selenium 1 to Selenium 2'])[2]/following::h2[1]</value>
+      <webElementGuid>09ab6223-9339-4a82-b34a-8bb49e2e0df3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download as a free pdf'])[2]/preceding::h2[1]</value>
+      <webElementGuid>77b7cbe5-f5c2-4869-ac97-68771d47e621</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hacking JavaScript ebook'])[2]/preceding::h2[1]</value>
+      <webElementGuid>eb896f43-dc78-4618-9169-b548a6ed7e42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2[6]</value>
+      <webElementGuid>6f8da8f3-e291-4031-a606-2b3d664a4d76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'an-interactive-cobol-interpreter-and-jsp-debugger' and (text() = 'An Interactive COBOL Interpreter and JSP Debugger' or . = 'An Interactive COBOL Interpreter and JSP Debugger')]</value>
+      <webElementGuid>07d5b366-81c0-4af9-bc0f-bcf0cab5e857</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

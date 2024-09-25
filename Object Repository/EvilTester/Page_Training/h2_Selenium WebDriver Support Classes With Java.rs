@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Selenium WebDriver Support Classes With Java</name>
+   <tag></tag>
+   <elementGuidId>b96c490d-d8a9-4614-b0e3-83e31449238f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#selenium-webdriver-support-classes-with-java</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='selenium-webdriver-support-classes-with-java']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Selenium WebDriver Support Classes With Java&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>2c77c2ab-05eb-429a-977a-e1bce46c86b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>selenium-webdriver-support-classes-with-java</value>
+      <webElementGuid>ad90e081-bab5-48c0-a5aa-980dd3d0bf56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selenium WebDriver Support Classes With Java</value>
+      <webElementGuid>5a6677fd-d733-4dcc-b2fa-9eb566c0e9d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;selenium-webdriver-support-classes-with-java&quot;)</value>
+      <webElementGuid>37ebe1fc-d789-4f73-b17f-b84c40897156</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='selenium-webdriver-support-classes-with-java']</value>
+      <webElementGuid>fa60857e-f66c-4e5e-9b87-9f6e6615b8ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/div[2]/h2[2]</value>
+      <webElementGuid>690b0b74-c99e-4e82-b2ed-8acf950bb161</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='“Best technical course ever”'])[1]/following::h2[1]</value>
+      <webElementGuid>37a3d7e3-d0de-4c47-bce1-9221fdecff94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dive into the Support Classes'])[1]/preceding::h2[1]</value>
+      <webElementGuid>c5f596ae-f916-4f24-9422-9e1ad9cb926e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selenium WebDriver Synchronisation'])[2]/preceding::h2[1]</value>
+      <webElementGuid>d80ecb63-b201-4b92-b5db-a25389151e49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Selenium WebDriver Support Classes With Java']/parent::*</value>
+      <webElementGuid>8b49ef17-b574-47c9-abec-8fc4565a8d64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2[2]</value>
+      <webElementGuid>575dbd5b-79af-4843-a927-884e6125db27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'selenium-webdriver-support-classes-with-java' and (text() = 'Selenium WebDriver Support Classes With Java' or . = 'Selenium WebDriver Support Classes With Java')]</value>
+      <webElementGuid>d579ee37-ce78-4ba5-9c6a-dd9259230c8e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

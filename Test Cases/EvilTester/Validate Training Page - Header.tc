@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate Training Page - Header</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bf6d9b23-7ae7-41dd-a54a-9fe5a58ea047</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>31550bfb-4e6b-47a2-a7ce-2d1e9fe3791a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d53d60df-29ca-442b-abad-5b56631518ea</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6f73a264-d1ae-46b1-8648-8a035d6205ee</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>31550bfb-4e6b-47a2-a7ce-2d1e9fe3791a</id>
+      <masked>false</masked>
+      <name>hrefLink</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d53d60df-29ca-442b-abad-5b56631518ea</id>
+      <masked>false</masked>
+      <name>pageURL</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6f73a264-d1ae-46b1-8648-8a035d6205ee</id>
+      <masked>false</masked>
+      <name>linkhrefURL</name>
+   </variable>
+</TestCaseEntity>

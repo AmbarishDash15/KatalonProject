@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Book</name>
+   <tag></tag>
+   <elementGuidId>8884f638-7655-4120-8c67-5ac945715a3b</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_Automating and Testing A REST API Case Study Book by Alan Richardson - EvilTester.com/img_Tracks Automating and Testing Case Study_image-center.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.image-center</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_Automating and Testing A REST API Case Study Book by Alan Richardson - EvilTester.com/img_Tracks Automating and Testing Case Study_image-center.png</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main-content']/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>IMAGE</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#main-content >> internal:role=img</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>6d8d9d9f-9053-4573-8c99-bfdcd60bc3d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>image-center</value>
+      <webElementGuid>5f76d37f-f974-4bf7-b8b5-7c7da796621d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/dominion_images/books/tracksApiTesting_cover_200x260.png</value>
+      <webElementGuid>84cf6636-24d1-414b-a160-920aeeb0561c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;jumbotron&quot;]/img[@class=&quot;image-center&quot;]</value>
+      <webElementGuid>3a12dd65-ce81-4c79-9b33-e39d9cf56104</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/div/img</value>
+      <webElementGuid>c8f8852c-a101-4fb8-9d5b-b80e293172a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>82710d51-4492-463e-bfe1-866d2cca7219</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/dominion_images/books/tracksApiTesting_cover_200x260.png']</value>
+      <webElementGuid>fe5e33c7-3f28-4208-be6f-cc494e256fb2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

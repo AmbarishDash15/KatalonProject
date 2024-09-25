@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Hacking JavaScript ebook</name>
+   <tag></tag>
+   <elementGuidId>49c958c2-56a7-40c0-90bc-d604d01bc4a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#hacking-javascript-ebook</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='hacking-javascript-ebook']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Hacking JavaScript ebook&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>12df0e4c-214c-46df-b2b7-82af0b979ea8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>hacking-javascript-ebook</value>
+      <webElementGuid>2a4e223d-a0f1-4156-a120-51977742c813</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hacking JavaScript ebook</value>
+      <webElementGuid>4328efb1-9d12-4dce-a242-4f1912a5b3fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hacking-javascript-ebook&quot;)</value>
+      <webElementGuid>5b8ddf97-07e1-41d8-acdb-d709b4bdc838</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='hacking-javascript-ebook']</value>
+      <webElementGuid>8f4b4102-fda6-4c20-9dfc-2aa60a56587f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/div[2]/h2[7]</value>
+      <webElementGuid>e8d59b20-9b49-404d-ae2b-741341e185cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download as a free pdf'])[2]/following::h2[1]</value>
+      <webElementGuid>69056a02-9ed7-43a1-9bd6-6983c4e0ead9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='An Interactive COBOL Interpreter and JSP Debugger'])[2]/following::h2[1]</value>
+      <webElementGuid>a59c804b-93e4-4d0b-86cf-75521ee2ec56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download Free Ebook'])[1]/preceding::h2[1]</value>
+      <webElementGuid>2776b4f7-bf52-41c0-9829-002e17159d4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Join The Evil Tester Patreon Community'])[1]/preceding::h2[1]</value>
+      <webElementGuid>04d66e8b-f800-4b00-9546-4d678b60fe31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2[7]</value>
+      <webElementGuid>8fce7146-0d0f-4c25-bae1-1b0dd070c659</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'hacking-javascript-ebook' and (text() = 'Hacking JavaScript ebook' or . = 'Hacking JavaScript ebook')]</value>
+      <webElementGuid>c94d5833-68bd-4335-9eec-552875fec39a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

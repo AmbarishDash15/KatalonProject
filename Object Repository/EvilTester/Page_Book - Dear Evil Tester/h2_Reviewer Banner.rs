@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Reviewer Banner</name>
+   <tag></tag>
+   <elementGuidId>9a932cb6-5449-480d-a79a-25252d313c6d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='read-what-our-early-reviewers-had-to-say']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#read-what-our-early-reviewers-had-to-say</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Read what our early reviewers had to say:&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>91b00816-969b-4f42-9f6a-994bb4b12690</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>read-what-our-early-reviewers-had-to-say</value>
+      <webElementGuid>8c414872-bc29-4c62-938a-e784f470306f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Read what our early reviewers had to say:</value>
+      <webElementGuid>93c6fbfc-be6f-4dd3-bad2-6c23a7facf15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;read-what-our-early-reviewers-had-to-say&quot;)</value>
+      <webElementGuid>dc518c4c-2698-4fd0-8c00-54ce1982b41f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='read-what-our-early-reviewers-had-to-say']</value>
+      <webElementGuid>f7b93908-2767-40bf-8a92-d4b0c905355e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/h2[2]</value>
+      <webElementGuid>ac82bf9c-2704-410c-912f-25d50592f8dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy The Paperback'])[2]/following::h2[1]</value>
+      <webElementGuid>0ee71a61-6218-4e75-9b15-92b3cbf6a98c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy The eBook'])[2]/following::h2[1]</value>
+      <webElementGuid>163c1fa6-4500-46ba-b1d8-002ee583c1f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='“Wonderful stuff there. Real deep.”'])[1]/preceding::h2[1]</value>
+      <webElementGuid>e761f2e7-4eec-445d-87e3-7b995762bca9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='“The more you know about software testing, the more you will find to amuse you.”'])[1]/preceding::h2[1]</value>
+      <webElementGuid>2b24faae-176d-40df-aece-1433965f8272</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Read what our early reviewers had to say:']/parent::*</value>
+      <webElementGuid>715ac868-a49b-4ecd-b1f9-b594ef50c3f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2[2]</value>
+      <webElementGuid>142b59fa-bbc3-4133-8dcb-254368b07f77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'read-what-our-early-reviewers-had-to-say' and (text() = 'Read what our early reviewers had to say:' or . = 'Read what our early reviewers had to say:')]</value>
+      <webElementGuid>7d01f126-008d-4e60-8835-4dc868265748</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>imgBook</name>
+   <tag></tag>
+   <elementGuidId>004e4cc5-3157-431f-87db-3f76f6d8acf6</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_Dear Evil Tester - A Software Testing Book - EvilTester.com/imgBook.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main-content']/div/div/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_Dear Evil Tester - A Software Testing Book - EvilTester.com/imgBook.png</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>IMAGE</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.col-md-4 > a >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>594079cd-369d-4011-959f-8c7e12ee0599</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/dominion_images/books/dearEvilTester/dearEvilTesterEbookCover_219x310.png</value>
+      <webElementGuid>4a8afebf-6c26-4f6c-b34c-681f8232489d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;jumbotron&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4&quot;]/a[1]/img[1]</value>
+      <webElementGuid>0fbdf749-0966-41cd-a957-8280bf029b66</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/div/div/div/a/img</value>
+      <webElementGuid>2f39d365-badd-43c8-bce4-fc8dbf332025</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>769fbd5b-b77a-46b3-ba33-ae2f24f29fd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/dominion_images/books/dearEvilTester/dearEvilTesterEbookCover_219x310.png']</value>
+      <webElementGuid>30f7ad76-918f-4a3a-8fef-8dffa5e07c73</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

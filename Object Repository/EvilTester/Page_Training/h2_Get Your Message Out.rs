@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Get Your Message Out</name>
+   <tag></tag>
+   <elementGuidId>4ded287a-901d-4d4a-8c08-091b7cc53557</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#get-your-message-out</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='get-your-message-out']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Get Your Message Out&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>518b7b53-284a-4e2e-8e8b-bae0dbac439e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>get-your-message-out</value>
+      <webElementGuid>1e9c7e7e-ba1b-4108-8051-ecad5d738a9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get Your Message Out</value>
+      <webElementGuid>9cffc70c-558c-43fb-920b-6eb932664b52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;get-your-message-out&quot;)</value>
+      <webElementGuid>66a8248c-14a2-495f-bc02-a33b5e97e4c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='get-your-message-out']</value>
+      <webElementGuid>d657fd2f-7c10-433f-ba26-3635477280f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/div[2]/h2[7]</value>
+      <webElementGuid>be8f9b20-069e-4f15-99a1-a75263e7655f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn about the bundle'])[1]/following::h2[1]</value>
+      <webElementGuid>fb89fbf4-0bdb-42f4-af98-61a6b4fd03d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Evil Tester Talks: Testing'])[2]/following::h2[1]</value>
+      <webElementGuid>252dd1bc-b1d4-4dc3-b3e0-32c79a29abb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn about the course'])[1]/preceding::h2[1]</value>
+      <webElementGuid>31676fb5-bab5-467d-8881-5c0382061c8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Ability Audit'])[2]/preceding::h2[1]</value>
+      <webElementGuid>3a8edfe2-ffc9-4ada-80a3-fa95df9d2b20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2[7]</value>
+      <webElementGuid>2ba8507f-91db-4bf7-a716-412c89edec47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'get-your-message-out' and (text() = 'Get Your Message Out' or . = 'Get Your Message Out')]</value>
+      <webElementGuid>28f186f4-5f07-4462-b6fa-0d1dfce93a4d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

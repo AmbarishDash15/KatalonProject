@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_automating-and-testing-a-rest-api</name>
+   <tag></tag>
+   <elementGuidId>4a072aec-2908-434e-a4e7-d4d5157c0bee</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_Software Testing Books Written By Alan Richardson - EvilTester.com/img_automating-and-testing-a-rest-api.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#automating-and-testing-a-rest-api + p > a > img</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_Software Testing Books Written By Alan Richardson - EvilTester.com/img_automating-and-testing-a-rest-api.png</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main-content']/div[2]/p[11]/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>p:nth-child(14) > a</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>08bfdbb6-7c5a-4d22-9cff-9ac04e382bd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/dominion_images/books/tracksApiTesting_cover_100x130.jpg</value>
+      <webElementGuid>9dfeda6a-f463-4d32-a251-e5149461f579</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;book-image-center&quot;]/p[11]/a[1]/img[1]</value>
+      <webElementGuid>4552944a-9dc7-4ca9-a845-1d1c8d61c526</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/div[2]/p[11]/a/img</value>
+      <webElementGuid>3ebea60a-9e6f-4ca1-9f5a-eebbfe7e1361</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[11]/a/img</value>
+      <webElementGuid>0aa45f5e-11f4-43f6-a0ef-8e1eadf6f349</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/dominion_images/books/tracksApiTesting_cover_100x130.jpg']</value>
+      <webElementGuid>d9060c19-9f36-4f9c-921f-76f091bb299e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

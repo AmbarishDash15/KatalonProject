@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_an-interactive-cobol-interpreter-and-jsp-debugger</name>
+   <tag></tag>
+   <elementGuidId>b1025758-e81d-473e-902c-320571086984</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_Software Testing Books Written By Alan Richardson - EvilTester.com/img_an-interactive-cobol-interpreter-and-jsp-debugger.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#an-interactive-cobol-interpreter-and-jsp-debugger + p > a > img</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_Software Testing Books Written By Alan Richardson - EvilTester.com/img_an-interactive-cobol-interpreter-and-jsp-debugger.png</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main-content']/div[2]/p[24]/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>p:nth-child(33) > a</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>310aaf64-88db-4ca6-9960-052c1974a418</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/dominion_images/books/thesis/honours_thesis_100x150_result.png</value>
+      <webElementGuid>2e356caa-b4a3-4751-a973-f1e71c36f41d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;book-image-center&quot;]/p[24]/a[1]/img[1]</value>
+      <webElementGuid>36dbc6b4-2cf3-4bf9-a675-87b30a671b37</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/div[2]/p[24]/a/img</value>
+      <webElementGuid>b3bd8168-c49a-4ee6-8be1-71e18b468855</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[24]/a/img</value>
+      <webElementGuid>dce4c529-499f-4ae6-875d-d83abf2ad57b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/dominion_images/books/thesis/honours_thesis_100x150_result.png']</value>
+      <webElementGuid>ac648e1f-8020-4f33-a51e-73898ea005c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

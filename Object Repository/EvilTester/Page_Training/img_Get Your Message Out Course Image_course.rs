@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Get Your Message Out Course Image_course</name>
+   <tag></tag>
+   <elementGuidId>a5de43f1-289d-4d10-ad3a-9ded0db164e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#get-your-message-out + p > a > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main-content']/div[2]/p[26]/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Get Your Message Out Course Image&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>e0c54d31-27dd-42bd-947a-c71243a455b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/images/courses/get-your-message-out-240x135.jpg</value>
+      <webElementGuid>8f1115f4-d00c-48fd-adf7-854cc13c6a5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Get Your Message Out Course Image</value>
+      <webElementGuid>8b0c9939-d824-4082-82a5-d59c94bd44f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;course-image-center&quot;]/p[26]/a[1]/img[1]</value>
+      <webElementGuid>b3fd6461-f2fb-4285-b8ea-611d39b446d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/div[2]/p[26]/a/img</value>
+      <webElementGuid>b38f2cf6-34bb-4ccf-9885-dccc33391ac0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Get Your Message Out Course Image']</value>
+      <webElementGuid>26690ebc-d9a8-46b9-8ec0-4f9424daabd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[26]/a/img</value>
+      <webElementGuid>1b9538f0-d84b-4d33-bb2f-0b359c5dd994</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/images/courses/get-your-message-out-240x135.jpg' and @alt = 'Get Your Message Out Course Image']</value>
+      <webElementGuid>aecd5361-d52e-4bac-bfac-0a4192faef92</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

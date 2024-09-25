@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>AlertOK</name>
+   <tag></tag>
+   <elementGuidId>c713c8d2-cc67-4f2f-9a12-90b30384f0b9</elementGuidId>
+   <imagePath>C:\Users\5035\Desktop\OkButton.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value>C:\Users\5035\Desktop\OkButton.png</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>IMAGE</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

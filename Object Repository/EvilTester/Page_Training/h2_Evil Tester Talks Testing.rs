@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Evil Tester Talks Testing</name>
+   <tag></tag>
+   <elementGuidId>9476764e-d979-4c1a-bb72-ea5ffdd7ab48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#evil-tester-talks-testing</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='evil-tester-talks-testing']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Evil Tester Talks: Testing&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>5c0cd06e-7e01-405a-8a75-82f57c7d5985</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>evil-tester-talks-testing</value>
+      <webElementGuid>fd1d4066-088b-4494-812a-a3c9b5445f7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Evil Tester Talks: Testing</value>
+      <webElementGuid>80cf5972-6f7f-43be-810d-1ab49f4a7dc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;evil-tester-talks-testing&quot;)</value>
+      <webElementGuid>aa53508b-92f8-4335-9dba-bcb9ff80d7e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='evil-tester-talks-testing']</value>
+      <webElementGuid>c7bbb012-b2b8-41fa-98a0-4bfae6a7529b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/div[2]/h2[6]</value>
+      <webElementGuid>6f4f5555-3849-4144-9243-b6c24e187906</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn more about this Technical Course'])[1]/following::h2[1]</value>
+      <webElementGuid>c6738aad-bf15-4feb-965a-358845b64ebb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='“Quite an eye opener”'])[1]/following::h2[1]</value>
+      <webElementGuid>436aafc8-e9de-4069-89ea-0d17a239ad40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn about the bundle'])[1]/preceding::h2[1]</value>
+      <webElementGuid>70eac926-d51e-4133-8c56-8d612312a0ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Your Message Out'])[2]/preceding::h2[1]</value>
+      <webElementGuid>16485e09-fd5a-452e-b311-633cb49441f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2[6]</value>
+      <webElementGuid>bee17d1c-b3f6-40bc-8be8-a05ec4b975f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'evil-tester-talks-testing' and (text() = 'Evil Tester Talks: Testing' or . = 'Evil Tester Talks: Testing')]</value>
+      <webElementGuid>24f95826-43a7-4f02-b58b-af7ea6bc35cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

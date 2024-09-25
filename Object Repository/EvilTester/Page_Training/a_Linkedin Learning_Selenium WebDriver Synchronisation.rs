@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Linkedin Learning_Selenium WebDriver Synchronisation</name>
+   <tag></tag>
+   <elementGuidId>e3580aed-e047-4c4a-9b5b-db0c742db77c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#selenium-webdriver-synchronisation + p + p + p + p + p + p > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main-content']/div[2]/p[13]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;View course on Linkedin Learning&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3cd1fe8c-dbb1-43b0-8784-9d363b9db025</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.linkedin.com/learning/advanced-selenium-3-synchronization-strategies</value>
+      <webElementGuid>525d553f-5f70-45e0-902a-d70886a8dd3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>73ac0360-c91c-4814-9228-c7606d1fc859</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noopener noreferrer</value>
+      <webElementGuid>9bd38a56-f6f3-4144-82cd-cf9ebfd7937b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View course on Linkedin Learning</value>
+      <webElementGuid>0f85e246-6283-4d20-945c-3f37b04109fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;course-image-center&quot;]/p[13]/a[1]</value>
+      <webElementGuid>8210b5ff-3d18-4ebf-89ea-5a24800bc6c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/div[2]/p[13]/a</value>
+      <webElementGuid>6f7024e1-e71b-4a61-9f3c-93fcd2f37616</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View course on Linkedin Learning')]</value>
+      <webElementGuid>ed7650b1-8a28-45b0-b8f4-783fd50137f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn to Avoid Flaky Automation'])[1]/following::a[1]</value>
+      <webElementGuid>87381e87-9b3e-4e86-ad0f-20eab27b2ecb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selenium WebDriver Synchronisation'])[2]/following::a[3]</value>
+      <webElementGuid>8fc64293-6b48-402f-a495-e9c9ef9c6649</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selenium WebDriver Page Objects and Abstractions'])[1]/preceding::a[1]</value>
+      <webElementGuid>f38823cc-4c02-4071-9636-2facf10d75bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn Abstractions'])[1]/preceding::a[2]</value>
+      <webElementGuid>88e7e66a-e784-459b-af7b-59b0c0c41fd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View course on Linkedin Learning']/parent::*</value>
+      <webElementGuid>ad989c0b-73b1-457f-9aba-84bd201d7e85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.linkedin.com/learning/advanced-selenium-3-synchronization-strategies')]</value>
+      <webElementGuid>b9867d49-b5d6-4df3-8f98-d11f01a57a3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[13]/a</value>
+      <webElementGuid>a151c945-88a7-430d-9642-1bd07bf5406c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.linkedin.com/learning/advanced-selenium-3-synchronization-strategies' and (text() = 'View course on Linkedin Learning' or . = 'View course on Linkedin Learning')]</value>
+      <webElementGuid>821d3784-1c85-4dd7-b354-acb72a3ec539</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

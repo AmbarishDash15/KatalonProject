@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Selenium WebDriver Page Objects and Abstractions</name>
+   <tag></tag>
+   <elementGuidId>1365057c-10df-4f23-897a-b3a3ae045244</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#selenium-webdriver-page-objects-and-abstractions</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='selenium-webdriver-page-objects-and-abstractions']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Selenium WebDriver Page Objects and Abstractions&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>497414a3-c9e3-4242-9c3a-77734a8cf9d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>selenium-webdriver-page-objects-and-abstractions</value>
+      <webElementGuid>6cbabc1d-1aca-424e-9f00-da14d9dd4b6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selenium WebDriver Page Objects and Abstractions</value>
+      <webElementGuid>cf632cdb-e271-43e9-b214-d3a91fc542c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;selenium-webdriver-page-objects-and-abstractions&quot;)</value>
+      <webElementGuid>f3246380-0d6d-4916-8780-a0c37a9bfb99</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='selenium-webdriver-page-objects-and-abstractions']</value>
+      <webElementGuid>51bb0e45-04d5-4ae4-ad03-7dff9f638d0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/div[2]/h2[4]</value>
+      <webElementGuid>a8c0533a-6acf-4822-b4d1-1bb1d9ddaa51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View course on Linkedin Learning'])[1]/following::h2[1]</value>
+      <webElementGuid>8b2ada66-857a-4d80-871e-ffb2423f8bef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn to Avoid Flaky Automation'])[1]/following::h2[1]</value>
+      <webElementGuid>fc12f37b-de56-4efd-b0dd-a3cba8c623f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn Abstractions'])[1]/preceding::h2[1]</value>
+      <webElementGuid>39eedc7e-b2aa-46d5-85d2-95b575ad656f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Technical Web Testing 101'])[2]/preceding::h2[1]</value>
+      <webElementGuid>57417892-bd26-4556-86a8-6f85a5047272</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Selenium WebDriver Page Objects and Abstractions']/parent::*</value>
+      <webElementGuid>741130ed-f390-4c91-9d36-db287b184b77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2[4]</value>
+      <webElementGuid>b8eda8e4-d480-4377-9d59-c71f9151ff23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'selenium-webdriver-page-objects-and-abstractions' and (text() = 'Selenium WebDriver Page Objects and Abstractions' or . = 'Selenium WebDriver Page Objects and Abstractions')]</value>
+      <webElementGuid>de5814c2-4a6a-4bf3-ac43-fb48acabd1fa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

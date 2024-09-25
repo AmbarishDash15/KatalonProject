@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Java For Testers</name>
+   <tag></tag>
+   <elementGuidId>024ef1ae-316a-45a6-8c65-19a1b4060dbd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#java-for-testers</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='java-for-testers']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Java For Testers&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>debc346b-3a52-47ba-97f1-09e46a8a3bce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>java-for-testers</value>
+      <webElementGuid>c5cc903b-296c-42f0-9f3a-32b966644895</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Java For Testers</value>
+      <webElementGuid>356bb643-faf6-4e34-813e-1fd43e5f30bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;java-for-testers&quot;)</value>
+      <webElementGuid>380d80d7-cea0-4422-b938-2aa8f00119df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='java-for-testers']</value>
+      <webElementGuid>f92405e2-6744-407b-97ad-3c8a7a37fad9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/div[2]/h2</value>
+      <webElementGuid>7034316f-37f6-4ee5-ad3f-71ab600af5c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hacking JavaScript ebook'])[1]/following::h2[1]</value>
+      <webElementGuid>6a6875cb-60a5-4f3a-9471-cb6322fb8ab1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='An Interactive COBOL Interpreter and JSP Debugger'])[1]/following::h2[1]</value>
+      <webElementGuid>a9a13972-9d9b-47f8-bcb6-2a6ba5fd5939</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dear Evil Tester'])[3]/preceding::h2[1]</value>
+      <webElementGuid>9f27c003-23e4-4fd0-972d-270bbcca6641</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>b4317ce7-5e42-4962-bdc7-4d80b307c89f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'java-for-testers' and (text() = 'Java For Testers' or . = 'Java For Testers')]</value>
+      <webElementGuid>722b01dc-9b61-4742-8235-75e04785536d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

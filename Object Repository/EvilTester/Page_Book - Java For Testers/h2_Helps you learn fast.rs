@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Helps you learn fast</name>
+   <tag></tag>
+   <elementGuidId>b08a2cb3-028c-49cc-8544-2064017928a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='helps-you-learn-fast']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#helps-you-learn-fast</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Helps you learn fast:&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>74fcf957-8a95-486b-aa65-dd9315cd7b88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>helps-you-learn-fast</value>
+      <webElementGuid>ad2bf6dd-3f26-4268-a45a-4b2efad313bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Helps you learn fast:</value>
+      <webElementGuid>3a92fad8-433f-476a-8c92-082003d8d8b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;helps-you-learn-fast&quot;)</value>
+      <webElementGuid>9d8cca6b-5c8f-4486-8521-bf1629755c4f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='helps-you-learn-fast']</value>
+      <webElementGuid>f36d805b-f181-438b-b1c4-98cb8be7ee49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/h2[2]</value>
+      <webElementGuid>97a99bcc-cd1c-4f69-ae04-9e9b9263d01f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Watch on YouTube'])[1]/following::h2[1]</value>
+      <webElementGuid>a44ae5e9-ceab-4335-abfb-dcebf0fa86f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn to code differently'])[1]/following::h2[1]</value>
+      <webElementGuid>6125628a-59c1-444e-9908-3f4c09f71852</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tutorial chapters walk you through step by step, explaining as we go'])[1]/preceding::h2[1]</value>
+      <webElementGuid>3487de05-aabc-457e-8237-52e105ac774e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Introductory chapters to help you install the tools'])[1]/preceding::h2[1]</value>
+      <webElementGuid>e8034c84-7fb7-4ddf-ae2f-65dc28246ce9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Helps you learn fast:']/parent::*</value>
+      <webElementGuid>0e56bb29-981c-4173-8b76-0beec2d14928</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2[2]</value>
+      <webElementGuid>47a6b609-0b85-464e-9205-e9d3072c9547</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'helps-you-learn-fast' and (text() = 'Helps you learn fast:' or . = 'Helps you learn fast:')]</value>
+      <webElementGuid>98bbb7fd-250d-4d09-a884-90723d2a43d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>totalPrice</name>
+   <tag></tag>
+   <elementGuidId>a3b52d90-d926-4611-85c2-ba1795fea662</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='order_review']/table/tfoot/tr[3]/td/strong/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>strong > span.woocommerce-Price-amount.amount</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;$32.00&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c76a4b81-ab7a-49aa-92a9-4226091034f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-Price-amount amount</value>
+      <webElementGuid>bee865bc-a2a8-4263-a288-cafe372ffb45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$32.00</value>
+      <webElementGuid>301f960e-3018-415c-80fa-9a8963f2e8cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;order_review&quot;)/table[@class=&quot;shop_table woocommerce-checkout-review-order-table&quot;]/tfoot[1]/tr[@class=&quot;order-total&quot;]/td[1]/strong[1]/span[@class=&quot;woocommerce-Price-amount amount&quot;]</value>
+      <webElementGuid>ef704b4a-f003-49b2-aaae-b1f081f3b4a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='order_review']/table/tfoot/tr[3]/td/strong/span</value>
+      <webElementGuid>b984c61a-3dbb-4c64-8830-9453c09442e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[2]/following::span[1]</value>
+      <webElementGuid>fda471e3-989f-4e9e-8988-80fbecd77c2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$'])[3]/following::span[1]</value>
+      <webElementGuid>35950ae9-e362-4588-ab48-d57472ed469e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cash on delivery'])[1]/preceding::span[2]</value>
+      <webElementGuid>a6013e8a-1f21-479f-ba09-3ff528bf1baf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='32.00']/parent::*</value>
+      <webElementGuid>b63f33eb-91fd-4dca-b505-30be0dc5c847</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong/span</value>
+      <webElementGuid>e3205d76-dcf7-4409-8cfc-7a735b056922</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '$32.00' or . = '$32.00')]</value>
+      <webElementGuid>a138b55f-55b5-43dd-ada0-14c831d3400d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
