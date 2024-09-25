@@ -16,6 +16,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import java.lang.String as String
 
 WebUI.openBrowser('')
 
@@ -41,5 +42,14 @@ WebUI.verifyMatch(siteURL, 'https://rahulshettyacademy.com/seleniumPractise/#/',
 
 WebUI.verifyElementPresent(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/Product'), 0)
 
-WebUI.findWebElements(findTestObject('null'), 0)
+productName = WebUI.getText(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/Product'))
+
+WebUI.modifyObjectProperty(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/Product'), 'text', 'Brocolli - 1 Kg*', 
+    'Cauliflower - 1 Kg', false)
+
+productName = WebUI.getText(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/Product'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.verifyElementPresent(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/incrementor'), 0)
+
+WebUI.click(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/incrementor'))
 

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>incrementor</name>
+   <tag></tag>
+   <elementGuidId>e6cb9d78-e5d5-4105-a0c6-6d38e6a8ae98</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'increment' and @ref_element = 'Object Repository/RS-Academy/Page_GreenKart - veg and fruits kart/Product' and @ref_element_is_shadow_root = 'true']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>increment</value>
+      <webElementGuid>9dda2594-9d45-4a70-b0d8-0de9830cc98e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/RS-Academy/Page_GreenKart - veg and fruits kart/Product</value>
+      <webElementGuid>79df5b8a-df60-4787-a874-f879c57da370</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>e319d61a-e19a-47df-bbcc-d53f7200822a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
