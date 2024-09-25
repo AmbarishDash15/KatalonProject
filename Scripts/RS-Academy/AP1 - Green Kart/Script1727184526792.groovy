@@ -41,5 +41,5 @@ WebUI.verifyMatch(siteURL, 'https://rahulshettyacademy.com/seleniumPractise/#/',
 
 WebUI.verifyElementPresent(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/Product'), 0)
 
-WebUI.findWebElements(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/a_'), 0)
+WebUI.findWebElements(findTestObject('null'), 0)
 
