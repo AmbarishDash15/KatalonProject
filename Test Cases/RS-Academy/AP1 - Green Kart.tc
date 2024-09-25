@@ -12,11 +12,37 @@
       <value></value>
       <variableId>9474bbf1-7562-405c-9bc3-7a344e64ff33</variableId>
    </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fbd6081b-e088-4883-a4ea-0b9124cb07c4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>75c045e0-401a-43eb-a445-cb4ee506741d</variableId>
+   </variableLinks>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
       <id>9474bbf1-7562-405c-9bc3-7a344e64ff33</id>
       <masked>false</masked>
       <name>siteURL</name>
+   </variable>
+   <variable>
+      <defaultValue>'Cauliflower - 1 Kg'</defaultValue>
+      <description></description>
+      <id>fbd6081b-e088-4883-a4ea-0b9124cb07c4</id>
+      <masked>true</masked>
+      <name>firstItem</name>
+   </variable>
+   <variable>
+      <defaultValue>'Cucumber - 1 Kg'</defaultValue>
+      <description></description>
+      <id>75c045e0-401a-43eb-a445-cb4ee506741d</id>
+      <masked>false</masked>
+      <name>secondItem</name>
    </variable>
 </TestCaseEntity>

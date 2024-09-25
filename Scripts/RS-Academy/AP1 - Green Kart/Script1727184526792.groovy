@@ -40,16 +40,15 @@ siteURL = WebUI.getUrl()
 
 WebUI.verifyMatch(siteURL, 'https://rahulshettyacademy.com/seleniumPractise/#/', false, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementPresent(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/Product'), 0)
+WebUI.verifyElementPresent(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/div_GREENKART'), 0)
 
-productName = WebUI.getText(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/Product'))
+WebUI.verifyElementPresent(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/Product', [('itemName') : firstItem]), 
+    0)
 
-WebUI.modifyObjectProperty(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/Product'), 'text', 'Brocolli - 1 Kg*', 
-    'Cauliflower - 1 Kg', false)
+WebUI.click(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/incrementor', [('itemName') : firstItem]))
 
-productName = WebUI.getText(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/Product'), FailureHandling.STOP_ON_FAILURE)
+WebUI.verifyElementPresent(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/Product', [('itemName') : secondItem]), 
+    0)
 
-WebUI.verifyElementPresent(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/incrementor'), 0)
-
-WebUI.click(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/incrementor'))
+WebUI.click(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/incrementor', [('itemName') : secondItem]))
 

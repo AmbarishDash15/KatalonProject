@@ -8,10 +8,11 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//div[(contains(text(), 'Brocolli - 1 Kg') or contains(., 'Brocolli - 1 Kg')) and @class = 'product']</value>
+         <value>//div[(contains(text(), '${itemName}') or contains(., '${itemName}')) and @class = 'product']</value>
       </entry>
       <entry>
          <key>XPATH</key>
+         <value>//h4[@class='product-name'][contains(text(),'${itemName}')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +23,7 @@
          <value></value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
@@ -36,8 +37,8 @@
       <matchCondition>contains</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Brocolli - 1 Kg</value>
-      <webElementGuid>1b5fd774-054a-45ff-8de6-0ab3ab77bd9b</webElementGuid>
+      <value>${itemName}</value>
+      <webElementGuid>22194df1-32f3-46f6-96e5-ff2800876057</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +46,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>7bab0254-fa33-4e56-b40d-7419eca77871</webElementGuid>
+      <webElementGuid>7477e84d-0c2e-499b-a05b-340a6ddcc198</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,6 +54,6 @@
       <name>class</name>
       <type>Main</type>
       <value>product</value>
-      <webElementGuid>af2d4342-f054-401b-93f8-5df037bc4bcc</webElementGuid>
+      <webElementGuid>b3855f62-2378-477c-a570-180fa5cd0233</webElementGuid>
    </webElementProperties>
 </WebElementEntity>
