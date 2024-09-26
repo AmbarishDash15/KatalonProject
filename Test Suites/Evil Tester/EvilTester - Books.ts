@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>EvilTester - Books</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>90</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>000d23ad-e065-499f-ae2a-838ca0d45ef4</testSuiteGuid>
+   <testCaseLink>
+      <guid>ba91d454-fcb2-441b-a3a8-c42629244380</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/EvilTester/Validate Books - Java For Tester</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a241e774-c53a-4d9e-acfc-629394c46ec8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>bb05662d-d52e-440c-a5dd-6ff860dcd2c8</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9d101f4f-19c6-4b85-be0a-193ca522fd7f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/EvilTester/Validate Books - Dear Evil Tester</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e10cd8d3-2ba4-4fdf-bb1a-00d78b00e3ab</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0cc68c88-28d9-400e-ac4b-3d91bba219dd</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d874658d-40a0-4b37-9ece-47c4d491da3d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/EvilTester/Validate Books - Automating API</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>6e88a072-975b-4517-8574-30bc750c9413</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b45554de-434f-4ded-8d23-57f1484017e7</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1652b11f-5a70-4fbf-9474-213d1fb64e49</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/EvilTester/Validate Books - All Books</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8ab70996-3640-49cd-aba6-2a856133b903</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>28bf2286-004a-4f5d-82df-7845054f9b34</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

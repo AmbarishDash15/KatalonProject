@@ -3,6 +3,7 @@ import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.beust.jcommander.converters.IntegerConverter as IntegerConverter
 import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
 import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
 import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
@@ -17,6 +18,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 import java.lang.String as String
+import java.lang.Integer as Integer
 
 WebUI.openBrowser('')
 
@@ -42,13 +44,25 @@ WebUI.verifyMatch(siteURL, 'https://rahulshettyacademy.com/seleniumPractise/#/',
 
 WebUI.verifyElementPresent(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/div_GREENKART'), 0)
 
-WebUI.verifyElementPresent(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/Product', [('itemName') : firstItem]), 
+WebUI.verifyElementPresent(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/Product', [('itemName') : item]), 
     0)
 
-WebUI.click(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/incrementor', [('itemName') : firstItem]))
+Integer quantityInt = Integer.parseInt(quantity)
 
-WebUI.verifyElementPresent(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/Product', [('itemName') : secondItem]), 
-    0)
+for (def index : (1..quantityInt)) {
+    WebUI.click(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/incrementor', [('itemName') : item]))
+}
 
-WebUI.click(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/incrementor', [('itemName') : secondItem]))
+WebUI.click(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/decrementer', [('itemName') : item]))
+
+String quantityString = quantityInt.toString()
+
+WebUI.verifyElementAttributeValue(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/itemQuantity', [('itemName') : item]), 
+    'value', quantityString, 0)
+
+WebUI.click(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/button_ADD TO CART', [('itemName') : item]))
+
+WebUI.delay(1)
+
+WebUI.verifyElementPresent(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/button_ADDED'), 0)
 

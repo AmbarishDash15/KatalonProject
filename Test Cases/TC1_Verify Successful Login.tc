@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC1_Verify Successful Login</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>22daed73-ee3d-47d6-a399-f532d66be244</testCaseGuid>
-</TestCaseEntity>

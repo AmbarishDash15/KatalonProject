@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CheckItemPriceMultiple - Datafile</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>846a2041-40b6-4ab6-8c71-d3963e8b98b5</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>2bb46146-d18b-4d4e-bcfa-bf69c3d3ba43</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/GreenKart/ItemPrice</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>2bb46146-d18b-4d4e-bcfa-bf69c3d3ba43</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>item</value>
+      <variableId>671d28fd-82cf-47b0-8aaf-7b4d04a90c2d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>2bb46146-d18b-4d4e-bcfa-bf69c3d3ba43</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>price</value>
+      <variableId>2090a300-73c6-47ed-8662-bd45c405f97f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>671d28fd-82cf-47b0-8aaf-7b4d04a90c2d</id>
+      <masked>false</masked>
+      <name>item</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2090a300-73c6-47ed-8662-bd45c405f97f</id>
+      <masked>false</masked>
+      <name>price</name>
+   </variable>
+</TestCaseEntity>

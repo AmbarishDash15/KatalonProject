@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>${itemName}</value>
-      <webElementGuid>22194df1-32f3-46f6-96e5-ff2800876057</webElementGuid>
+      <webElementGuid>25cecc7a-2ed2-4698-889f-e261b0cfb64b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>7477e84d-0c2e-499b-a05b-340a6ddcc198</webElementGuid>
+      <webElementGuid>33429226-31b4-49f6-9d52-d42704402397</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,6 +54,6 @@
       <name>class</name>
       <type>Main</type>
       <value>product</value>
-      <webElementGuid>b3855f62-2378-477c-a570-180fa5cd0233</webElementGuid>
+      <webElementGuid>6c94382a-e7cb-4e74-888b-5e391482f4bb</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

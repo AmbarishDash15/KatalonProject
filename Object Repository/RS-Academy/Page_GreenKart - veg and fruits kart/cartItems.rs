@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>cartItems</name>
+   <tag></tag>
+   <elementGuidId>6977407f-df71-49b0-ad1a-694ba5c34800</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='cart-info']/table/tbody/tr[1]/td/strong</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>/html/body/div[1]/div/header/div/div[3]/div[1]/table/tbody/tr[1]/td[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Items : 0&quot;i] >> internal:role=strong</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>ee4485f3-a965-41f9-9796-1a214cbff344</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>472a08a8-6607-4a82-9c70-904a0d623497</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;container&quot;]/header[1]/div[@class=&quot;container&quot;]/div[@class=&quot;cart&quot;]/div[@class=&quot;cart-info&quot;]/table[1]/tbody[1]/tr[1]/td[3]/strong[1]</value>
+      <webElementGuid>9dfa0c3b-4d8e-4883-9fe2-dbdb99e89f4e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/header/div/div[3]/div/table/tbody/tr/td[3]/strong</value>
+      <webElementGuid>b4da9f13-02ee-4d89-af5f-742371690940</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[1]/following::strong[1]</value>
+      <webElementGuid>4556735c-823a-4824-91bd-52d8ab02d85c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Items'])[1]/following::strong[1]</value>
+      <webElementGuid>575b2ec5-e131-4017-bd44-26e4a3ab719b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Price'])[1]/preceding::strong[1]</value>
+      <webElementGuid>700e136f-4171-4904-91b4-d4ff8cbbc8cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[2]/preceding::strong[1]</value>
+      <webElementGuid>8af2d175-e9a2-49a7-846b-371fc2b784c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong</value>
+      <webElementGuid>68cac9f3-f122-4387-86ff-8385138a9515</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = '0' or . = '0')]</value>
+      <webElementGuid>bad2ca8d-0fb7-4f24-87ee-b5a8383c5d45</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

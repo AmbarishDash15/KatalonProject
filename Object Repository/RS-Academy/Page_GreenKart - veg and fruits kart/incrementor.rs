@@ -15,6 +15,11 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -23,6 +28,6 @@
       <name>class</name>
       <type>Main</type>
       <value>increment</value>
-      <webElementGuid>5159e91d-97fb-425b-8c8d-52d0d61e8ca7</webElementGuid>
+      <webElementGuid>4b1024f6-91cb-4a03-8f67-59121cd912dd</webElementGuid>
    </webElementProperties>
 </WebElementEntity>
