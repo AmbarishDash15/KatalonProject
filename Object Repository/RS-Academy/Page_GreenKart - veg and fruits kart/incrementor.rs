@@ -6,12 +6,12 @@
    <elementGuidId>e6cb9d78-e5d5-4105-a0c6-6d38e6a8ae98</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//h4[@class='product-name'][contains(text(),'${itemName}')]//parent::div//child::div[@class='stepper-input']/a[@class='increment']</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//*[@class = 'increment' and @ref_element = 'Object Repository/RS-Academy/Page_GreenKart - veg and fruits kart/Product' and @ref_element_is_shadow_root = 'true']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h4[@class='product-name'][contains(text(),'${itemName}')]//parent::div//child::div[@class='stepper-input']/a[@class='increment']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -28,6 +28,6 @@
       <name>class</name>
       <type>Main</type>
       <value>increment</value>
-      <webElementGuid>4b1024f6-91cb-4a03-8f67-59121cd912dd</webElementGuid>
+      <webElementGuid>67eb7152-508e-4abb-b33b-ed35308817d4</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

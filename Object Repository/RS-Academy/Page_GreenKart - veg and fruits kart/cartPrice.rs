@@ -11,6 +11,11 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -19,7 +24,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>DIV</value>
-      <webElementGuid>ed86a66f-2a01-4071-b792-2a067ad63941</webElementGuid>
+      <webElementGuid>a9566273-afc3-40ba-bb02-606878674b26</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -27,6 +32,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>xpath1727318065242</value>
-      <webElementGuid>03c8c8da-fcf8-4af8-9548-a4ab45773423</webElementGuid>
+      <webElementGuid>46ce6ef4-f902-4a70-aac4-dbdc6b59beaf</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

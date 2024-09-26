@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>itemPrice</name>
+   <name>button_KART_search-button</name>
    <tag></tag>
-   <elementGuidId>83cecf0a-2a69-4914-8cbf-65972788bdbe</elementGuidId>
+   <elementGuidId>fa1c2dbe-ee6d-4b64-b4eb-31e0ad8d6201</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//h4[@class='product-name'][contains(text(),'${itemName}')]//parent::div//child::p</value>
+         <value>//button[@type='submit']</value>
       </entry>
       <entry>
          <key>CSS</key>
+         <value>button.search-button</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>div >> internal:has-text=/^Cauliflower - 1 Kg60–\+ADD TO CART$/ >> internal:role=paragraph</value>
+         <value>internal:role=banner >> internal:role=button</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -27,87 +28,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>p</value>
-      <webElementGuid>3f36d590-9e42-498f-b1d1-3ac3755c3ed3</webElementGuid>
+      <value>button</value>
+      <webElementGuid>af61e296-5fca-4457-9af9-da0a72a962c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>product-price</value>
-      <webElementGuid>8d4bbcc3-eed8-442e-8666-f7ef60d5c84c</webElementGuid>
+      <value>search-button</value>
+      <webElementGuid>fb97d13b-0b71-4ed0-8b55-2748116263b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
+      <name>type</name>
       <type>Main</type>
-      <value>60</value>
-      <webElementGuid>a2736abb-31a8-4c70-844c-2ff65c27b02a</webElementGuid>
+      <value>submit</value>
+      <webElementGuid>dd55a2cb-939d-4043-a482-3449c133b074</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;products-wrapper&quot;]/div[@class=&quot;products&quot;]/div[@class=&quot;product&quot;]/p[@class=&quot;product-price&quot;]</value>
-      <webElementGuid>297004e4-a75b-4397-bef0-e8da9994ccba</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;container&quot;]/header[1]/div[@class=&quot;container&quot;]/div[@class=&quot;search&quot;]/form[@class=&quot;search-form&quot;]/button[@class=&quot;search-button&quot;]</value>
+      <webElementGuid>76733b5f-650c-4a22-a75b-538d01f3719c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>5a8ce996-07a0-43a0-bfe1-dedc439a1c3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div/div/div/div[2]/p</value>
-      <webElementGuid>7cca2232-27a2-4000-9552-7cfd1b047fdb</webElementGuid>
+      <value>//div[@id='root']/div/header/div/div[2]/form/button</value>
+      <webElementGuid>dd6ee3a4-73ec-4742-80d5-6b4bcde167e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cauliflower - 1 Kg'])[1]/following::p[1]</value>
-      <webElementGuid>d192f0ee-4e36-4c3b-9daf-c2921749854e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KART'])[1]/following::button[1]</value>
+      <webElementGuid>1d6a857a-3ffd-4c02-9506-401fbd2c38ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='ADD TO CART'])[1]/following::p[1]</value>
-      <webElementGuid>6f8a7d73-fdac-4e51-be9f-74d99e75a2aa</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Limited offer - FREE Core Java &amp; QA Resume course'])[1]/preceding::button[1]</value>
+      <webElementGuid>3c06444c-013f-4a29-841e-1c368c579611</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='ADD TO CART'])[2]/preceding::p[1]</value>
-      <webElementGuid>b2713f7c-b389-4662-b1c8-3fdbbaa57663</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cucumber - 1 Kg'])[1]/preceding::p[1]</value>
-      <webElementGuid>0b3d3ae4-f4b6-4860-93c7-1559d9d7bd9e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top Deals'])[1]/preceding::button[1]</value>
+      <webElementGuid>fe1cc877-69ad-459e-9a57-53a9433f39a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/p</value>
-      <webElementGuid>7078c823-15ea-4a5f-aae9-f6648c47ddd1</webElementGuid>
+      <value>//button</value>
+      <webElementGuid>e0ebc2d9-d60e-443f-9a09-da216cfa20da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//p[(text() = '60' or . = '60')]</value>
-      <webElementGuid>2acde190-0073-451a-bb69-5f1f9d56566e</webElementGuid>
+      <value>//button[@type = 'submit']</value>
+      <webElementGuid>38ad67cd-957d-431e-a16a-c7aa5c340d22</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

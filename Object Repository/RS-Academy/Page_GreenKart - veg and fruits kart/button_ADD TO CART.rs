@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e2e75b12-3aab-40b3-93b8-6a97f7aeb684</webElementGuid>
+      <webElementGuid>e6ee5675-e62c-4513-8c6b-efa1e538337c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +36,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>8693ce33-5e96-4530-919d-36c193f8df00</webElementGuid>
+      <webElementGuid>c51425bc-f388-4c6a-989a-39a250efbf3f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +44,7 @@
       <name>text</name>
       <type>Main</type>
       <value>ADD TO CART</value>
-      <webElementGuid>bd389b9e-60d9-4f08-94ef-b37ef45fec4a</webElementGuid>
+      <webElementGuid>21e6aba5-2097-4c0f-8496-894693926d45</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +52,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;products-wrapper&quot;]/div[@class=&quot;products&quot;]/div[@class=&quot;product&quot;]/div[@class=&quot;product-action&quot;]/button[1]</value>
-      <webElementGuid>43408223-0ca8-4b1e-91e5-6f7f2951d0de</webElementGuid>
+      <webElementGuid>e6e83986-fc97-47fb-a93d-7f74a803e6c8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +60,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[2]</value>
-      <webElementGuid>b34d72de-f33a-48b0-8911-94d6245624ea</webElementGuid>
+      <webElementGuid>6044e7a8-15d0-47f1-8d9f-4c31061c3379</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div/div[3]/button</value>
-      <webElementGuid>bc47b7ad-a0b6-4add-841f-bd2dfbb51f1a</webElementGuid>
+      <webElementGuid>289635f5-32a1-4b03-aa81-c2a993c035ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Brocolli - 1 Kg'])[1]/following::button[1]</value>
-      <webElementGuid>cdc83b9f-7e8e-4222-9440-fdf8c3f258b9</webElementGuid>
+      <webElementGuid>3dc98f89-e457-48b5-8a87-f221c436827b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PROCEED TO CHECKOUT'])[1]/following::button[1]</value>
-      <webElementGuid>b3863851-6a01-42e8-9c64-ef672e26465c</webElementGuid>
+      <webElementGuid>a4a3139a-99f1-4a11-9b4d-1cbd568e3820</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +92,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cauliflower - 1 Kg'])[1]/preceding::button[1]</value>
-      <webElementGuid>dae941e2-8870-46cd-bbc2-a1851131655b</webElementGuid>
+      <webElementGuid>62d9fa91-0e3c-44ab-8e75-28e936ab4707</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +100,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ADD TO CART'])[2]/preceding::button[1]</value>
-      <webElementGuid>99005252-50b3-463d-90bc-6060d8923ec4</webElementGuid>
+      <webElementGuid>bfa37b06-a20e-4a87-a6fd-761a3edb857e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +108,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button</value>
-      <webElementGuid>e64d9646-0781-4dc8-8691-883f396b1faa</webElementGuid>
+      <webElementGuid>f01b4171-d2da-4571-abc7-7652d5515ec2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +116,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'ADD TO CART' or . = 'ADD TO CART')]</value>
-      <webElementGuid>35f1a36d-a58b-43f4-b7a3-153bd7e87d89</webElementGuid>
+      <webElementGuid>9d98fe49-cb97-459d-98bd-c3bd27235153</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

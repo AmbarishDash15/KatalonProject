@@ -150,4 +150,50 @@
          <variableId>05363f50-facc-44c8-9eed-1e80bdd68727</variableId>
       </variableLink>
    </testCaseLink>
+   <testCaseLink>
+      <guid>3d91b387-ff21-4c3e-bc79-d08b5a214393</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/RS-Academy/GreenKart/Search and add item</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>15924360-a0c5-42f4-b232-952e088bcdfb</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/GreenKart/ItemPriceQuanity</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>15924360-a0c5-42f4-b232-952e088bcdfb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>item</value>
+         <variableId>a6201788-aca6-4a71-bce0-c64e587adbd5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>15924360-a0c5-42f4-b232-952e088bcdfb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>price</value>
+         <variableId>108536c1-33fc-4bcf-b0b1-e43bb93944c8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>15924360-a0c5-42f4-b232-952e088bcdfb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>quantity</value>
+         <variableId>cf8771e1-2d72-4d33-a315-f354eb07a98a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0fdd6c11-4a02-4e01-8c34-4fc5e4d326e5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>44f79433-673d-4142-b5ec-d60347376408</variableId>
+      </variableLink>
+   </testCaseLink>
 </TestSuiteEntity>

@@ -7,7 +7,6 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value></value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -15,6 +14,11 @@
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>DIV</value>
-      <webElementGuid>670272a8-a39b-4fe3-924b-82f7bfa117ae</webElementGuid>
+      <webElementGuid>45112911-c014-4d6c-8cae-c74b8046cdef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,6 +35,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>xpath1727318140960</value>
-      <webElementGuid>c7fb3949-a3a4-45d8-90df-55e783db6186</webElementGuid>
+      <webElementGuid>9914f91e-3875-4003-9a2e-5eb8b800e429</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

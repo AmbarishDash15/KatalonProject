@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>strong</value>
-      <webElementGuid>ee4485f3-a965-41f9-9796-1a214cbff344</webElementGuid>
+      <webElementGuid>1f9f6228-5b64-4159-8c0d-2ea6205faae2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>472a08a8-6607-4a82-9c70-904a0d623497</webElementGuid>
+      <webElementGuid>2bdf0a0d-4db2-4575-9b3c-e8416565959f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;container&quot;]/header[1]/div[@class=&quot;container&quot;]/div[@class=&quot;cart&quot;]/div[@class=&quot;cart-info&quot;]/table[1]/tbody[1]/tr[1]/td[3]/strong[1]</value>
-      <webElementGuid>9dfa0c3b-4d8e-4883-9fe2-dbdb99e89f4e</webElementGuid>
+      <webElementGuid>fc4511b6-a592-4bdb-8223-8f36027925a3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/header/div/div[3]/div/table/tbody/tr/td[3]/strong</value>
-      <webElementGuid>b4da9f13-02ee-4d89-af5f-742371690940</webElementGuid>
+      <webElementGuid>02757437-dbd8-4218-9413-ebdaa03ead03</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[1]/following::strong[1]</value>
-      <webElementGuid>4556735c-823a-4824-91bd-52d8ab02d85c</webElementGuid>
+      <webElementGuid>d96633b0-f636-4d1c-8a4c-5e89789f8131</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Items'])[1]/following::strong[1]</value>
-      <webElementGuid>575b2ec5-e131-4017-bd44-26e4a3ab719b</webElementGuid>
+      <webElementGuid>a9911a21-4827-4ec3-bc31-903eaec61e48</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Price'])[1]/preceding::strong[1]</value>
-      <webElementGuid>700e136f-4171-4904-91b4-d4ff8cbbc8cf</webElementGuid>
+      <webElementGuid>0174a16c-76e6-440b-9cb9-6c61a19c8d13</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[2]/preceding::strong[1]</value>
-      <webElementGuid>8af2d175-e9a2-49a7-846b-371fc2b784c9</webElementGuid>
+      <webElementGuid>9c09d1af-0b05-4920-ac29-1350842166ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//strong</value>
-      <webElementGuid>68cac9f3-f122-4387-86ff-8385138a9515</webElementGuid>
+      <webElementGuid>15091a2b-f23c-46cc-8a7a-2cc7e3d74ccb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//strong[(text() = '0' or . = '0')]</value>
-      <webElementGuid>bad2ca8d-0fb7-4f24-87ee-b5a8383c5d45</webElementGuid>
+      <webElementGuid>ff6b6d8f-d20e-4ce3-af0a-4e8cbc86554b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -4,7 +4,6 @@
    <name>Product</name>
    <tag></tag>
    <elementGuidId>2a75cdbf-6ed9-4be4-8c98-b072ce425b92</elementGuidId>
-   <imagePath></imagePath>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -16,18 +15,15 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>IMAGE</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value></value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -38,7 +34,7 @@
       <name>text</name>
       <type>Main</type>
       <value>${itemName}</value>
-      <webElementGuid>25cecc7a-2ed2-4698-889f-e261b0cfb64b</webElementGuid>
+      <webElementGuid>b5f8a002-a9ac-44a9-8032-603ce0eb68c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +42,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>33429226-31b4-49f6-9d52-d42704402397</webElementGuid>
+      <webElementGuid>d22ccf4c-ba17-4afb-96b4-090008f32c7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,6 +50,6 @@
       <name>class</name>
       <type>Main</type>
       <value>product</value>
-      <webElementGuid>6c94382a-e7cb-4e74-888b-5e391482f4bb</webElementGuid>
+      <webElementGuid>7092a188-d27a-409e-a1f3-ddb2822c14c3</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

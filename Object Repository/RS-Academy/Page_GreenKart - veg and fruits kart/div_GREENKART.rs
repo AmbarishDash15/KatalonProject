@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>a83979ea-85f9-4000-bd67-3a6823b62b77</webElementGuid>
+      <webElementGuid>6d2ba1ad-73d0-45e5-a3b7-b1e0b1f3955b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>brand greenLogo</value>
-      <webElementGuid>8937d348-9675-4642-8cf5-4008900cc75d</webElementGuid>
+      <webElementGuid>9e475353-6e2a-4134-8f9b-8a63c1aa3b10</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>GREENKART</value>
-      <webElementGuid>135fbf71-3039-4644-ae38-1865c97ec537</webElementGuid>
+      <webElementGuid>925de479-c727-456f-a575-b81157026c19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;container&quot;]/header[1]/div[@class=&quot;container&quot;]/div[@class=&quot;brand greenLogo&quot;]</value>
-      <webElementGuid>326e912b-43be-4fe1-86a6-b78f18e7ef50</webElementGuid>
+      <webElementGuid>2d4f5210-a559-4b81-ad4e-e644e1fba08a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/header/div/div</value>
-      <webElementGuid>6527715f-bbe2-4b2d-8950-1692144408b8</webElementGuid>
+      <webElementGuid>56dff085-f263-4675-9d78-aef13d312454</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Limited offer - FREE Core Java &amp; QA Resume course'])[1]/preceding::div[2]</value>
-      <webElementGuid>66270feb-54ce-4f0b-8f32-0d3a2eabe144</webElementGuid>
+      <webElementGuid>d615d95c-efb3-41d4-adbb-87037863b1cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='GREEN']/parent::*</value>
-      <webElementGuid>8e4b08f8-d10d-4572-8dc5-c9da3c5fe662</webElementGuid>
+      <webElementGuid>6765bb6e-7cf7-4ebc-a84a-71e86d8990b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//header/div/div</value>
-      <webElementGuid>b972760c-3133-459a-b1d6-d7215819f8ce</webElementGuid>
+      <webElementGuid>33d017c2-9a08-484e-bdd1-856713444d09</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'GREENKART' or . = 'GREENKART')]</value>
-      <webElementGuid>21bc1631-fef3-4c03-a955-5a1753307d88</webElementGuid>
+      <webElementGuid>d2e1d55b-5e72-47a0-aaf9-2fb97c696a70</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

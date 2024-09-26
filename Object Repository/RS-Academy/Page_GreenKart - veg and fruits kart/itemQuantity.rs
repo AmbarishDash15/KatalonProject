@@ -7,18 +7,18 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//h4[@class='product-name'][contains(text(),'${itemName}')]//parent::div//child::div[@class='stepper-input']/input[@class='quantity']</value>
+         <value>//h4[@class='product-name'][contains(text(),'${itemName}')]//parent::div//child::div[@class='stepper-input']/input</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>input.search-keyword</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>div >> internal:has-text=/^Brocolli - 1 Kg120–\+ADD TO CART$/ >> internal:role=spinbutton</value>
+         <value>internal:attr=[placeholder=&quot;Search for Vegetables and Fruits&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,23 +29,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>126b1a09-f06e-4ad9-8639-bd0025510804</webElementGuid>
+      <webElementGuid>a9b30c6d-04c3-4259-a6d1-e259bd582826</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>number</value>
-      <webElementGuid>6658f7b4-7ccd-4c03-ad18-39297e5b70ab</webElementGuid>
+      <value>search</value>
+      <webElementGuid>296a9233-5ce0-48cc-b8bf-ada411ae2f26</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>quantity</value>
-      <webElementGuid>0812b33f-3fb6-4345-a83e-b69abbd0157a</webElementGuid>
+      <value>search-keyword</value>
+      <webElementGuid>89620073-ca59-4f28-a719-e4cf24642e8e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,23 +53,87 @@
       <name>value</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>647027c1-be5c-47f4-92b9-fcedf8a87138</webElementGuid>
+      <webElementGuid>9160c4ef-1e71-4571-ad49-7c84b8749a1c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;products-wrapper&quot;]/div[@class=&quot;products&quot;]/div[@class=&quot;product&quot;]/div[@class=&quot;stepper-input&quot;]/input[@class=&quot;quantity&quot;]</value>
-      <webElementGuid>7919d155-94fc-4198-91c1-5d07dd0a091f</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;container&quot;]/header[1]/div[@class=&quot;container&quot;]/div[@class=&quot;search&quot;]/form[@class=&quot;search-form&quot;]/input[@class=&quot;search-keyword&quot;]</value>
+      <webElementGuid>368f16f6-3e0f-4031-923b-e1f572ee51b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search for Vegetables and Fruits</value>
+      <webElementGuid>52ea6618-a211-4fd5-8360-dba45dfc15d7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
+      <value>//input[@type='search']</value>
+      <webElementGuid>677f5f53-95d4-4de4-b2b8-9fd376c3d67e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/header/div/div[2]/form/input</value>
+      <webElementGuid>21722ac4-57df-4e01-b52c-2668d1a1f222</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KART'])[1]/following::input[1]</value>
+      <webElementGuid>e6f9d594-6351-41da-95c3-35103b2606d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Limited offer - FREE Core Java &amp; QA Resume course'])[1]/preceding::input[1]</value>
+      <webElementGuid>e26dbe0a-2344-459a-8819-a5309b7768d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top Deals'])[1]/preceding::input[1]</value>
+      <webElementGuid>55378708-dd1d-41a9-b8e3-4ed76a655070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>9c60248d-939a-4fa9-a66a-ad9f99ddd05a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'search' and @placeholder = 'Search for Vegetables and Fruits']</value>
+      <webElementGuid>494c72a9-3b5b-48f1-9051-0b212ba04e4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
       <value>//input[@value='1']</value>
-      <webElementGuid>81f123bb-b0ec-450f-b969-e8c34a56ae24</webElementGuid>
+      <webElementGuid>ae1888db-5ec0-4082-833e-79ed9a65f231</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +141,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div/div[2]/input</value>
-      <webElementGuid>5de07e88-14e8-4022-a567-2aec453058fb</webElementGuid>
+      <webElementGuid>c4aba991-70af-4bed-ad4e-4a4d92fe4187</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Brocolli - 1 Kg'])[1]/following::input[1]</value>
-      <webElementGuid>8056c13c-4132-4121-bbc0-a74ca3457a97</webElementGuid>
+      <webElementGuid>921151de-91f0-4a7c-90a8-3209061d0089</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +157,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PROCEED TO CHECKOUT'])[1]/following::input[1]</value>
-      <webElementGuid>4ced2460-8c6d-46ed-b035-06f1613acfe7</webElementGuid>
+      <webElementGuid>456a2930-a31c-449a-a017-8bc12d729cfb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +165,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ADD TO CART'])[1]/preceding::input[1]</value>
-      <webElementGuid>b0acf004-ba7c-4423-b5e1-e59cac8d390c</webElementGuid>
+      <webElementGuid>1d073f9a-141b-4472-91af-80e2de98be0b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +173,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cauliflower - 1 Kg'])[1]/preceding::input[1]</value>
-      <webElementGuid>06cde114-7e7f-49a3-ab67-f102c6ceefbd</webElementGuid>
+      <webElementGuid>6799a829-a463-4b61-b178-c99fc65f45ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +181,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>01aa5d61-2608-4f97-b3c5-5e286071df46</webElementGuid>
+      <webElementGuid>51b2888c-358d-4c40-83e0-0a6459e2be21</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +189,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'number']</value>
-      <webElementGuid>ac0958e9-55cf-4774-8ee8-a8fe5809c8bb</webElementGuid>
+      <webElementGuid>438110b9-f6af-4dd2-9eff-1f9c65e95b21</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
