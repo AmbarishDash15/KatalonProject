@@ -126,6 +126,13 @@
       <guid>09860cb4-2107-45c9-bddd-b3475f1e950f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>''</defaultValue>
+         <description></description>
+         <id>e6376abc-a3d9-4581-8e7d-7c51d20e3cc9</id>
+         <masked>false</masked>
+         <name>item</name>
+      </iterationNameVariable>
       <testCaseId>Test Cases/RS-Academy/GreenKart/Update quantity without incrementor</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
