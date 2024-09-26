@@ -7,9 +7,9 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator>COMMA</csvSeperator>
    <dataFileGUID>1e014d0e-531d-47a5-899d-49133b70dd89</dataFileGUID>
-   <dataSourceUrl>../../OneDrive - Dialog Pty Ltd/Desktop/CheckItemPrice.csv</dataSourceUrl>
+   <dataSourceUrl>C:\Users\5035\Katalon Studio\DataFiles\CheckItemPrice.csv</dataSourceUrl>
    <driver>CSV</driver>
-   <isInternalPath>true</isInternalPath>
+   <isInternalPath>false</isInternalPath>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
    <sheetName></sheetName>
