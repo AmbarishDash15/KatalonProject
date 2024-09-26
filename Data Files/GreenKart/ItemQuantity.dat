@@ -7,9 +7,9 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator>COMMA</csvSeperator>
    <dataFileGUID>2ab32f8e-6518-4e84-9669-e16e56f26a94</dataFileGUID>
-   <dataSourceUrl>C:\Users\5035\Katalon Studio\DataFiles\OrderItemwithIncreasedQuantity.csv</dataSourceUrl>
+   <dataSourceUrl>DataFiles/OrderItemwithIncreasedQuantity.csv</dataSourceUrl>
    <driver>CSV</driver>
-   <isInternalPath>false</isInternalPath>
+   <isInternalPath>true</isInternalPath>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
    <sheetName></sheetName>

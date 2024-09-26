@@ -7,9 +7,9 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator>COMMA</csvSeperator>
    <dataFileGUID>1e014d0e-531d-47a5-899d-49133b70dd89</dataFileGUID>
-   <dataSourceUrl>C:\Users\5035\Katalon Studio\DataFiles\CheckItemPrice.csv</dataSourceUrl>
+   <dataSourceUrl>DataFiles/CheckItemPrice.csv</dataSourceUrl>
    <driver>CSV</driver>
-   <isInternalPath>false</isInternalPath>
+   <isInternalPath>true</isInternalPath>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
    <sheetName></sheetName>
