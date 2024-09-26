@@ -3,7 +3,6 @@ import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
-import com.beust.jcommander.converters.IntegerConverter as IntegerConverter
 import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
 import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
 import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
@@ -17,8 +16,6 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-import java.lang.String as String
-import java.lang.Integer as Integer
 
 WebUI.openBrowser('')
 
@@ -47,10 +44,28 @@ WebUI.verifyElementPresent(findTestObject('RS-Academy/Page_GreenKart - veg and f
 WebUI.verifyElementPresent(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/Product', [('itemName') : item]), 
     0)
 
-unitPrice = WebUI.getText(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/itemPrice', [('itemName') : item]), 
-    FailureHandling.STOP_ON_FAILURE)
+unitPrice = WebUI.getText(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/itemPrice', [('itemName') : item]))
 
-WebUI.verifyMatch(unitPrice, price, false)
+WebUI.setText(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/itemQuantity', [('itemName') : item]), quantity)
+
+WebUI.click(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/button_ADD TO CART', [('itemName') : item]))
+
+WebUI.delay(1)
+
+WebUI.verifyElementPresent(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/button_ADDED'), 0)
+
+WebUI.verifyElementText(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/cartItems'), '1')
+
+totalPrice = WebUI.getText(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/cartPrice'))
+
+if (totalPrice.toInteger() == quantity.toInteger() * unitPrice.toInteger()) {
+	assert true
+}
+else {
+	assert false
+}
+
+
 
 WebUI.closeBrowser()
 

@@ -87,6 +87,12 @@
          <value>price</value>
          <variableId>2090a300-73c6-47ed-8662-bd45c405f97f</variableId>
       </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>6f782fac-2d4a-47e1-97c0-eaab2039b634</variableId>
+      </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>7fea2b1b-74e7-4df8-b951-e5da0c2a82f1</guid>
@@ -114,6 +120,34 @@
          <type>DATA_COLUMN</type>
          <value>quantity</value>
          <variableId>ec38aa7c-cedd-4c76-9f5d-0d263204dcee</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>09860cb4-2107-45c9-bddd-b3475f1e950f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/RS-Academy/GreenKart/Update quantity without incrementor</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>1cf22576-ca04-428f-b2a2-8b0fa78acce8</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/GreenKart/ItemQuantity</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>1cf22576-ca04-428f-b2a2-8b0fa78acce8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>item</value>
+         <variableId>e6376abc-a3d9-4581-8e7d-7c51d20e3cc9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1cf22576-ca04-428f-b2a2-8b0fa78acce8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>quantity</value>
+         <variableId>05363f50-facc-44c8-9eed-1e80bdd68727</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

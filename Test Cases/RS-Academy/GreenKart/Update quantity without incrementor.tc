@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Update quantity without incrementor</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>70b9a78a-1a04-4f73-b722-1aff04048263</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>fbe5ad52-7046-47d6-b319-fd8f40b3a971</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/GreenKart/ItemQuantity</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>fbe5ad52-7046-47d6-b319-fd8f40b3a971</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>item</value>
+      <variableId>e6376abc-a3d9-4581-8e7d-7c51d20e3cc9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>fbe5ad52-7046-47d6-b319-fd8f40b3a971</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>quantity</value>
+      <variableId>05363f50-facc-44c8-9eed-1e80bdd68727</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e6376abc-a3d9-4581-8e7d-7c51d20e3cc9</id>
+      <masked>false</masked>
+      <name>item</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>05363f50-facc-44c8-9eed-1e80bdd68727</id>
+      <masked>false</masked>
+      <name>quantity</name>
+   </variable>
+</TestCaseEntity>
