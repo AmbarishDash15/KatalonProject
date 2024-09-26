@@ -12,25 +12,6 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>bb972e5d-2d41-4428-84fc-c048442798b1</testSuiteGuid>
    <testCaseLink>
-      <guid>27430a87-3d25-4957-96ef-50e101f25d54</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/RS-Academy/GreenKart/AddItemToCartWithIncreasedQuantity - Datafile</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>2b6cce89-aec6-4b4c-a4eb-512d1ebea912</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>ec38aa7c-cedd-4c76-9f5d-0d263204dcee</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
       <guid>67f4eb5b-855e-4c73-a746-4458c02b42d3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
@@ -96,6 +77,25 @@
          <type>DEFAULT</type>
          <value></value>
          <variableId>2090a300-73c6-47ed-8662-bd45c405f97f</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>27430a87-3d25-4957-96ef-50e101f25d54</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/RS-Academy/GreenKart/AddItemToCartWithIncreasedQuantity - Datafile</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2b6cce89-aec6-4b4c-a4eb-512d1ebea912</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ec38aa7c-cedd-4c76-9f5d-0d263204dcee</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

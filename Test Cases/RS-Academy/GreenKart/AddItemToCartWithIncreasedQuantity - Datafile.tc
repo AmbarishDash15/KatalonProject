@@ -35,7 +35,7 @@
       <name>item</name>
    </variable>
    <variable>
-      <defaultValue>0</defaultValue>
+      <defaultValue>''</defaultValue>
       <description></description>
       <id>ec38aa7c-cedd-4c76-9f5d-0d263204dcee</id>
       <masked>false</masked>

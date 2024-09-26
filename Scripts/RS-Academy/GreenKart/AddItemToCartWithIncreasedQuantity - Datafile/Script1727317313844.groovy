@@ -47,22 +47,20 @@ WebUI.verifyElementPresent(findTestObject('RS-Academy/Page_GreenKart - veg and f
 WebUI.verifyElementPresent(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/Product', [('itemName') : item]), 
     0)
 
-Integer quantityInt = Integer.parseInt(quantity)
-
-for (def index : (1..quantityInt)) {
+for (int i = 2;i < quantity.toInteger(); i++) {
     WebUI.click(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/incrementor', [('itemName') : item]))
 }
 
-WebUI.click(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/decrementer', [('itemName') : item]))
-
-String quantityString = quantityInt.toString()
+WebUI.click(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/incrementor', [('itemName') : item]))
 
 WebUI.verifyElementAttributeValue(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/itemQuantity', [('itemName') : item]), 
-    'value', quantityString, 0)
+    'value', quantity, 0)
 
 WebUI.click(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/button_ADD TO CART', [('itemName') : item]))
 
 WebUI.delay(1)
 
 WebUI.verifyElementPresent(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/button_ADDED'), 0)
+
+WebUI.closeBrowser()
 
