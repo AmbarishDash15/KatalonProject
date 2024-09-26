@@ -65,36 +65,54 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/RS-Academy/GreenKart/CheckItemPriceMultiple - Datafile</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>f08aeff2-4a6d-40ae-9e4d-184f38b62a15</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/GreenKart/ItemPrice</testDataId>
+      </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>f08aeff2-4a6d-40ae-9e4d-184f38b62a15</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>item</value>
          <variableId>671d28fd-82cf-47b0-8aaf-7b4d04a90c2d</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>f08aeff2-4a6d-40ae-9e4d-184f38b62a15</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>price</value>
          <variableId>2090a300-73c6-47ed-8662-bd45c405f97f</variableId>
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>27430a87-3d25-4957-96ef-50e101f25d54</guid>
+      <guid>7fea2b1b-74e7-4df8-b951-e5da0c2a82f1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/RS-Academy/GreenKart/AddItemToCartWithIncreasedQuantity - Datafile</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>f8126270-19ac-43c2-8460-987077096e9e</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/GreenKart/ItemQuantity</testDataId>
+      </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>f8126270-19ac-43c2-8460-987077096e9e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>item</value>
          <variableId>2b6cce89-aec6-4b4c-a4eb-512d1ebea912</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>f8126270-19ac-43c2-8460-987077096e9e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>quantity</value>
          <variableId>ec38aa7c-cedd-4c76-9f5d-0d263204dcee</variableId>
       </variableLink>
    </testCaseLink>
