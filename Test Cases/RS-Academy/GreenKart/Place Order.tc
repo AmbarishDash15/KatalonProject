@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Place Order</name>
+   <tag>Smoke</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8687b657-e058-4417-b071-3c6b96026780</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ff2972e6-dce9-41b1-a744-6e40caf00368</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>692eeb16-d757-44f9-a67e-b4ef941f897f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7e71463e-b788-42ed-8005-b4271b558c80</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3d309bc1-f075-42d8-8b65-b9be07a53077</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Ambarish'</defaultValue>
+      <description></description>
+      <id>ff2972e6-dce9-41b1-a744-6e40caf00368</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'dash.ambarish15@gmail.com'</defaultValue>
+      <description></description>
+      <id>692eeb16-d757-44f9-a67e-b4ef941f897f</id>
+      <masked>false</masked>
+      <name>eMail</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://rahulshettyacademy.com/practice-project'</defaultValue>
+      <description></description>
+      <id>7e71463e-b788-42ed-8005-b4271b558c80</id>
+      <masked>false</masked>
+      <name>launchURL</name>
+   </variable>
+   <variable>
+      <defaultValue>'Beans - 1 Kg'</defaultValue>
+      <description></description>
+      <id>3d309bc1-f075-42d8-8b65-b9be07a53077</id>
+      <masked>false</masked>
+      <name>item</name>
+   </variable>
+</TestCaseEntity>

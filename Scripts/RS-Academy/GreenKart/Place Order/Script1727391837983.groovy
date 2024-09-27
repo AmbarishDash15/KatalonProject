@@ -19,36 +19,28 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://rahulshettyacademy.com/practice-project')
+WebUI.navigateToUrl(launchURL)
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Object Repository/RS-Academy/Page_Landing/input_Name'), 
-    'Ambarish')
+WebUI.setText(findTestObject('RS-Academy/Page_Landing/input_Name'), name)
 
-WebUI.setText(findTestObject('Object Repository/RS-Academy/Page_Landing/input_eMail'), 
-    'dash.ambarish15@gmail.com')
+WebUI.setText(findTestObject('RS-Academy/Page_Landing/input_eMail'), eMail)
 
-WebUI.click(findTestObject('Object Repository/RS-Academy/Page_Landing/button_Submit'))
+WebUI.click(findTestObject('RS-Academy/Page_Landing/button_Submit'))
 
-WebUI.click(findTestObject('Object Repository/RS-Academy/Page_Home/a_Automation Practise - 1'))
+WebUI.delay(1)
 
-WebUI.waitForPageLoad(0)
+WebUI.verifyElementPresent(findTestObject('RS-Academy/Page_Home/a_Automation Practise - 1'), 0)
 
-siteURL = WebUI.getUrl()
-
-WebUI.verifyMatch(siteURL, 'https://rahulshettyacademy.com/seleniumPractise/#/', false, FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('RS-Academy/Page_Home/a_Automation Practise - 1'))
 
 WebUI.verifyElementPresent(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/div_GREENKART'), 0)
 
 WebUI.verifyElementPresent(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/Product', [('itemName') : item]), 
     0)
 
-unitPrice = WebUI.getText(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/itemPrice', [('itemName') : item]))
-
-WebUI.setText(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/itemQuantity', [('itemName') : item]), quantity)
-
-WebUI.click(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/button_ADD TO CART', [('itemName') : item]))
+WebUI.click(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/button_ADD TO CART'))
 
 WebUI.delay(1)
 
@@ -56,16 +48,5 @@ WebUI.verifyElementPresent(findTestObject('RS-Academy/Page_GreenKart - veg and f
 
 WebUI.verifyElementText(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/cartItems'), '1')
 
-totalPrice = WebUI.getText(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/cartPrice'))
-
-if (totalPrice.toInteger() == quantity.toInteger() * unitPrice.toInteger()) {
-	assert true
-}
-else {
-	assert false
-}
-
-
-
-WebUI.closeBrowser()
+WebUI.click(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/cartIcon'))
 

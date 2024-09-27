@@ -23,10 +23,10 @@ WebUI.navigateToUrl('https://rahulshettyacademy.com/practice-project')
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Object Repository/RS-Academy/Page_Landing/input_Submit your details in the form below_0956c4'), 
+WebUI.setText(findTestObject('Object Repository/RS-Academy/Page_Landing/input_Name'), 
     'Ambarish')
 
-WebUI.setText(findTestObject('Object Repository/RS-Academy/Page_Landing/input_Submit your details in the form below_90a8b6'), 
+WebUI.setText(findTestObject('Object Repository/RS-Academy/Page_Landing/input_eMail'), 
     'dash.ambarish15@gmail.com')
 
 WebUI.click(findTestObject('Object Repository/RS-Academy/Page_Landing/button_Submit'))
