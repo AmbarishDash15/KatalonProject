@@ -40,6 +40,10 @@ WebUI.verifyElementPresent(findTestObject('RS-Academy/Page_GreenKart - veg and f
 WebUI.verifyElementPresent(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/Product', [('itemName') : item]), 
     0)
 
+WebUI.verifyElementText(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/itemPrice'), price)
+
+WebUI.setText(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/itemQuantity'), quantity)
+
 WebUI.click(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/button_ADD TO CART'))
 
 WebUI.delay(1)
@@ -48,5 +52,32 @@ WebUI.verifyElementPresent(findTestObject('RS-Academy/Page_GreenKart - veg and f
 
 WebUI.verifyElementText(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/cartItems'), '1')
 
+WebUI.verifyElementText(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/cartPrice'), price.toInteger() * 
+    quantity.toInteger())
+
 WebUI.click(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/cartIcon'))
+
+WebUI.click(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/button_PROCEED TO CHECKOUT'))
+
+WebUI.verifyElementText(findTestObject('RS-Academy/Page_Cart/p_itemName'), item)
+
+WebUI.verifyElementText(findTestObject('RS-Academy/Page_Cart/p_quantity'), quantity)
+
+WebUI.verifyElementText(findTestObject('RS-Academy/Page_Cart/p_itemPrice'), price)
+
+WebUI.verifyElementText(findTestObject('RS-Academy/Page_Cart/p_totalAmount'), toInteger(price) * toInteger(quantity))
+
+WebUI.click(findTestObject('RS-Academy/Page_Cart/button_Place Order'))
+
+WebUI.verifyElementPresent(findTestObject('RS-Academy/Page_Address/select_Country'), 0)
+
+WebUI.selectOptionByLabel(findTestObject('RS-Academy/Page_Address/select_Country'), country, false)
+
+WebUI.check(findTestObject('RS-Academy/Page_Address/input_chkAgree'))
+
+WebUI.click(findTestObject('RS-Academy/Page_Address/button_Proceed'))
+
+WebUI.verifyElementPresent(findTestObject('RS-Academy/Page_Confirmation/span_ConfirmationText'), 0)
+
+WebUI.verifyTextPresent('Thank you, your order has been placed successfully', false)
 
