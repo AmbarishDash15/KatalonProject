@@ -40,11 +40,12 @@ WebUI.verifyElementPresent(findTestObject('RS-Academy/Page_GreenKart - veg and f
 WebUI.verifyElementPresent(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/Product', [('itemName') : item]), 
     0)
 
-WebUI.verifyElementText(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/itemPrice'), price)
+WebUI.verifyElementText(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/itemPrice', [('itemName') : item]), 
+    price.toString())
 
-WebUI.setText(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/itemQuantity'), quantity)
+WebUI.setText(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/itemQuantity', [('itemName') : item]), quantity.toString())
 
-WebUI.click(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/button_ADD TO CART'))
+WebUI.click(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/button_ADD TO CART', [('itemName') : item]))
 
 WebUI.delay(1)
 
@@ -52,8 +53,7 @@ WebUI.verifyElementPresent(findTestObject('RS-Academy/Page_GreenKart - veg and f
 
 WebUI.verifyElementText(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/cartItems'), '1')
 
-WebUI.verifyElementText(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/cartPrice'), price.toInteger() * 
-    quantity.toInteger())
+WebUI.verifyElementText(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/cartPrice'), (price * quantity).toString())
 
 WebUI.click(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/cartIcon'))
 
@@ -61,11 +61,11 @@ WebUI.click(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/butt
 
 WebUI.verifyElementText(findTestObject('RS-Academy/Page_Cart/p_itemName'), item)
 
-WebUI.verifyElementText(findTestObject('RS-Academy/Page_Cart/p_quantity'), quantity)
+WebUI.verifyElementText(findTestObject('RS-Academy/Page_Cart/p_quantity'), quantity.toString())
 
-WebUI.verifyElementText(findTestObject('RS-Academy/Page_Cart/p_itemPrice'), price)
+WebUI.verifyElementText(findTestObject('RS-Academy/Page_Cart/p_itemPrice'), price.toString())
 
-WebUI.verifyElementText(findTestObject('RS-Academy/Page_Cart/p_totalAmount'), toInteger(price) * toInteger(quantity))
+WebUI.verifyElementText(findTestObject('RS-Academy/Page_Cart/p_totalAmount'), (price * quantity).toString())
 
 WebUI.click(findTestObject('RS-Academy/Page_Cart/button_Place Order'))
 

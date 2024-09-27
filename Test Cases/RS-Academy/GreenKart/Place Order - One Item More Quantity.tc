@@ -48,6 +48,12 @@
       <value></value>
       <variableId>cc11d95d-faa8-43c2-9b80-e369eb9e56bc</variableId>
    </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>39b33aaf-5aae-44cd-ba34-36465ed03a52</variableId>
+   </variableLinks>
    <variable>
       <defaultValue>'Ambarish'</defaultValue>
       <description></description>
@@ -77,14 +83,14 @@
       <name>item</name>
    </variable>
    <variable>
-      <defaultValue>'2'</defaultValue>
+      <defaultValue>2</defaultValue>
       <description></description>
       <id>388edb6e-d50b-42ae-b6d1-375c49c37325</id>
       <masked>false</masked>
       <name>quantity</name>
    </variable>
    <variable>
-      <defaultValue>'82'</defaultValue>
+      <defaultValue>82</defaultValue>
       <description></description>
       <id>bf380218-4016-48c8-905c-ee344ba7c0d3</id>
       <masked>false</masked>
@@ -96,5 +102,12 @@
       <id>cc11d95d-faa8-43c2-9b80-e369eb9e56bc</id>
       <masked>false</masked>
       <name>country</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>39b33aaf-5aae-44cd-ba34-36465ed03a52</id>
+      <masked>false</masked>
+      <name>cartTotal</name>
    </variable>
 </TestCaseEntity>
