@@ -59,13 +59,13 @@ WebUI.click(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/cart
 
 WebUI.click(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/button_PROCEED TO CHECKOUT'))
 
-WebUI.verifyElementText(findTestObject('RS-Academy/Page_Cart/p_itemName'), item)
+WebUI.verifyElementText(findTestObject('RS-Academy/Page_Cart/p_itemName', [('itemCount') : itemCount]), item)
 
-WebUI.verifyElementText(findTestObject('RS-Academy/Page_Cart/p_quantity'), quantity.toString())
+WebUI.verifyElementText(findTestObject('RS-Academy/Page_Cart/p_quantity', [('itemCount') : itemCount]), quantity.toString())
 
-WebUI.verifyElementText(findTestObject('RS-Academy/Page_Cart/p_itemPrice'), price.toString())
+WebUI.verifyElementText(findTestObject('RS-Academy/Page_Cart/p_itemPrice', [('itemCount') : itemCount]), price.toString())
 
-WebUI.verifyElementText(findTestObject('RS-Academy/Page_Cart/p_totalAmount'), (price * quantity).toString())
+WebUI.verifyElementText(findTestObject('RS-Academy/Page_Cart/p_totalAmount', [('itemCount') : itemCount]), (price * quantity).toString())
 
 WebUI.click(findTestObject('RS-Academy/Page_Cart/button_Place Order'))
 

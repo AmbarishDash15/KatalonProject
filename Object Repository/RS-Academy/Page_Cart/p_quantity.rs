@@ -6,12 +6,12 @@
    <elementGuidId>ac016c7d-08fa-415b-bddf-734e93925b8b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>p.quantity</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//table[@id='productCartTables']/tbody/tr/td[3]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(${itemCount}) > td:nth-of-type(3) > p</value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>638d4214-9868-4d04-a800-3024cd10e1c2</webElementGuid>
+      <webElementGuid>1b3ba558-4b73-4e39-aa3e-95c1daf4639d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>quantity</value>
-      <webElementGuid>a8e8f6fa-f854-4aec-a2cb-beb7e54afe0e</webElementGuid>
+      <webElementGuid>b521fc86-32dc-4a73-9446-35490ab64743</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>5713b815-db52-4f2c-b7bc-9fb72a70433d</webElementGuid>
+      <webElementGuid>f0367975-4896-4564-b63a-06ef0d108c91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;productCartTables&quot;)/tbody[1]/tr[1]/td[3]/p[@class=&quot;quantity&quot;]</value>
-      <webElementGuid>850caaf9-2829-4298-97c4-735fb84449ac</webElementGuid>
+      <webElementGuid>7b8f8504-7e00-43ed-9684-7db9f8329906</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='productCartTables']/tbody/tr/td[3]/p</value>
-      <webElementGuid>d6449e9e-b020-480c-867c-1934ae1b7ca1</webElementGuid>
+      <webElementGuid>0d9a320b-9fb4-452b-82ba-142d91818ca1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[1]/following::p[2]</value>
-      <webElementGuid>1bf877ef-d14c-4fe7-a07d-5410956e3ab0</webElementGuid>
+      <webElementGuid>b66db21e-11c4-4706-b7f8-f105cdeec247</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Price'])[1]/following::p[2]</value>
-      <webElementGuid>429a42c0-e063-4db9-85d9-97c066b8aec1</webElementGuid>
+      <webElementGuid>bec7d29e-21dc-45f0-9145-820510628837</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[1]/preceding::p[3]</value>
-      <webElementGuid>d9a9372f-380b-4836-b636-caebc6136c44</webElementGuid>
+      <webElementGuid>209da940-0161-4486-a32e-96e748c87d23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='1']/parent::*</value>
-      <webElementGuid>24dea4db-8131-404b-801b-2b644df45718</webElementGuid>
+      <webElementGuid>898adf60-a695-4550-bb10-c92b91f46067</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[3]/p</value>
-      <webElementGuid>704618ea-d77d-40f4-8aac-444f7278fc89</webElementGuid>
+      <webElementGuid>e0647f3f-8110-4d43-bf12-d8855fceaf6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = '1' or . = '1')]</value>
-      <webElementGuid>43a94602-075b-47d0-aefd-0a9d5c25b415</webElementGuid>
+      <webElementGuid>e6e05943-4d42-449f-8296-9443058de84f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

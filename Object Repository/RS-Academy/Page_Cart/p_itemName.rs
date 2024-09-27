@@ -6,12 +6,12 @@
    <elementGuidId>d5492cf6-2d64-4b2a-91fd-ee706fc630c3</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>p.product-name</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//table[@id='productCartTables']/tbody/tr/td[2]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(${itemCount}) > td:nth-of-type(2) > p</value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>9a987562-2aed-411f-93d6-bf658047d649</webElementGuid>
+      <webElementGuid>d9335aaa-da86-4456-9b83-1fb200905dce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>product-name</value>
-      <webElementGuid>6d2f212a-68f1-46ad-a651-4c6c9513ec3b</webElementGuid>
+      <webElementGuid>fa93bd68-a5e6-4e80-a7c9-0d625dd521a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Cucumber - 1 Kg</value>
-      <webElementGuid>5b60f4dd-1fed-4eec-90ed-e95be22d1ba4</webElementGuid>
+      <webElementGuid>e2c72eab-271b-4ca9-9e66-99a4918b6044</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;productCartTables&quot;)/tbody[1]/tr[1]/td[2]/p[@class=&quot;product-name&quot;]</value>
-      <webElementGuid>79941f1c-2d3c-435c-974d-17c7b55f3ba4</webElementGuid>
+      <webElementGuid>90e8f4cb-5754-475a-bceb-9030a374d4cd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='productCartTables']/tbody/tr/td[2]/p</value>
-      <webElementGuid>185d1cf7-e37b-424f-b286-c86ac4aeb3e3</webElementGuid>
+      <webElementGuid>529bfb70-3cf1-471c-9483-3cbbbc5d8af5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[1]/following::p[1]</value>
-      <webElementGuid>b46382f5-af38-424d-a5cd-7fdd841aa788</webElementGuid>
+      <webElementGuid>1948591d-db59-44f4-abf6-06c4acb5ea5d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Price'])[1]/following::p[1]</value>
-      <webElementGuid>d5d541c3-83b3-4a56-b13b-a375a09e985d</webElementGuid>
+      <webElementGuid>9a66dcc7-d8c8-4d20-8639-614c95e39ae5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[1]/preceding::p[4]</value>
-      <webElementGuid>52881c80-16d2-42cd-bc31-541ae92eb46e</webElementGuid>
+      <webElementGuid>7ad4cb16-c664-4cfb-8880-733160c20d64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Cucumber - 1 Kg']/parent::*</value>
-      <webElementGuid>d0a74794-9f84-4b46-a55e-988153a0f378</webElementGuid>
+      <webElementGuid>6c1a5ae2-5f6a-421a-8074-d253f59bbe76</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p</value>
-      <webElementGuid>eebd7088-5865-4a13-b1ce-f37448584ba6</webElementGuid>
+      <webElementGuid>6fc6b3f7-61ab-47dc-bc87-94eb18f93878</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = 'Cucumber - 1 Kg' or . = 'Cucumber - 1 Kg')]</value>
-      <webElementGuid>fbb737df-9253-4fd1-8f17-65c9f7c2e50d</webElementGuid>
+      <webElementGuid>8bf7fc4c-71a6-4fbd-b129-e74a96e0bfb3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -54,6 +54,12 @@
       <value></value>
       <variableId>39b33aaf-5aae-44cd-ba34-36465ed03a52</variableId>
    </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f721f76c-21cf-4264-b63f-6347e3fcbdf1</variableId>
+   </variableLinks>
    <variable>
       <defaultValue>'Ambarish'</defaultValue>
       <description></description>
@@ -109,5 +115,12 @@
       <id>39b33aaf-5aae-44cd-ba34-36465ed03a52</id>
       <masked>false</masked>
       <name>cartTotal</name>
+   </variable>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>f721f76c-21cf-4264-b63f-6347e3fcbdf1</id>
+      <masked>false</masked>
+      <name>itemCount</name>
    </variable>
 </TestCaseEntity>

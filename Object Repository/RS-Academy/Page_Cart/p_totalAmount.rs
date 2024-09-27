@@ -6,12 +6,12 @@
    <elementGuidId>fa70f973-7f80-4e0f-9553-86413c0a59f6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>td:nth-of-type(5) > p</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//table[@id='productCartTables']/tbody/tr/td[5]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(${itemCount}) > td:nth-of-type(5) > p</value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>8212fe5a-9484-4ce5-9489-874a9fd17283</webElementGuid>
+      <webElementGuid>66f1a6b7-3c2c-40ad-8bf1-a005deed4445</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>amount</value>
-      <webElementGuid>e6c89552-23d7-45b1-97cc-20ec8ffb7cc5</webElementGuid>
+      <webElementGuid>84f0cab2-b37f-44b5-ba49-a84a972d811c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>48</value>
-      <webElementGuid>9a084547-b763-479c-b4e2-ddbd51ee361c</webElementGuid>
+      <webElementGuid>a8c3d0cb-0dff-4873-9129-a5fb7084a3c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;productCartTables&quot;)/tbody[1]/tr[1]/td[5]/p[@class=&quot;amount&quot;]</value>
-      <webElementGuid>e85afb9d-8109-4bb1-856d-d1a0c5b39e10</webElementGuid>
+      <webElementGuid>ce689e42-20f6-4e4e-bbfa-37c2b3e2f0b4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='productCartTables']/tbody/tr/td[5]/p</value>
-      <webElementGuid>8e1f624e-c570-4fd2-a21e-93e311994e13</webElementGuid>
+      <webElementGuid>ea8c3cdc-c098-4a4c-8758-2c1c23315aa5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[1]/following::p[4]</value>
-      <webElementGuid>80cfd0d7-f68a-4a15-b8e5-3cb702b6d875</webElementGuid>
+      <webElementGuid>da108593-09e5-4e0f-a56d-7cf2694ab709</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Price'])[1]/following::p[4]</value>
-      <webElementGuid>d4e1d4dd-2aca-4d0d-be8a-753da7492a3a</webElementGuid>
+      <webElementGuid>8252d2e2-065c-4db0-bc0a-b42e0751cd30</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[1]/preceding::p[1]</value>
-      <webElementGuid>2887fd74-b222-4927-8529-c20da0c61d2e</webElementGuid>
+      <webElementGuid>8cc81dd9-0d99-4833-b917-a50908e39884</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[5]/p</value>
-      <webElementGuid>800b3537-c6a6-45ca-83da-70fd0cfdbc1d</webElementGuid>
+      <webElementGuid>8484b99d-8712-4081-a2b7-fd1574cef623</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = '48' or . = '48')]</value>
-      <webElementGuid>248444a9-da61-4ceb-9f23-a95b95a25c1a</webElementGuid>
+      <webElementGuid>5f4c5833-454e-44a9-963c-57b9f7427dd8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
