@@ -81,3 +81,5 @@ WebUI.verifyElementPresent(findTestObject('RS-Academy/Page_Confirmation/span_Con
 
 WebUI.verifyTextPresent('Thank you, your order has been placed successfully', false)
 
+WebUI.closeBrowser()
+
