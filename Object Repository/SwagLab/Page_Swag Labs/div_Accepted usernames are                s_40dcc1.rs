@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>62f62512-89ed-4f53-a454-5089ffde1bde</webElementGuid>
+      <webElementGuid>bda6bb28-bfeb-4d12-9690-4257e9406a7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>login_credentials</value>
-      <webElementGuid>f9cb40c7-09cd-4b2d-97b8-c967f0081c3c</webElementGuid>
+      <webElementGuid>d8eb26e6-6972-4fa3-b57a-a88d9c986929</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>login_credentials</value>
-      <webElementGuid>7edbac25-9faf-4d36-96a0-139ffedbfba5</webElementGuid>
+      <webElementGuid>ea53f99c-2d7a-4c51-ab48-c405cb4e2e57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -60,7 +60,7 @@
                 performance_glitch_user
 
             </value>
-      <webElementGuid>badb4d87-086c-4c07-b1b2-c46b5085d5c7</webElementGuid>
+      <webElementGuid>31283944-4bee-49be-a290-9cbe6b7d572b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,7 +68,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;login_credentials&quot;)</value>
-      <webElementGuid>b081b440-40eb-4539-aaea-a8916f418776</webElementGuid>
+      <webElementGuid>f1a4d41d-e61b-49cb-a526-c5c7695b942f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -76,7 +76,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='login_credentials']</value>
-      <webElementGuid>dcdb617c-55cd-47e1-9fe7-ca23533c55ee</webElementGuid>
+      <webElementGuid>3f96fbc3-7931-4b84-ab4d-3afcda9a7b85</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -84,7 +84,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/div</value>
-      <webElementGuid>7ef6f0e9-7552-4f6f-af21-70f14754141c</webElementGuid>
+      <webElementGuid>a2cf7221-ac3f-4151-8470-ea3d49aa352e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
                 performance_glitch_user
 
             ')]</value>
-      <webElementGuid>cc9b38f9-9859-4864-b1a0-d8aafb664967</webElementGuid>
+      <webElementGuid>04f751e1-dc10-412e-b2d9-240dd21835c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

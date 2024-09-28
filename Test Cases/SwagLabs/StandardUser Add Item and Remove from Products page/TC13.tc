@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC13</name>
+   <tag>Remove</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>df90f2ea-e5d8-4387-bb3a-9bf7875833d8</testCaseGuid>
+</TestCaseEntity>

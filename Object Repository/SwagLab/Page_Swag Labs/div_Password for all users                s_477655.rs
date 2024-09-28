@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>fb681385-c09b-4d0b-92e3-2fa312de530e</webElementGuid>
+      <webElementGuid>b15abea8-cfb6-46ff-8f24-420366be250b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>login_password</value>
-      <webElementGuid>39a3ac2f-e9f2-4d66-85f7-db8cde19b20d</webElementGuid>
+      <webElementGuid>fb691b70-32fe-4325-92ee-c72ccbc33164</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -48,7 +48,7 @@
                 Password for all users:
                 secret_sauce
             </value>
-      <webElementGuid>324e2e6a-ebe1-423e-921a-0c0147957514</webElementGuid>
+      <webElementGuid>338d7395-4aff-4994-9e5d-236295caeaf4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -56,7 +56,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;main-body&quot;]/div[@class=&quot;login_wrapper&quot;]/div[@class=&quot;login_credentials_wrap&quot;]/div[@class=&quot;login_credentials_wrap-inner&quot;]/div[@class=&quot;login_password&quot;]</value>
-      <webElementGuid>55cfe2e9-b8ef-4b2d-a153-33cf8835a4f3</webElementGuid>
+      <webElementGuid>896395d6-0294-4e45-a040-e696025c4cef</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -64,7 +64,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Accepted usernames are:'])[1]/following::div[1]</value>
-      <webElementGuid>7107ece9-8c45-49d6-a9f9-306c8e06b9c8</webElementGuid>
+      <webElementGuid>ea654be0-e35c-4324-bbce-ea68ac3ea206</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]</value>
-      <webElementGuid>5c15f5ab-0c48-406f-975f-497e3faf7cab</webElementGuid>
+      <webElementGuid>2a1a0220-bc74-471b-a47d-a24793a98a79</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
                 Password for all users:
                 secret_sauce
             ')]</value>
-      <webElementGuid>c9fc5f27-a9a5-45c0-8bee-1f7022470bbf</webElementGuid>
+      <webElementGuid>1c16f1f1-7793-4440-ae96-ff3f1a1366fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
