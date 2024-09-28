@@ -39,7 +39,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/SwagLab/Page_Swag Labs
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/SwagLab/Page_Swag Labs/img_- Back_inventory_details_img'))
 
-WebUI.click(findTestObject('Object Repository/SwagLab/Page_Swag Labs/button_ADD TO CART'))
+WebUI.click(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/button_ADD TO CART - Details'))
 
 WebUI.click(findTestObject('Object Repository/SwagLab/Page_Swag Labs/path'))
 

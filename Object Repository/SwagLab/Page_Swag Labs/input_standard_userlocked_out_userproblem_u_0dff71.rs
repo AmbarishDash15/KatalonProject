@@ -7,16 +7,16 @@
    <imagePath>Screenshots/Targets/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_0dff71.png</imagePath>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//input[@id='login-button']</value>
+      </entry>
+      <entry>
          <key>IMAGE</key>
          <value>Screenshots/Targets/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_0dff71.png</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>#login-button</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@id='login-button']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>
@@ -34,7 +34,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>125989bd-fac9-4ecf-95f0-d8c711950eb5</webElementGuid>
+      <webElementGuid>e4b2ae55-49c9-4b01-8add-746e0d22a2c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>0420522e-3251-4e34-ba94-bbee5b25ad03</webElementGuid>
+      <webElementGuid>76df5883-8c63-46a4-970b-0bc967a612c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn_action</value>
-      <webElementGuid>9c59a807-0c81-4989-9d84-064c4348fef5</webElementGuid>
+      <webElementGuid>6b569820-3153-47c5-8833-d42eeab66443</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>id</name>
       <type>Main</type>
       <value>login-button</value>
-      <webElementGuid>ea1f25d3-f431-4bb8-b1bf-04921ed37210</webElementGuid>
+      <webElementGuid>66598edd-9359-42ec-9832-54b0888f4592</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>value</name>
       <type>Main</type>
       <value>LOGIN</value>
-      <webElementGuid>3bdd4d81-300e-4ced-8dfd-636bcdaa16d8</webElementGuid>
+      <webElementGuid>32f10d19-63b5-4e52-adec-cb7b8ba7a1fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;login-button&quot;)</value>
-      <webElementGuid>61c7ac7a-06dd-4b1c-9d16-fe1a2f16ce24</webElementGuid>
+      <webElementGuid>56f4763c-36cf-4ac1-9041-386ee6b72fb2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='login-button']</value>
-      <webElementGuid>e728e4ad-625b-4aec-be31-d879fad228f6</webElementGuid>
+      <webElementGuid>919cce4c-a623-4e44-a3f3-5753c3c53f10</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='login_button_container']/div/form/input[3]</value>
-      <webElementGuid>4eb663b8-e0ab-404f-b846-44bc9556c158</webElementGuid>
+      <webElementGuid>ee024a66-7fb7-4f89-94bf-4e176e7af280</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Accepted usernames are:'])[1]/preceding::input[1]</value>
-      <webElementGuid>ea97532e-dbe4-46d3-8a64-cbd00390db71</webElementGuid>
+      <webElementGuid>b27215f6-449e-4d96-8119-c79f18d798d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input[3]</value>
-      <webElementGuid>6c15b975-9f58-4dbd-a42a-3481b6eb48a6</webElementGuid>
+      <webElementGuid>60684ec7-94e3-49e4-a436-49deb4011d52</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,6 +114,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit' and @id = 'login-button']</value>
-      <webElementGuid>f6d555e8-6a56-47ed-b2c4-2034d2185831</webElementGuid>
+      <webElementGuid>fa6a82c0-a0ee-4dde-8440-78181ab3ad45</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

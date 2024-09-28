@@ -7,16 +7,16 @@
    <imagePath>Screenshots/Targets/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_db77ac.png</imagePath>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//input[@id='user-name']</value>
+      </entry>
+      <entry>
          <key>IMAGE</key>
          <value>Screenshots/Targets/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_db77ac.png</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>#user-name</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@id='user-name']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>
@@ -34,7 +34,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a4cd06a7-f3b4-498a-bcdd-1e9fa3cb27bf</webElementGuid>
+      <webElementGuid>c4c99433-2fb1-44dc-8fb7-58b58810ce41</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>15581f30-7520-479c-97f8-a0f5df395f38</webElementGuid>
+      <webElementGuid>b2664870-76ae-4a1c-8c3c-e17bcdbc989f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form_input</value>
-      <webElementGuid>1c01ce31-6120-498d-b9e8-a6a7d98c5a2d</webElementGuid>
+      <webElementGuid>5f27a2ef-cc38-42f1-8271-9802e175c67d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +58,7 @@
       <name>data-test</name>
       <type>Main</type>
       <value>username</value>
-      <webElementGuid>35b23e1f-096a-4b2e-a032-4ab933bfd744</webElementGuid>
+      <webElementGuid>95ad36ae-5c6c-442a-a310-166d5b57e7f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -66,7 +66,7 @@
       <name>id</name>
       <type>Main</type>
       <value>user-name</value>
-      <webElementGuid>1248eda8-8ade-43bf-aa35-7024ce0b275f</webElementGuid>
+      <webElementGuid>33d8d90e-1477-4e08-944b-16e271a4926a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -74,7 +74,7 @@
       <name>name</name>
       <type>Main</type>
       <value>user-name</value>
-      <webElementGuid>d0249f9f-7375-47c4-a7c2-8f61e94a1e7c</webElementGuid>
+      <webElementGuid>19cd030d-7d32-48f8-a75c-b67ad55a0771</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -82,7 +82,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Username</value>
-      <webElementGuid>78dae5e2-e846-4a1e-90ec-0a6ed107e4b7</webElementGuid>
+      <webElementGuid>1a258daf-1bbf-450c-bcef-832c57eff29f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>autocorrect</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>d09d9a0d-d947-40e9-ae47-2815e6a2ef60</webElementGuid>
+      <webElementGuid>3e39b2c0-0838-4032-90ba-8a32afdbd61c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>autocapitalize</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>809a26cf-d75f-41c7-9920-4f7e7650f45a</webElementGuid>
+      <webElementGuid>7b77c382-0050-48e6-a6d5-127dc11d3e95</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;user-name&quot;)</value>
-      <webElementGuid>3dc772a4-b165-4222-9979-73c878d80c9b</webElementGuid>
+      <webElementGuid>e9f6b15e-f96a-430f-a928-6382dc38ccdb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -114,7 +114,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='user-name']</value>
-      <webElementGuid>e0a3b161-70cb-46c6-998f-1ad5749ce011</webElementGuid>
+      <webElementGuid>4649cb49-e84b-4938-9720-d07d2857a979</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,7 +122,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='login_button_container']/div/form/input</value>
-      <webElementGuid>cd3e3d01-71bf-4817-8ee8-2fadf8c25585</webElementGuid>
+      <webElementGuid>094cee25-ba05-40c2-8b5b-e45fa7d48ff1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -130,7 +130,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Accepted usernames are:'])[1]/preceding::input[3]</value>
-      <webElementGuid>9e7bf8e6-1429-457f-ba5b-8c179e731d40</webElementGuid>
+      <webElementGuid>97e5f16a-159f-40ea-b007-43bfe1c41450</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -138,7 +138,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>e95ba4e7-86a8-4877-8f3f-674ac2ce3011</webElementGuid>
+      <webElementGuid>c9139e56-e3d2-44a9-ba36-ad314aa96614</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -146,6 +146,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'user-name' and @name = 'user-name' and @placeholder = 'Username']</value>
-      <webElementGuid>db37f5eb-e578-4239-a9e6-87cbffdbcf3b</webElementGuid>
+      <webElementGuid>6f4ab1f4-e9f8-4e68-a2bc-6618714c3946</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

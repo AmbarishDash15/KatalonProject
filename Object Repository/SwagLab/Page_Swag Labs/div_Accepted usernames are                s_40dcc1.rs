@@ -6,12 +6,12 @@
    <elementGuidId>eb425881-fb7a-43ab-a014-db60962e9f7a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#login_credentials</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='login_credentials']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#login_credentials</value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>bda6bb28-bfeb-4d12-9690-4257e9406a7e</webElementGuid>
+      <webElementGuid>7e90dcfe-e83b-41a2-b504-e3c0929c216a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>login_credentials</value>
-      <webElementGuid>d8eb26e6-6972-4fa3-b57a-a88d9c986929</webElementGuid>
+      <webElementGuid>8090fd53-ed7f-47a4-8efa-60ab2df4fda5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>login_credentials</value>
-      <webElementGuid>ea53f99c-2d7a-4c51-ab48-c405cb4e2e57</webElementGuid>
+      <webElementGuid>62ee4847-73f4-44d7-b68f-edad59ccf46a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -60,7 +60,7 @@
                 performance_glitch_user
 
             </value>
-      <webElementGuid>31283944-4bee-49be-a290-9cbe6b7d572b</webElementGuid>
+      <webElementGuid>0e4d763a-5381-4f6f-b033-a0a2aa71ba87</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,7 +68,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;login_credentials&quot;)</value>
-      <webElementGuid>f1a4d41d-e61b-49cb-a526-c5c7695b942f</webElementGuid>
+      <webElementGuid>bc309a3c-5b94-4b16-84b6-660b7d559c8a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -76,7 +76,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='login_credentials']</value>
-      <webElementGuid>3f96fbc3-7931-4b84-ab4d-3afcda9a7b85</webElementGuid>
+      <webElementGuid>2cb1f972-b1f8-4268-986b-326b21902eb6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -84,7 +84,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/div</value>
-      <webElementGuid>a2cf7221-ac3f-4151-8470-ea3d49aa352e</webElementGuid>
+      <webElementGuid>b1b09463-5d05-4e85-9ef4-3037834d3ef1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
                 performance_glitch_user
 
             ')]</value>
-      <webElementGuid>04f751e1-dc10-412e-b2d9-240dd21835c1</webElementGuid>
+      <webElementGuid>b189f280-ccf5-4f33-a52f-9ab98de86f19</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,6 +114,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='standard_user']/parent::*</value>
-      <webElementGuid>40577c52-dc32-4fbf-a56b-862072074ab0</webElementGuid>
+      <webElementGuid>5c593a47-4ed1-4163-974f-f6d9058d726f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

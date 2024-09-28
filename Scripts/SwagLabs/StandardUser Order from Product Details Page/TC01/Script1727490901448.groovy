@@ -35,7 +35,7 @@ WebUI.click(findTestObject('SwagLab/Page_Swag Labs/link_Sauce Labs Backpack'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/SwagLab/Page_Swag Labs/details_29.99'), '$29.99')
 
-WebUI.click(findTestObject('Object Repository/SwagLab/Page_Swag Labs/button_ADD TO CART'))
+WebUI.click(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/button_ADD TO CART - Details'))
 
 WebUI.click(findTestObject('Object Repository/SwagLab/Page_Swag Labs/path'))
 

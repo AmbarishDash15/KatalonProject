@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>19e2853d-8fc2-4865-9bdf-fd1a26b2bd9a</webElementGuid>
+      <webElementGuid>4f53c2a8-f17c-461a-a200-41e456a0767e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>inventory_item_name</value>
-      <webElementGuid>d291acd4-80d5-424f-9284-988148d56787</webElementGuid>
+      <webElementGuid>83e81c3f-576d-4fe5-87fd-1d58c8b6a140</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sauce Labs Fleece Jacket</value>
-      <webElementGuid>c12dd53d-c340-4f8a-b875-268630d2216f</webElementGuid>
+      <webElementGuid>9b66366e-0546-43ea-aeab-c69120d113fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;item_5_title_link&quot;)/div[@class=&quot;inventory_item_name&quot;]</value>
-      <webElementGuid>5c0e8316-d6e1-40d8-bb4a-07c260c977e5</webElementGuid>
+      <webElementGuid>b24fef28-4f67-42ee-a1b0-bb66175529e4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='item_5_title_link']/div</value>
-      <webElementGuid>9e3c7137-232f-4217-9c45-95aca3b64d46</webElementGuid>
+      <webElementGuid>c003f0eb-fa59-4fcc-a1f0-523d70df2545</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='DESCRIPTION'])[1]/following::div[4]</value>
-      <webElementGuid>fe87bce6-8a4c-46ce-9ca9-f73cd6dbdf94</webElementGuid>
+      <webElementGuid>37ed048f-dae3-4eb9-8d21-151a0514ffdb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='QTY'])[1]/following::div[5]</value>
-      <webElementGuid>154f63b6-0a1f-4f84-af9a-fcc14ddf4ab1</webElementGuid>
+      <webElementGuid>d8a3ae93-a7ec-4a73-8e1c-4ee7bf36d297</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='REMOVE'])[1]/preceding::div[3]</value>
-      <webElementGuid>dcc76a3c-68c1-4f43-b5c8-561d9e06672d</webElementGuid>
+      <webElementGuid>d96909ba-d3cd-4cf3-87fc-a39c4087cddc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue Shopping'])[1]/preceding::div[4]</value>
-      <webElementGuid>6d526739-2f8d-4c1a-993c-d3f5bbeb68af</webElementGuid>
+      <webElementGuid>231b9170-7039-42b0-be9e-2a83965d777f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sauce Labs Fleece Jacket']/parent::*</value>
-      <webElementGuid>207dc6f4-732c-4e4d-a716-d2cbaf59e550</webElementGuid>
+      <webElementGuid>0fa80cb2-2b18-4905-821b-d2548f67a7c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a/div</value>
-      <webElementGuid>cc83d58e-bc52-4903-be81-8834d833180f</webElementGuid>
+      <webElementGuid>5f0cec0f-0a7a-4730-933e-0c9c7ba4a380</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Sauce Labs Fleece Jacket' or . = 'Sauce Labs Fleece Jacket')]</value>
-      <webElementGuid>827c82e5-ec56-4144-a1c1-3b6423a74750</webElementGuid>
+      <webElementGuid>d273de58-19aa-4077-8dbf-6e49ea28eddf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ADD TO CART'])[3]/following::div[4]</value>
-      <webElementGuid>7e348fd7-fb3e-4e82-869d-1974be7ecfb9</webElementGuid>
+      <webElementGuid>5aa15e80-5a95-4127-9c67-4eb2bab4e408</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='$15.99'])[1]/following::div[4]</value>
-      <webElementGuid>c3d625a0-a4ba-47d6-87f9-28b6897bd8ae</webElementGuid>
+      <webElementGuid>9439965a-76b2-444a-9e28-d1c8b4b607f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='$49.99'])[1]/preceding::div[2]</value>
-      <webElementGuid>ccbee674-b8cd-4e2a-9bd8-f21ede441536</webElementGuid>
+      <webElementGuid>1093c700-5d6d-4700-8059-9d7d78f823f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ADD TO CART'])[4]/preceding::div[3]</value>
-      <webElementGuid>10aa9282-21d4-4371-99f5-6af865795e0c</webElementGuid>
+      <webElementGuid>a86b6b8b-abc2-4627-9a85-90bffeb09850</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,6 +157,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div[2]/a/div</value>
-      <webElementGuid>d3147f7a-d194-42e6-b7ca-f13f2f217977</webElementGuid>
+      <webElementGuid>9d92a6a2-d349-4c15-9223-2f3daba993ba</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

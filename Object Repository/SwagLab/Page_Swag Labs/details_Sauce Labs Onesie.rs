@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>f94e2017-230c-460a-ade3-573b5b0039fd</webElementGuid>
+      <webElementGuid>35b42317-2b0e-49ce-890a-64dcbb0b475f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>inventory_item_name</value>
-      <webElementGuid>a92e8f07-8610-4801-97f1-9d83a9751cd7</webElementGuid>
+      <webElementGuid>6e1a4079-4b39-4baf-9604-0dab3de08f3d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sauce Labs Onesie</value>
-      <webElementGuid>76b1f70f-d8ad-4dec-bc56-7490a2575c78</webElementGuid>
+      <webElementGuid>2b34ff3f-8258-445a-a749-b8fa57fe1ef6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;item_2_title_link&quot;)/div[@class=&quot;inventory_item_name&quot;]</value>
-      <webElementGuid>5bc2eee8-38eb-4d1b-9795-69030baccc0b</webElementGuid>
+      <webElementGuid>c7379420-f17f-481e-9e39-99eaf1b533b5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='item_2_title_link']/div</value>
-      <webElementGuid>e1b87e72-fb92-4dc7-879b-c1d72d4d92f2</webElementGuid>
+      <webElementGuid>2a30a8dc-ad61-4d9c-8366-3c74dcf34129</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='DESCRIPTION'])[1]/following::div[4]</value>
-      <webElementGuid>4221a321-480b-4552-8398-3673bf571be5</webElementGuid>
+      <webElementGuid>7e6fc849-ec1b-4315-a58d-b065f1fcaa5c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='QTY'])[1]/following::div[5]</value>
-      <webElementGuid>8d095ab1-bfa4-44ae-8f23-6b039f1e31d0</webElementGuid>
+      <webElementGuid>0bd428ec-258f-4211-8333-d91307c88a34</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='REMOVE'])[1]/preceding::div[3]</value>
-      <webElementGuid>0888c8e1-4dcb-429c-9beb-7abb0f06bf9b</webElementGuid>
+      <webElementGuid>3d9316a1-36d1-4bac-b95d-0b0285582ff0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue Shopping'])[1]/preceding::div[4]</value>
-      <webElementGuid>6aa62f6e-ed1b-4cc5-9932-af6ba7a4b789</webElementGuid>
+      <webElementGuid>9222bf03-5a45-4a09-8522-7ca05faab852</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sauce Labs Onesie']/parent::*</value>
-      <webElementGuid>845e59f7-44e7-473b-87f6-ed3c3477c441</webElementGuid>
+      <webElementGuid>58713466-134a-44bc-af1b-ce8a30fd1d3a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a/div</value>
-      <webElementGuid>2f32f5ee-f69f-4d80-a75a-d85cb3770707</webElementGuid>
+      <webElementGuid>c52bdde0-8be8-45ce-9775-3401019f10b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Sauce Labs Onesie' or . = 'Sauce Labs Onesie')]</value>
-      <webElementGuid>3ae145e5-3b5b-42cd-8078-1f0d9b3d075e</webElementGuid>
+      <webElementGuid>552d5144-75bd-4583-98da-f4b7a8f5e13e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ADD TO CART'])[4]/following::div[4]</value>
-      <webElementGuid>14d91013-55aa-4977-b230-308ff8bc6e15</webElementGuid>
+      <webElementGuid>e48b182c-e4de-4ccf-b5ff-2545dd6bf739</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='$49.99'])[1]/following::div[4]</value>
-      <webElementGuid>f22bcfb0-b59b-4179-b145-8ae4f85345dc</webElementGuid>
+      <webElementGuid>705bca0a-400b-426b-9385-d80c25b126d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='$7.99'])[1]/preceding::div[2]</value>
-      <webElementGuid>c6b2f3b4-a20e-4cd4-94f2-44ce0a38841e</webElementGuid>
+      <webElementGuid>8b1727b7-e1a8-4553-b139-27d456b72598</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ADD TO CART'])[5]/preceding::div[3]</value>
-      <webElementGuid>a3505aa1-48e7-4ad8-a473-9411ff106b10</webElementGuid>
+      <webElementGuid>ca510a5f-a895-41db-b394-26f3bca7e1bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,6 +157,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div[2]/a/div</value>
-      <webElementGuid>4b57e22b-92bc-46a6-bb3f-7f70e6b606ac</webElementGuid>
+      <webElementGuid>a449c0ef-3947-48f3-8442-bfbce756f73c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

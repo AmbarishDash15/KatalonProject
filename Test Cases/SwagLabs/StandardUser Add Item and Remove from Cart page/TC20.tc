@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC20</name>
+   <tag>RemoveCart</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cdc8f6ba-9710-4161-9a0d-67074139d5af</testCaseGuid>
+</TestCaseEntity>

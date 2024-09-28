@@ -31,7 +31,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/SwagLab/Page_Swag Labs/
 
 WebUI.click(findTestObject('Object Repository/SwagLab/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_0dff71'))
 
-WebUI.click(findTestObject('SwagLab/Page_Swag Labs/button_ADD TO CART - Sauce Labs Backpack'))
+WebUI.click(findTestObject('SwagLab/Page_Swag Labs/button_ADD TO CART - Sauce Labs Onesie'))
 
 WebUI.click(findTestObject('Object Repository/SwagLab/Page_Swag Labs/path'))
 
@@ -39,13 +39,13 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/SwagLab/Page_Swag L
 
 WebUI.verifyElementText(findTestObject('Object Repository/SwagLab/Page_Swag Labs/div_Your Cart'), 'Your Cart')
 
-WebUI.verifyElementPresent(findTestObject('SwagLab/Page_Swag Labs/link_Sauce Labs Backpack'), 0)
+WebUI.verifyElementPresent(findTestObject('SwagLab/Page_Swag Labs/link_Sauce Labs Onesie'), 0)
 
-WebUI.verifyElementText(findTestObject('SwagLab/Page_Swag Labs/link_Sauce Labs Backpack'), 'Sauce Labs Backpack')
+WebUI.verifyElementText(findTestObject('SwagLab/Page_Swag Labs/link_Sauce Labs Onesie'), 'Sauce Labs Onesie')
 
 WebUI.click(findTestObject('Object Repository/SwagLab/Page_Swag Labs/button_REMOVE'))
 
-WebUI.verifyElementNotPresent(findTestObject('SwagLab/Page_Swag Labs/link_Sauce Labs Backpack'), 0)
+WebUI.verifyElementNotPresent(findTestObject('SwagLab/Page_Swag Labs/link_Sauce Labs Onesie'), 0)
 
 WebUI.closeBrowser()
 

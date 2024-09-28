@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>ecc7e014-c58c-4724-acac-cf84e3f6b284</webElementGuid>
+      <webElementGuid>5fe1c9af-abc6-40d1-bcee-8b19b5d0b281</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>inventory_item_name</value>
-      <webElementGuid>94a10dff-cac2-4fa9-82f9-271a2f3fba7b</webElementGuid>
+      <webElementGuid>adc092e4-7f8a-4325-915e-18cdd98c37e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sauce Labs Bike Light</value>
-      <webElementGuid>9945f707-8935-44ec-b569-4b4b6997035c</webElementGuid>
+      <webElementGuid>964661df-3818-4d29-8ed5-aeb5f07cf001</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;item_0_title_link&quot;)/div[@class=&quot;inventory_item_name&quot;]</value>
-      <webElementGuid>96a95f72-67c0-4e39-87b6-ac3e90b953d1</webElementGuid>
+      <webElementGuid>e203afcb-4db4-4396-a567-29ba2353f01e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='item_0_title_link']/div</value>
-      <webElementGuid>90b7dc5d-6511-4042-96ee-d6aa9db3a970</webElementGuid>
+      <webElementGuid>2edd2e02-5c46-479b-9935-1bc39bfe85c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='DESCRIPTION'])[1]/following::div[4]</value>
-      <webElementGuid>65f9b3a7-0e41-4658-a85f-3bf5d0093501</webElementGuid>
+      <webElementGuid>8eb4e262-4ed6-4b2c-8c0c-1c710b09d5aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='QTY'])[1]/following::div[5]</value>
-      <webElementGuid>f110951d-3c37-48be-afe5-695b1af7eb19</webElementGuid>
+      <webElementGuid>8428f274-4985-45f0-b733-aefa996cca4f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='REMOVE'])[1]/preceding::div[3]</value>
-      <webElementGuid>38802a89-7ca5-4fa2-bcf4-1cfd20ec90ff</webElementGuid>
+      <webElementGuid>b7d2eadc-aa42-4e77-b67f-4e7dc7245078</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue Shopping'])[1]/preceding::div[4]</value>
-      <webElementGuid>9ecf91d1-4d4e-4932-b20d-4b5f4854700c</webElementGuid>
+      <webElementGuid>0f6cf9cd-5521-4a20-bb0b-fbdd3f34d43a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sauce Labs Bike Light']/parent::*</value>
-      <webElementGuid>dca04a3b-7306-46be-b994-c1ff8b125a3b</webElementGuid>
+      <webElementGuid>a60144ea-e8ad-467d-9a21-6e78113de03a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a/div</value>
-      <webElementGuid>78ff71d7-b258-4d70-a5a3-4bd77a963250</webElementGuid>
+      <webElementGuid>3196db6e-2574-40b2-b6aa-7b69a8b83f83</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Sauce Labs Bike Light' or . = 'Sauce Labs Bike Light')]</value>
-      <webElementGuid>1580064e-d88b-4714-a54d-f37ae737021a</webElementGuid>
+      <webElementGuid>ca1c300d-b883-4ceb-b43a-5164132f07eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ADD TO CART'])[1]/following::div[4]</value>
-      <webElementGuid>c143d1c9-8cbd-42f1-9edc-b2f1e480b566</webElementGuid>
+      <webElementGuid>de978d68-3ea4-495b-8614-8a7067f78b21</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='$29.99'])[1]/following::div[4]</value>
-      <webElementGuid>85287846-57b3-47e5-b418-e55540ae91fd</webElementGuid>
+      <webElementGuid>014e1116-5200-4107-a2e8-b382c8a7c5a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='$9.99'])[1]/preceding::div[2]</value>
-      <webElementGuid>239b50ba-0b8d-41f4-842f-0cf956818e12</webElementGuid>
+      <webElementGuid>1656ed09-213d-4b27-8e51-9b64d8038348</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ADD TO CART'])[2]/preceding::div[3]</value>
-      <webElementGuid>e9c105ad-ef11-4c30-b491-ccccd355ca14</webElementGuid>
+      <webElementGuid>ad27a962-116f-4f0e-882b-b34fb3afbe11</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,6 +157,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/a/div</value>
-      <webElementGuid>d93bd609-0847-4670-bf2c-de509570265a</webElementGuid>
+      <webElementGuid>c92f54b0-7c4c-4130-8eda-d91aa92563d6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

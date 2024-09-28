@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.saucedemo.com/v1/')
 
+WebUI.maximizeWindow()
+
 WebUI.setText(findTestObject('Object Repository/SwagLab/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_db77ac'), 
     'standard_user')
 
@@ -29,41 +31,21 @@ WebUI.setEncryptedText(findTestObject('Object Repository/SwagLab/Page_Swag Labs/
 
 WebUI.click(findTestObject('Object Repository/SwagLab/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_0dff71'))
 
-WebUI.click(findTestObject('SwagLab/Page_Swag Labs/link_Test.allTheThings() T-Shirt (Red)'))
-
-WebUI.verifyElementText(findTestObject('SwagLab/Page_Swag Labs/details_Test.allTheThings() T-Shirt (Red)'), 'Test.allTheThings() T-Shirt (Red)')
-
-WebUI.verifyElementVisible(findTestObject('Object Repository/SwagLab/Page_Swag Labs/img_- Back_inventory_details_img'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/SwagLab/Page_Swag Labs/details_15.99'), '$15.99')
-
-WebUI.click(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/button_ADD TO CART - Details'))
+WebUI.click(findTestObject('SwagLab/Page_Swag Labs/button_ADD TO CART - Test.allTheThings() T-Shirt (Red)'))
 
 WebUI.click(findTestObject('Object Repository/SwagLab/Page_Swag Labs/path'))
 
-WebUI.verifyElementText(findTestObject('SwagLab/Page_Swag Labs/link_Test.allTheThings() T-Shirt (Red)'), 'Test.allTheThings() T-Shirt (Red)')
+WebUI.verifyElementPresent(findTestObject('Object Repository/SwagLab/Page_Swag Labs/div_Your Cart'), 0)
 
-WebUI.verifyElementText(findTestObject('Object Repository/SwagLab/Page_Swag Labs/item_15.99'), '15.99')
+WebUI.verifyElementText(findTestObject('Object Repository/SwagLab/Page_Swag Labs/div_Your Cart'), 'Your Cart')
 
-WebUI.click(findTestObject('Object Repository/SwagLab/Page_Swag Labs/a_CHECKOUT'))
-
-WebUI.setText(findTestObject('Object Repository/SwagLab/Page_Swag Labs/input_Checkout Your Information_first-name'), 'Test')
-
-WebUI.setText(findTestObject('Object Repository/SwagLab/Page_Swag Labs/input_Checkout Your Information_last-name'), 'User')
-
-WebUI.setText(findTestObject('Object Repository/SwagLab/Page_Swag Labs/input_Checkout Your Information_postal-code'), '1234')
-
-WebUI.click(findTestObject('Object Repository/SwagLab/Page_Swag Labs/input_CANCEL_btn_primary cart_button'))
+WebUI.verifyElementPresent(findTestObject('SwagLab/Page_Swag Labs/link_Test.allTheThings() T-Shirt (Red)'), 0)
 
 WebUI.verifyElementText(findTestObject('SwagLab/Page_Swag Labs/link_Test.allTheThings() T-Shirt (Red)'), 'Test.allTheThings() T-Shirt (Red)')
 
-WebUI.verifyElementText(findTestObject('SwagLab/Page_Swag Labs/item_15.99'), '$15.99')
+WebUI.click(findTestObject('Object Repository/SwagLab/Page_Swag Labs/button_REMOVE'))
 
-WebUI.click(findTestObject('Object Repository/SwagLab/Page_Swag Labs/a_FINISH'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/SwagLab/Page_Swag Labs/h2_THANK YOU FOR YOUR ORDER'), 'THANK YOU FOR YOUR ORDER')
-
-WebUI.verifyElementVisible(findTestObject('Object Repository/SwagLab/Page_Swag Labs/img_THANK YOU FOR YOUR ORDER_pony_express'))
+WebUI.verifyElementNotPresent(findTestObject('SwagLab/Page_Swag Labs/link_Test.allTheThings() T-Shirt (Red)'), 0)
 
 WebUI.closeBrowser()
 
