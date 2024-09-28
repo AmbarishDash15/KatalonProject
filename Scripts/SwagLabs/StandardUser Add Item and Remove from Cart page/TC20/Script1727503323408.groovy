@@ -43,7 +43,7 @@ WebUI.verifyElementPresent(findTestObject('SwagLab/Page_Swag Labs/link_Sauce Lab
 
 WebUI.verifyElementText(findTestObject('SwagLab/Page_Swag Labs/link_Sauce Labs Bike Light'), 'Sauce Labs Bike Light')
 
-WebUI.click(findTestObject('Object Repository/SwagLab/Page_Swag Labs/button_REMOVE'))
+WebUI.click(findTestObject('SwagLab/Page_Swag Labs/button_Remove From Cart'))
 
 WebUI.verifyElementNotPresent(findTestObject('SwagLab/Page_Swag Labs/link_Sauce Labs Bike Light'), 0)
 

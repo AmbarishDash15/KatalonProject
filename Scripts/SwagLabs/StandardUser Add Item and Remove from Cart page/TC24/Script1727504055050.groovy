@@ -43,7 +43,7 @@ WebUI.verifyElementPresent(findTestObject('SwagLab/Page_Swag Labs/link_Test.allT
 
 WebUI.verifyElementText(findTestObject('SwagLab/Page_Swag Labs/link_Test.allTheThings() T-Shirt (Red)'), 'Test.allTheThings() T-Shirt (Red)')
 
-WebUI.click(findTestObject('Object Repository/SwagLab/Page_Swag Labs/button_REMOVE'))
+WebUI.click(findTestObject('SwagLab/Page_Swag Labs/button_Remove From Cart'))
 
 WebUI.verifyElementNotPresent(findTestObject('SwagLab/Page_Swag Labs/link_Test.allTheThings() T-Shirt (Red)'), 0)
 
