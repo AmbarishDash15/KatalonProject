@@ -1,29 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_CHECKOUT</name>
+   <name>a_CANCEL</name>
    <tag></tag>
-   <elementGuidId>e30fdd78-f06c-46e4-83fc-64c2c4806a25</elementGuidId>
-   <imagePath>Screenshots/Targets/Page_Swag Labs/a_CHECKOUT.png</imagePath>
+   <elementGuidId>9944c05d-faf9-440a-820c-2540fecf1d72</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='cart_contents_container']/div/div[2]/a[2]</value>
-      </entry>
-      <entry>
-         <key>IMAGE</key>
-         <value>Screenshots/Targets/Page_Swag Labs/a_CHECKOUT.png</value>
+         <value>//div[@id='checkout_info_container']/div/form/div[2]/a</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>a.btn_action.checkout_button</value>
+         <value>a.cart_cancel_link.btn_secondary</value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot;CHECKOUT&quot;i]</value>
+         <value>internal:role=link[name=&quot;CANCEL&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -34,71 +29,71 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>b3345f41-9332-4543-929a-7d46f0d56779</webElementGuid>
+      <webElementGuid>1e8faf1c-2791-4744-bdab-d198cabd67e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn_action checkout_button</value>
-      <webElementGuid>f02d70d4-ffd4-4216-9fee-f0da80f80ab6</webElementGuid>
+      <value>cart_cancel_link btn_secondary</value>
+      <webElementGuid>609d3db7-53c4-40c2-81e5-85c2e71450dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>./checkout-step-one.html</value>
-      <webElementGuid>96357cc8-735b-4832-84b0-03386da0d84a</webElementGuid>
+      <value>./cart.html</value>
+      <webElementGuid>1bcdb96a-ac06-4d9d-b157-4d8945067657</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>CHECKOUT</value>
-      <webElementGuid>aa6e737f-5784-4908-9a4f-460fa18776ac</webElementGuid>
+      <value>CANCEL</value>
+      <webElementGuid>f0a990e2-c4fc-4687-b54f-7bbdeb20677e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;cart_contents_container&quot;)/div[1]/div[@class=&quot;cart_footer&quot;]/a[@class=&quot;btn_action checkout_button&quot;]</value>
-      <webElementGuid>8afc4b49-4cdd-4bb9-9295-d1760a757015</webElementGuid>
+      <value>id(&quot;checkout_info_container&quot;)/div[@class=&quot;checkout_info_wrapper&quot;]/form[1]/div[@class=&quot;checkout_buttons&quot;]/a[@class=&quot;cart_cancel_link btn_secondary&quot;]</value>
+      <webElementGuid>e0ed50a9-6f80-4dbc-9af3-8d6867fcd734</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='cart_contents_container']/div/div[2]/a[2]</value>
-      <webElementGuid>d8ca89a5-6a75-4f88-ae33-496522759515</webElementGuid>
+      <value>//div[@id='checkout_info_container']/div/form/div[2]/a</value>
+      <webElementGuid>d81828a5-f724-4cd7-8724-80415621b3a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'CHECKOUT')]</value>
-      <webElementGuid>4fe4bc63-cfcc-439e-ade6-871ac5322caa</webElementGuid>
+      <value>//a[contains(text(),'CANCEL')]</value>
+      <webElementGuid>b94e319d-c45a-4e64-9815-edd32ffb9cd3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue Shopping'])[1]/following::a[1]</value>
-      <webElementGuid>663dba1a-fb3d-41ac-b8db-c0cd125b5fcb</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout: Your Information'])[1]/following::a[1]</value>
+      <webElementGuid>adee1e15-a2b6-4b9f-87a1-20d48f653b02</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='REMOVE'])[1]/following::a[2]</value>
-      <webElementGuid>568b7f06-77eb-4a02-a46d-2f0f54be2fa0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Menu'])[1]/following::a[2]</value>
+      <webElementGuid>c6ccd892-067f-44df-a807-c834fcc67a04</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Twitter'])[1]/preceding::a[1]</value>
-      <webElementGuid>79b7011d-dbff-4fb4-9ed4-19d73c6b6214</webElementGuid>
+      <webElementGuid>eb3b46ed-7b9d-4fb8-bd32-e0f586b7dd91</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,38 +109,38 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/preceding::a[1]</value>
-      <webElementGuid>e0b0d192-6a3b-422d-8ef0-fe4c078e27c5</webElementGuid>
+      <webElementGuid>503a8005-3f18-4de8-b99b-d15f581035e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='CHECKOUT']/parent::*</value>
-      <webElementGuid>bef43579-fa64-4d44-9b37-365badf6f5bb</webElementGuid>
+      <value>//*/text()[normalize-space(.)='CANCEL']/parent::*</value>
+      <webElementGuid>4ca6a688-a6ee-4122-b0f4-9639b0566e46</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, './checkout-step-one.html')]</value>
-      <webElementGuid>ecf8719a-6835-43cc-b2a4-9463b5d6edfe</webElementGuid>
+      <value>(//a[contains(@href, './cart.html')])[2]</value>
+      <webElementGuid>8c9999da-15d2-4b87-837c-2c58e46ed9d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/a[2]</value>
-      <webElementGuid>92536160-2dba-4a0c-84d0-69cafcb5131e</webElementGuid>
+      <value>//form/div[2]/a</value>
+      <webElementGuid>ff96eff9-d525-46b4-b5d8-d33fe529b52e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = './checkout-step-one.html' and (text() = 'CHECKOUT' or . = 'CHECKOUT')]</value>
-      <webElementGuid>d4d8fdbf-fbee-4d5f-92cf-3b993309454a</webElementGuid>
+      <value>//a[@href = './cart.html' and (text() = 'CANCEL' or . = 'CANCEL')]</value>
+      <webElementGuid>92a5f557-ea10-4540-bb24-7f7f23bd379e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

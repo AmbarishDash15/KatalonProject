@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value>div.inventory_details_name</value>
+         <value>div.inventory_item_name</value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>db6a57dc-e5e0-4eb4-a055-1a57285aa0e1</webElementGuid>
+      <webElementGuid>04546d15-3216-4309-b9f7-6d7b10694307</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>inventory_item_name</value>
-      <webElementGuid>27814bbe-74a8-4c23-8505-ac92ce3331c1</webElementGuid>
+      <webElementGuid>59d743be-b52e-48af-8400-39430e066d0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sauce Labs Bolt T-Shirt</value>
-      <webElementGuid>58271ae8-0324-40df-a336-5088b27e9998</webElementGuid>
+      <webElementGuid>16e48065-dcd6-4600-8ac8-40aec49e2d0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;item_1_title_link&quot;)/div[@class=&quot;inventory_item_name&quot;]</value>
-      <webElementGuid>2a59d4a3-1777-4fbd-93e3-59697b51c0a4</webElementGuid>
+      <webElementGuid>6269cabb-fb9a-42a0-ad4e-20d7a6de4d81</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='item_1_title_link']/div</value>
-      <webElementGuid>9c3c3b47-c2e6-4df8-9650-2be55746a767</webElementGuid>
+      <webElementGuid>e1190018-b862-4c96-ba9a-fedb8a4f7753</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='DESCRIPTION'])[1]/following::div[4]</value>
-      <webElementGuid>1c8366ae-8c74-4362-b459-ce41d2e2bc50</webElementGuid>
+      <webElementGuid>0d032743-8eab-4004-a6b1-79b9261a2747</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='QTY'])[1]/following::div[5]</value>
-      <webElementGuid>beefe057-e0b1-4c53-9239-8ce874890b16</webElementGuid>
+      <webElementGuid>dca1ce7d-9398-43da-aee7-f5441f27d205</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='REMOVE'])[1]/preceding::div[3]</value>
-      <webElementGuid>a8b78219-2d2a-48b5-b9ec-9dbb7fa834a8</webElementGuid>
+      <webElementGuid>35d0f8e1-7837-47b5-bb8d-06a06c95f7cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue Shopping'])[1]/preceding::div[4]</value>
-      <webElementGuid>91d9ddf4-5d2d-46ce-958d-29f51cd45cad</webElementGuid>
+      <webElementGuid>68e304a7-a9b7-4536-92cc-ea227a8830f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sauce Labs Bolt T-Shirt']/parent::*</value>
-      <webElementGuid>e86102cd-557e-40d2-b523-acfc8b05265e</webElementGuid>
+      <webElementGuid>f6acd1f0-5e5a-4d8c-8ec1-a115359c3c92</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a/div</value>
-      <webElementGuid>53d4e756-9e0b-4e34-bf3c-ad089519a892</webElementGuid>
+      <webElementGuid>bb97c863-b53b-4231-a61b-083d719c8596</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Sauce Labs Bolt T-Shirt' or . = 'Sauce Labs Bolt T-Shirt')]</value>
-      <webElementGuid>e74291b0-5956-4199-a15e-4d69311a69e1</webElementGuid>
+      <webElementGuid>ad37f9cb-aa87-41a6-aa11-80606b35ef1b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

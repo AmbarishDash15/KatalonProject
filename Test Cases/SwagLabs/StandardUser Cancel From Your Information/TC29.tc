@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC29</name>
+   <tag>CancelInfo</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0d363ac4-eb61-4655-ab70-77f8539afbf9</testCaseGuid>
+</TestCaseEntity>

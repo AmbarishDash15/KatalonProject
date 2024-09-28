@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>7e90dcfe-e83b-41a2-b504-e3c0929c216a</webElementGuid>
+      <webElementGuid>74bdf5b0-4ac5-48d2-b8bf-2140af1331fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>login_credentials</value>
-      <webElementGuid>8090fd53-ed7f-47a4-8efa-60ab2df4fda5</webElementGuid>
+      <webElementGuid>19a0ad2c-5167-41d3-ad74-752a737d7adc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>login_credentials</value>
-      <webElementGuid>62ee4847-73f4-44d7-b68f-edad59ccf46a</webElementGuid>
+      <webElementGuid>2c258a92-6626-4913-bc98-395bd7255a3d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -60,7 +60,7 @@
                 performance_glitch_user
 
             </value>
-      <webElementGuid>0e4d763a-5381-4f6f-b033-a0a2aa71ba87</webElementGuid>
+      <webElementGuid>b20196d6-f737-4bff-a975-8c6c32564bd1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,7 +68,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;login_credentials&quot;)</value>
-      <webElementGuid>bc309a3c-5b94-4b16-84b6-660b7d559c8a</webElementGuid>
+      <webElementGuid>77d3e1b3-a862-4820-b7bc-0ec9228c90fa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -76,7 +76,15 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='login_credentials']</value>
-      <webElementGuid>2cb1f972-b1f8-4268-986b-326b21902eb6</webElementGuid>
+      <webElementGuid>50009103-151b-42e5-b80a-befa0954ba65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='standard_user']/parent::*</value>
+      <webElementGuid>84ed4128-b518-42de-b407-926a8b3df396</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -84,7 +92,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/div</value>
-      <webElementGuid>b1b09463-5d05-4e85-9ef4-3037834d3ef1</webElementGuid>
+      <webElementGuid>2f74b806-3882-4c30-b913-dfa2267c81c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,14 +114,6 @@
                 performance_glitch_user
 
             ')]</value>
-      <webElementGuid>b189f280-ccf5-4f33-a52f-9ab98de86f19</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='standard_user']/parent::*</value>
-      <webElementGuid>5c593a47-4ed1-4163-974f-f6d9058d726f</webElementGuid>
+      <webElementGuid>ab8f0a52-887a-42e5-98d7-02ceb77c91d9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

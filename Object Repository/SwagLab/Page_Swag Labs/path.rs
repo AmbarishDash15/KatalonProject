@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>path</value>
-      <webElementGuid>b4540449-92ec-4bde-8cb1-371c47f2507c</webElementGuid>
+      <webElementGuid>649327bf-cde7-40bb-8c7f-2ec79b99d407</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>fill</name>
       <type>Main</type>
       <value>currentColor</value>
-      <webElementGuid>800251cb-5338-4da7-a11c-ab52e04efe22</webElementGuid>
+      <webElementGuid>4441c293-6eaa-4995-a4d9-746f694b4927</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>d</name>
       <type>Main</type>
       <value>M528.12 301.319l47.273-208C578.806 78.301 567.391 64 551.99 64H159.208l-9.166-44.81C147.758 8.021 137.93 0 126.529 0H24C10.745 0 0 10.745 0 24v16c0 13.255 10.745 24 24 24h69.883l70.248 343.435C147.325 417.1 136 435.222 136 456c0 30.928 25.072 56 56 56s56-25.072 56-56c0-15.674-6.447-29.835-16.824-40h209.647C430.447 426.165 424 440.326 424 456c0 30.928 25.072 56 56 56s56-25.072 56-56c0-22.172-12.888-41.332-31.579-50.405l5.517-24.276c3.413-15.018-8.002-29.319-23.403-29.319H218.117l-6.545-32h293.145c11.206 0 20.92-7.754 23.403-18.681z</value>
-      <webElementGuid>f4828632-b15b-4227-bdfd-a8b3b54daf74</webElementGuid>
+      <webElementGuid>1af2d9ff-c207-4a85-9778-f9228500c8ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,6 +53,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;shopping_cart_container&quot;)/a[@class=&quot;shopping_cart_link fa-layers fa-fw&quot;]/svg[@class=&quot;svg-inline--fa fa-shopping-cart fa-w-18 fa-3x&quot;]/path[1]</value>
-      <webElementGuid>e6791591-768a-4b9c-822b-3087350f62cf</webElementGuid>
+      <webElementGuid>84757a69-09f8-4c1d-b3a9-44b3134ba653</webElementGuid>
    </webElementProperties>
 </WebElementEntity>
