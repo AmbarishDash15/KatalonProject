@@ -34,7 +34,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>b3345f41-9332-4543-929a-7d46f0d56779</webElementGuid>
+      <webElementGuid>982600cd-cd1b-4f20-8378-3ddc7d05d906</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn_action checkout_button</value>
-      <webElementGuid>f02d70d4-ffd4-4216-9fee-f0da80f80ab6</webElementGuid>
+      <webElementGuid>927e8e90-226b-4993-af22-4594344a6ab6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
       <name>href</name>
       <type>Main</type>
       <value>./checkout-step-one.html</value>
-      <webElementGuid>96357cc8-735b-4832-84b0-03386da0d84a</webElementGuid>
+      <webElementGuid>d9b49235-e7fe-40a8-bc79-7259738f0cf0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>text</name>
       <type>Main</type>
       <value>CHECKOUT</value>
-      <webElementGuid>aa6e737f-5784-4908-9a4f-460fa18776ac</webElementGuid>
+      <webElementGuid>1530b5bd-a8b9-42db-86b8-93ef006c3e00</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;cart_contents_container&quot;)/div[1]/div[@class=&quot;cart_footer&quot;]/a[@class=&quot;btn_action checkout_button&quot;]</value>
-      <webElementGuid>8afc4b49-4cdd-4bb9-9295-d1760a757015</webElementGuid>
+      <webElementGuid>092bfd7b-0cc1-4b1f-9291-8d3a68c22efc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='cart_contents_container']/div/div[2]/a[2]</value>
-      <webElementGuid>d8ca89a5-6a75-4f88-ae33-496522759515</webElementGuid>
+      <webElementGuid>d1205313-8709-4481-a324-d03d364590a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'CHECKOUT')]</value>
-      <webElementGuid>4fe4bc63-cfcc-439e-ade6-871ac5322caa</webElementGuid>
+      <webElementGuid>21e9b967-67f9-4486-b082-152bd8c1f2b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue Shopping'])[1]/following::a[1]</value>
-      <webElementGuid>663dba1a-fb3d-41ac-b8db-c0cd125b5fcb</webElementGuid>
+      <webElementGuid>98c44912-21aa-4666-a38a-e27a9d032d4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='REMOVE'])[1]/following::a[2]</value>
-      <webElementGuid>568b7f06-77eb-4a02-a46d-2f0f54be2fa0</webElementGuid>
+      <webElementGuid>1ce94f02-bbdd-4e79-8d02-f214ba8a4872</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Twitter'])[1]/preceding::a[1]</value>
-      <webElementGuid>79b7011d-dbff-4fb4-9ed4-19d73c6b6214</webElementGuid>
+      <webElementGuid>3bb44e8d-8baa-44ca-ad32-088872dcd98a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,7 +114,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/preceding::a[1]</value>
-      <webElementGuid>e0b0d192-6a3b-422d-8ef0-fe4c078e27c5</webElementGuid>
+      <webElementGuid>6d827f23-85fc-4c44-82a4-abec9c31b06d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,7 +122,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='CHECKOUT']/parent::*</value>
-      <webElementGuid>bef43579-fa64-4d44-9b37-365badf6f5bb</webElementGuid>
+      <webElementGuid>e2b9f756-28ae-4214-a542-dfeaa56fb0cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -130,7 +130,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, './checkout-step-one.html')]</value>
-      <webElementGuid>ecf8719a-6835-43cc-b2a4-9463b5d6edfe</webElementGuid>
+      <webElementGuid>865327b0-95da-4023-99a4-5723054f94e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -138,7 +138,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/a[2]</value>
-      <webElementGuid>92536160-2dba-4a0c-84d0-69cafcb5131e</webElementGuid>
+      <webElementGuid>830b0c52-9dc0-4be9-91f5-4049343b9d9b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -146,6 +146,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = './checkout-step-one.html' and (text() = 'CHECKOUT' or . = 'CHECKOUT')]</value>
-      <webElementGuid>d4d8fdbf-fbee-4d5f-92cf-3b993309454a</webElementGuid>
+      <webElementGuid>60814d39-f10d-479e-8cc9-969c1942d054</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

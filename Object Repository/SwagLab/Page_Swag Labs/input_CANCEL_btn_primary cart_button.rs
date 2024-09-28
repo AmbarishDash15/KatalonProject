@@ -6,12 +6,12 @@
    <elementGuidId>9c75f187-7f3e-4f86-a6d3-54cb51c55cd3</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input.btn_primary.cart_button</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@value='CONTINUE']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.btn_primary.cart_button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>e27bd497-bfc2-49dc-bf7c-ca56b051eabf</webElementGuid>
+      <webElementGuid>d0ee9796-a6a2-4539-b1d6-2df1d1ddbf6c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn_primary cart_button</value>
-      <webElementGuid>3e8bb968-a644-4db7-9a06-c99cf259f136</webElementGuid>
+      <webElementGuid>c8fdcf7d-84d8-4c67-96bc-2703414837b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>77e968e7-912d-446b-8250-b656250a9a74</webElementGuid>
+      <webElementGuid>0c07f958-2ad0-4f29-babb-0949943d1434</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>value</name>
       <type>Main</type>
       <value>CONTINUE</value>
-      <webElementGuid>8cbe4d42-beb9-49ba-a22c-644768d7af4e</webElementGuid>
+      <webElementGuid>b4a6c30f-f54b-40f4-9d75-174828735946</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;checkout_info_container&quot;)/div[@class=&quot;checkout_info_wrapper&quot;]/form[1]/div[@class=&quot;checkout_buttons&quot;]/input[@class=&quot;btn_primary cart_button&quot;]</value>
-      <webElementGuid>2426d883-5af5-4a81-b1e2-21725420e283</webElementGuid>
+      <webElementGuid>199821bb-6dd0-4a59-a795-bb2c1524a741</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@value='CONTINUE']</value>
-      <webElementGuid>ed25cf41-2517-40ad-b9c2-9a54ea86ab1f</webElementGuid>
+      <webElementGuid>472924be-8b3e-4aa9-ae90-ec3e6bcdc1ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='checkout_info_container']/div/form/div[2]/input</value>
-      <webElementGuid>5ab82cb9-7ac2-4374-a282-5c72165e4802</webElementGuid>
+      <webElementGuid>20aaad31-e8b2-4602-a57c-7a55e670017a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>902ac713-0cc0-416f-afa6-d879ff802570</webElementGuid>
+      <webElementGuid>bfabc291-fd24-42ce-95a3-cbaf484e8b9e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit']</value>
-      <webElementGuid>cef3b6de-597f-4c36-bffb-b1dd8c6b8308</webElementGuid>
+      <webElementGuid>625d9702-ee46-4740-b22e-f72fa27837fc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

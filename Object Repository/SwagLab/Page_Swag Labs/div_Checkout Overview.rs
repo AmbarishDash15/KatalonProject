@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Checkout Your Information</name>
+   <name>div_Checkout Overview</name>
    <tag></tag>
-   <elementGuidId>423d9a9c-7c6f-4109-a5eb-3c43b0f26987</elementGuidId>
+   <elementGuidId>6c9004a5-7f78-4949-87f2-0246d63806ae</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -18,7 +18,7 @@
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:text=&quot;Checkout: Your Information&quot;i</value>
+         <value>internal:text=&quot;Checkout: Overview&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>91333e5b-e44b-49a5-9a32-72eac2ec857b</webElementGuid>
+      <webElementGuid>455a6f26-c465-4a12-8f87-34f3e6c8a680</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,15 +37,15 @@
       <name>class</name>
       <type>Main</type>
       <value>subheader</value>
-      <webElementGuid>16569337-2caa-45a2-b2c0-0443da7fca4d</webElementGuid>
+      <webElementGuid>1e5ab39f-c628-4e52-a2c7-135fcd2cf3d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Checkout: Your Information</value>
-      <webElementGuid>d9f5b66d-0f36-40b2-ac21-39c7219a218b</webElementGuid>
+      <value>Checkout: Overview</value>
+      <webElementGuid>31a6c7f3-101f-4953-8a71-0d8665ec2471</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;contents_wrapper&quot;)/div[@class=&quot;subheader&quot;]</value>
-      <webElementGuid>6c35c251-96df-4887-aa4b-77c551c0f34d</webElementGuid>
+      <webElementGuid>40c1d3e8-3f34-4e24-9f10-842eea02571c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='contents_wrapper']/div[2]</value>
-      <webElementGuid>2c6556a7-1394-4184-829f-0d745b517141</webElementGuid>
+      <webElementGuid>3b8ea8dd-09b4-4146-b549-3c41bdbc4cf7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Menu'])[1]/following::div[6]</value>
-      <webElementGuid>76ef4b0f-bc8b-40f5-9629-af9e04cf3081</webElementGuid>
+      <webElementGuid>ed6e26c0-aaab-4013-90ca-bc3462a8de84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,31 +77,31 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Close Menu'])[1]/following::div[8]</value>
-      <webElementGuid>a8f73f09-5651-471c-a0c9-a077f23e8aeb</webElementGuid>
+      <webElementGuid>c1fef795-4318-44c2-a29f-071e73e5f168</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='CANCEL'])[1]/preceding::div[2]</value>
-      <webElementGuid>64b69751-f4ce-4962-a263-01edc82337e2</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QTY'])[1]/preceding::div[1]</value>
+      <webElementGuid>45685708-674e-4272-8228-5d17b7aca05e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Twitter'])[1]/preceding::div[6]</value>
-      <webElementGuid>19085be8-794d-4051-92ef-1709cf7e743a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DESCRIPTION'])[1]/preceding::div[2]</value>
+      <webElementGuid>1fd8f2b1-bd62-4d6a-9bbb-e5ebe077a4be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Checkout: Your Information']/parent::*</value>
-      <webElementGuid>3fb30316-765f-4ce7-90fb-c6005859d730</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Checkout: Overview']/parent::*</value>
+      <webElementGuid>b69d6135-a591-4f70-8e1a-1769afd4ff75</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,14 +109,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//body/div/div[2]/div[2]</value>
-      <webElementGuid>485bc096-822e-48ea-8ed8-dabaa4c9c788</webElementGuid>
+      <webElementGuid>a3fb9da2-b6da-4b59-ac23-d1c092c7a806</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = 'Checkout: Your Information' or . = 'Checkout: Your Information')]</value>
-      <webElementGuid>df779637-1bb1-4837-935d-932df947af05</webElementGuid>
+      <value>//div[(text() = 'Checkout: Overview' or . = 'Checkout: Overview')]</value>
+      <webElementGuid>c48e84c8-36b0-499d-a8cc-683daf910703</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>9e64dc75-5c19-4491-a6d7-b7bd5a4dc1f5</webElementGuid>
+      <webElementGuid>fd01ea36-1731-4bc8-814a-8a788c90a59d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>inventory_item_name</value>
-      <webElementGuid>5e1a0baf-17d2-4e6c-aca9-3568c8bd445d</webElementGuid>
+      <webElementGuid>a9bd50fc-693c-45d2-ad8a-4d8eb252f60a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Test.allTheThings() T-Shirt (Red)</value>
-      <webElementGuid>3891f344-c101-4765-9669-c1b75d3e84a7</webElementGuid>
+      <webElementGuid>b2e900a3-a565-4900-9e58-3c9f90d11ccc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;item_3_title_link&quot;)/div[@class=&quot;inventory_item_name&quot;]</value>
-      <webElementGuid>a45e7e96-85e4-474a-8d76-4d05bf6ad894</webElementGuid>
+      <webElementGuid>45cffa61-334c-4c95-8ef1-c7731430dd7d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='item_3_title_link']/div</value>
-      <webElementGuid>23ef2078-d72a-42a4-b136-33bf4d53726d</webElementGuid>
+      <webElementGuid>0ab3ca01-1d0d-4f7a-864e-4b7e85fa2304</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='DESCRIPTION'])[1]/following::div[4]</value>
-      <webElementGuid>e9442c48-5c26-4c26-b88b-04d4cf45cecd</webElementGuid>
+      <webElementGuid>66349c47-2be8-4aed-862b-79ec73396346</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='QTY'])[1]/following::div[5]</value>
-      <webElementGuid>ff9f98a1-d9be-4baf-8d72-3a2840af6b43</webElementGuid>
+      <webElementGuid>233ef23c-6494-4dd3-8188-2a4df4bbcd5d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='REMOVE'])[1]/preceding::div[3]</value>
-      <webElementGuid>2eaa5dbb-d9be-456f-adc1-1d4fc67e4b37</webElementGuid>
+      <webElementGuid>dc0dfd42-0a59-46de-b3eb-d5a9942338ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue Shopping'])[1]/preceding::div[4]</value>
-      <webElementGuid>23430ffd-1e4c-4350-8e43-2981c880a7e8</webElementGuid>
+      <webElementGuid>bb1771ae-a8f2-44c0-a348-128839a24f53</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Test.allTheThings() T-Shirt (Red)']/parent::*</value>
-      <webElementGuid>d68cc0f0-46a4-43c9-bda5-1fb2dbb01fcc</webElementGuid>
+      <webElementGuid>1ec1b391-7b1c-404a-b0fe-0924161ad105</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a/div</value>
-      <webElementGuid>171fc9fb-7513-4ed3-ab87-0d403d2dfae6</webElementGuid>
+      <webElementGuid>e5285d3e-04bb-44ed-857f-dbce78698991</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Test.allTheThings() T-Shirt (Red)' or . = 'Test.allTheThings() T-Shirt (Red)')]</value>
-      <webElementGuid>2f719b83-0649-463f-a7f8-419590bbccdf</webElementGuid>
+      <webElementGuid>8ae78ad0-5dd0-4bda-b558-4a7555170eef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

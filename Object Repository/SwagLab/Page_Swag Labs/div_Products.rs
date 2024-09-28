@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Checkout Your Information</name>
+   <name>div_Products</name>
    <tag></tag>
-   <elementGuidId>423d9a9c-7c6f-4109-a5eb-3c43b0f26987</elementGuidId>
+   <elementGuidId>eaefb854-13c6-4e42-a54c-a00ed5f329ac</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='contents_wrapper']/div[2]</value>
+         <value>//div[@id='inventory_filter_container']/div</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>div.subheader</value>
+         <value>div.product_label</value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:text=&quot;Checkout: Your Information&quot;i</value>
+         <value>internal:text=&quot;Products&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,94 +29,94 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>91333e5b-e44b-49a5-9a32-72eac2ec857b</webElementGuid>
+      <webElementGuid>2e77f7c0-742b-4364-b06f-2bb68e19c355</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>subheader</value>
-      <webElementGuid>16569337-2caa-45a2-b2c0-0443da7fca4d</webElementGuid>
+      <value>product_label</value>
+      <webElementGuid>e99fda4b-b11d-42fd-8498-1579b9d08dbf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Checkout: Your Information</value>
-      <webElementGuid>d9f5b66d-0f36-40b2-ac21-39c7219a218b</webElementGuid>
+      <value>Products</value>
+      <webElementGuid>a0b90c81-d875-433a-aa6b-543e14364451</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;contents_wrapper&quot;)/div[@class=&quot;subheader&quot;]</value>
-      <webElementGuid>6c35c251-96df-4887-aa4b-77c551c0f34d</webElementGuid>
+      <value>id(&quot;inventory_filter_container&quot;)/div[@class=&quot;product_label&quot;]</value>
+      <webElementGuid>4749d2da-5db1-4cf1-8d19-211aee0ba8b3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='contents_wrapper']/div[2]</value>
-      <webElementGuid>2c6556a7-1394-4184-829f-0d745b517141</webElementGuid>
+      <value>//div[@id='inventory_filter_container']/div</value>
+      <webElementGuid>a0dace8a-6350-4a04-85d3-6298fccd7603</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Menu'])[1]/following::div[6]</value>
-      <webElementGuid>76ef4b0f-bc8b-40f5-9629-af9e04cf3081</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Menu'])[1]/following::div[12]</value>
+      <webElementGuid>b4b9d8a2-b28d-47e3-b1df-7d3db9dddb84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close Menu'])[1]/following::div[8]</value>
-      <webElementGuid>a8f73f09-5651-471c-a0c9-a077f23e8aeb</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close Menu'])[1]/following::div[14]</value>
+      <webElementGuid>4c33510a-1994-4483-b133-30d8797150d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='CANCEL'])[1]/preceding::div[2]</value>
-      <webElementGuid>64b69751-f4ce-4962-a263-01edc82337e2</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sauce Labs Backpack'])[1]/preceding::div[2]</value>
+      <webElementGuid>1a2badaa-d9f0-46bf-aeb4-da839feac7cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Twitter'])[1]/preceding::div[6]</value>
-      <webElementGuid>19085be8-794d-4051-92ef-1709cf7e743a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$29.99'])[1]/preceding::div[5]</value>
+      <webElementGuid>0b33cb10-7840-48c4-a654-7aebf160e6dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Checkout: Your Information']/parent::*</value>
-      <webElementGuid>3fb30316-765f-4ce7-90fb-c6005859d730</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Products']/parent::*</value>
+      <webElementGuid>b58e6295-4c95-4c00-bead-3eb06785865b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//body/div/div[2]/div[2]</value>
-      <webElementGuid>485bc096-822e-48ea-8ed8-dabaa4c9c788</webElementGuid>
+      <value>//div[2]/div/div/div[3]/div</value>
+      <webElementGuid>3b6ec83a-1014-4115-ae1a-0b1ddd190585</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = 'Checkout: Your Information' or . = 'Checkout: Your Information')]</value>
-      <webElementGuid>df779637-1bb1-4837-935d-932df947af05</webElementGuid>
+      <value>//div[(text() = 'Products' or . = 'Products')]</value>
+      <webElementGuid>3c92c4a0-2d4d-4fcb-81f1-db43812f1437</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
