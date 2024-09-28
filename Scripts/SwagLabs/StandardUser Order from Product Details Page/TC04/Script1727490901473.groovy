@@ -33,7 +33,7 @@ WebUI.click(findTestObject('Object Repository/SwagLab/Page_Swag Labs/input_stand
 
 WebUI.click(findTestObject('SwagLab/Page_Swag Labs/link_Sauce Labs Fleece Jacket'))
 
-WebUI.verifyElementText(findTestObject('SwagLab/Page_Swag Labs/details_Sauce Labs Fleece Jacket'), 'Sauce Labs Fleece Jacket')
+WebUI.verifyElementText(findTestObject('SwagLab/Page_Swag Labs/details_Jacket'), 'Sauce Labs Fleece Jacket')
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/SwagLab/Page_Swag Labs/img_- Back_inventory_details_img'))
 

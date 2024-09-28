@@ -31,7 +31,7 @@ WebUI.click(findTestObject('Object Repository/SwagLab/Page_Swag Labs/input_stand
 
 WebUI.click(findTestObject('SwagLab/Page_Swag Labs/link_Test.allTheThings() T-Shirt (Red)'))
 
-WebUI.verifyElementText(findTestObject('SwagLab/Page_Swag Labs/details_Test.allTheThings() T-Shirt (Red)'), 'Test.allTheThings() T-Shirt (Red)')
+WebUI.verifyElementText(findTestObject('SwagLab/Page_Swag Labs/details_Test'), 'Test.allTheThings() T-Shirt (Red)')
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/SwagLab/Page_Swag Labs/img_- Back_inventory_details_img'))
 

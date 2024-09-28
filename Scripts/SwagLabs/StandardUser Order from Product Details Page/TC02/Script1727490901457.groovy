@@ -33,7 +33,7 @@ WebUI.click(findTestObject('Object Repository/SwagLab/Page_Swag Labs/input_stand
 
 WebUI.click(findTestObject('SwagLab/Page_Swag Labs/link_Sauce Labs Bike Light'))
 
-WebUI.verifyElementText(findTestObject('SwagLab/Page_Swag Labs/details_Sauce Labs Bike Light'), 'Sauce Labs Bike Light')
+WebUI.verifyElementText(findTestObject('SwagLab/Page_Swag Labs/details_Light'), 'Sauce Labs Bike Light')
 
 WebUI.verifyElementText(findTestObject('Object Repository/SwagLab/Page_Swag Labs/details_9.99'), '$9.99')
 
