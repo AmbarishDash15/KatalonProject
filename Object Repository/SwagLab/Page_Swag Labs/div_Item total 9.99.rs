@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>8b2d410e-4435-4750-85cd-05012ba3c124</webElementGuid>
+      <webElementGuid>461f795a-c60a-43c0-a06c-40a7a37bcfb2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>summary_subtotal_label</value>
-      <webElementGuid>178f1fb7-04ef-4260-b2c2-c87391fa6be6</webElementGuid>
+      <webElementGuid>979b99fb-d4f9-433b-a050-392246547311</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Item total: $9.99</value>
-      <webElementGuid>38b482e0-bfaa-4b7b-a584-0145cda6c5ab</webElementGuid>
+      <webElementGuid>c8444a5b-2e36-473e-bd7e-71c7d826e73d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;checkout_summary_container&quot;)/div[1]/div[@class=&quot;summary_info&quot;]/div[@class=&quot;summary_subtotal_label&quot;]</value>
-      <webElementGuid>563e4db7-b9d7-4d63-8bb6-9b64f279c62f</webElementGuid>
+      <webElementGuid>6d0d65f4-06cc-4e3b-9a8f-c376603c86b2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='checkout_summary_container']/div/div[2]/div[5]</value>
-      <webElementGuid>318145ca-32d2-4eb6-baa4-5bc38fdba0fd</webElementGuid>
+      <webElementGuid>d680a8f0-0728-4481-ad51-798458c38cd2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='FREE PONY EXPRESS DELIVERY!'])[1]/following::div[1]</value>
-      <webElementGuid>607c30e1-a3c9-42a3-ba94-1f10203441fe</webElementGuid>
+      <webElementGuid>f156c3b5-e364-483e-a962-9636bc16d8ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping Information:'])[1]/following::div[2]</value>
-      <webElementGuid>f9d770d4-dedc-40c1-8b4f-d83c83d10fa7</webElementGuid>
+      <webElementGuid>235d66b2-0606-4ab5-ad26-7a8e636487d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tax: $0.80'])[1]/preceding::div[1]</value>
-      <webElementGuid>3d6ed2e2-396a-44c1-a4c2-760eb7423fab</webElementGuid>
+      <webElementGuid>73af1157-fe1e-41b5-8ceb-efc36b82853a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Total: $10.79'])[1]/preceding::div[2]</value>
-      <webElementGuid>b0a284ae-8483-4c62-8a98-6790041059e4</webElementGuid>
+      <webElementGuid>ece11b32-60d5-4400-b074-41f5b3aba917</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Item total: $']/parent::*</value>
-      <webElementGuid>9bca5e00-3198-4d9f-a28c-09d5988447ca</webElementGuid>
+      <webElementGuid>1f618f7c-2cb3-4262-bd58-2743c0937476</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]</value>
-      <webElementGuid>6c4c5a66-7a20-4424-a70b-222fbaf02933</webElementGuid>
+      <webElementGuid>f9646c12-672d-4022-8945-2f6cf02a34f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Item total: $9.99' or . = 'Item total: $9.99')]</value>
-      <webElementGuid>38ae5c7f-1357-4a5c-a72d-df3a8b07e4de</webElementGuid>
+      <webElementGuid>425876d7-f566-491c-96ea-2b08e4856e70</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

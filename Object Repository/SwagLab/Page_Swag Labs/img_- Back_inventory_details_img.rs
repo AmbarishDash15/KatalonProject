@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>a5351b73-b12c-4fbd-af94-b1ea16f63199</webElementGuid>
+      <webElementGuid>d7bc0ff0-6665-4d5a-a629-179aca5face3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>inventory_details_img</value>
-      <webElementGuid>241c506d-9927-43c7-8e49-f2bb4b5cf99b</webElementGuid>
+      <webElementGuid>9a7c2e81-1a19-4a24-b2f0-146920270683</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>src</name>
       <type>Main</type>
       <value>./img/red-tatt-1200x1500.jpg</value>
-      <webElementGuid>578b167e-4a5b-47d3-915f-e357fae2f35b</webElementGuid>
+      <webElementGuid>17e5144d-4ad2-4864-a448-77e2f591c81e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;inventory_item_container&quot;)/div[@class=&quot;inventory_details&quot;]/div[@class=&quot;inventory_details_container&quot;]/img[@class=&quot;inventory_details_img&quot;]</value>
-      <webElementGuid>1c357e9e-b6f0-4f76-a9a3-90787245b5fb</webElementGuid>
+      <webElementGuid>5a6dcefd-bed1-4bfa-a77e-a20969b26c0a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='inventory_item_container']/div/div/img</value>
-      <webElementGuid>0a0cd5cd-44d3-49a5-8356-f0890ed31a9d</webElementGuid>
+      <webElementGuid>c3b3604a-7b78-4f87-99d4-f8641fb32921</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//img</value>
-      <webElementGuid>739df05c-f7c0-4bb5-ba4c-abfc80b78d67</webElementGuid>
+      <webElementGuid>eb044578-928c-4f7b-bb5e-e548156726c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = './img/red-tatt-1200x1500.jpg']</value>
-      <webElementGuid>c990a8a2-d4e8-4ee2-86e9-4fa428acaaca</webElementGuid>
+      <webElementGuid>78d2e701-ed80-46a1-bb2b-084aa3d79976</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = './img/red-onesie-1200x1500.jpg']</value>
-      <webElementGuid>71f421b7-04aa-4082-b81f-ed4fb53b7637</webElementGuid>
+      <webElementGuid>4d141ca1-8319-4d9a-ba80-8b62f5c78179</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = './img/sauce-pullover-1200x1500.jpg']</value>
-      <webElementGuid>78bae1b1-4e48-4be6-9995-4b966f8a6344</webElementGuid>
+      <webElementGuid>daf59239-aaa6-426e-b0de-4cef284729a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = './img/bolt-shirt-1200x1500.jpg']</value>
-      <webElementGuid>41b067e6-d085-4dfc-bbcf-061a96acc159</webElementGuid>
+      <webElementGuid>c664f42d-4aa2-42ad-be99-a57a2a24d18b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = './img/bike-light-1200x1500.jpg']</value>
-      <webElementGuid>da52cc39-de97-4083-8b0c-1a9fab47a6c6</webElementGuid>
+      <webElementGuid>8ffaf231-4198-4d81-9567-56030f0441f1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

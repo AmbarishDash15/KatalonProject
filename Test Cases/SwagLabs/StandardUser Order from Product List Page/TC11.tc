@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC11</name>
+   <tag>Swag</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c2792adb-698e-4b81-91c2-a06147ceab40</testCaseGuid>
+</TestCaseEntity>

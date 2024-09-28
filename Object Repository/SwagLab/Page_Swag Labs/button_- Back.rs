@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>aff2c070-0326-441a-bbcc-5506a2cb6206</webElementGuid>
+      <webElementGuid>07d63c51-abbb-446b-be1d-63d0152c967a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>inventory_details_back_button</value>
-      <webElementGuid>390a496a-db27-430c-8187-534c04c872d9</webElementGuid>
+      <webElementGuid>c514df8d-0356-4d40-b4a4-9c72164c0114</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>&lt;- Back</value>
-      <webElementGuid>d28b0750-e2c3-4f95-9f94-07f0968765a3</webElementGuid>
+      <webElementGuid>fbeef2e1-7498-42ae-9bbf-dd181d6ad63c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;inventory_item_container&quot;)/div[@class=&quot;inventory_details&quot;]/button[@class=&quot;inventory_details_back_button&quot;]</value>
-      <webElementGuid>441fba15-5f27-4963-a8bd-072c39ee547b</webElementGuid>
+      <webElementGuid>991f2894-cc5d-483c-9008-deda5b0ad2d2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='inventory_item_container']/div/button</value>
-      <webElementGuid>cc5af2a0-ccb4-4504-a331-3cf0a77e8045</webElementGuid>
+      <webElementGuid>47989d36-43e9-4155-a7c1-68ba4d5839c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Swag Labs'])[2]/following::button[1]</value>
-      <webElementGuid>91e34f9b-22e0-4c7f-afff-a2cf44120810</webElementGuid>
+      <webElementGuid>77eeeb37-9e57-4d79-9d87-ca7c590922d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Menu'])[1]/following::button[1]</value>
-      <webElementGuid>e47324ef-6ffb-4973-b401-caa81eb00e1e</webElementGuid>
+      <webElementGuid>acbad22a-0de1-46c8-892a-fd227d043f4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sauce Labs Fleece Jacket'])[1]/preceding::button[1]</value>
-      <webElementGuid>504f8d3e-d34e-4866-a976-a61c3970fe7b</webElementGuid>
+      <webElementGuid>4eff9fc5-3b9c-4d7b-8974-3499c3db1683</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='$49.99'])[1]/preceding::button[1]</value>
-      <webElementGuid>35099c98-9f59-4827-8350-47dc76574ca0</webElementGuid>
+      <webElementGuid>1a153ef8-7c43-4c3c-be8f-9c83664dcfe1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='&lt;- Back']/parent::*</value>
-      <webElementGuid>8c6b4a2d-60ee-4d8e-8c61-8fa540ecf18a</webElementGuid>
+      <webElementGuid>0b9c1dd6-995f-4eb6-ad18-e41275661c13</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//body/div/div[2]/div[2]/div/button</value>
-      <webElementGuid>3333696d-2800-4053-8ccc-a2cd8abfaee0</webElementGuid>
+      <webElementGuid>2818c4a1-9d74-498b-8b26-95a874734455</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = '&lt;- Back' or . = '&lt;- Back')]</value>
-      <webElementGuid>3963e557-320e-40de-9467-e2e0e286ce59</webElementGuid>
+      <webElementGuid>d994ed4f-e5f5-400e-96d6-4455c90cc31d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

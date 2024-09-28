@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>f364785a-b9e6-49ab-b0a3-1366e9609343</webElementGuid>
+      <webElementGuid>78ceb8ce-9ee4-4969-aef4-842f3ec26eb0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>login_credentials_wrap-inner</value>
-      <webElementGuid>e109b48d-f6df-453d-bbf7-0c1e6ddec6a0</webElementGuid>
+      <webElementGuid>f0ba1a4d-0bce-4e63-b3f5-0f2f34086c42</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
                 secret_sauce
             
         </value>
-      <webElementGuid>73f52a35-a47f-4680-a0e9-5f12f102352b</webElementGuid>
+      <webElementGuid>7effca75-bedd-4f84-a093-af464734fb2a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;main-body&quot;]/div[@class=&quot;login_wrapper&quot;]/div[@class=&quot;login_credentials_wrap&quot;]/div[@class=&quot;login_credentials_wrap-inner&quot;]</value>
-      <webElementGuid>57e737bf-4418-4eea-a69f-55a46f834f9c</webElementGuid>
+      <webElementGuid>aaf3a1f6-7af2-484f-9492-9400b296ca0c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div</value>
-      <webElementGuid>592cac3d-34d2-4ea5-af5c-82ca6716a5e9</webElementGuid>
+      <webElementGuid>58a642f0-8f96-44a3-a8d8-c4472fc2079d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,6 +108,6 @@
                 secret_sauce
             
         ')]</value>
-      <webElementGuid>19bf8f36-6b73-4658-8fd1-191ba9fa0b09</webElementGuid>
+      <webElementGuid>160d1e45-36bf-4cda-91c2-0cfce6de2703</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

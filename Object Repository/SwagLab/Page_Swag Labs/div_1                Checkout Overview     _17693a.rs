@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>b1b126c2-4d9c-476f-9d29-5f68873c467d</webElementGuid>
+      <webElementGuid>8a621e00-89ad-4929-8f57-269fe8d4303d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>contents_wrapper</value>
-      <webElementGuid>944c4e3b-e7ad-44ed-b3df-48ce54bece26</webElementGuid>
+      <webElementGuid>baf7057f-b018-4641-b46f-56a799c5f188</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
         Checkout: Overview
         QTYDESCRIPTION1Sauce Labs Bike LightA red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.$9.99Payment Information:SauceCard #31337Shipping Information:FREE PONY EXPRESS DELIVERY!Item total: $9.99Tax: $0.80Total: $10.79CANCELFINISH
     </value>
-      <webElementGuid>e0a1bd0e-0eb6-4fde-8cc9-a12e30d5ecaa</webElementGuid>
+      <webElementGuid>c0e0629c-aeaf-4ea7-bb03-56e5139060c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;contents_wrapper&quot;)</value>
-      <webElementGuid>e91e2dfc-f5f4-46ed-a142-1b9837035738</webElementGuid>
+      <webElementGuid>8cf39e4f-409f-43b3-aed3-d3ec76cf3dd2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='contents_wrapper']</value>
-      <webElementGuid>fd168399-84c4-4d1d-a6e1-ac03d0138928</webElementGuid>
+      <webElementGuid>196aac04-d300-4250-b167-e6a1b9af956e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='page_wrapper']/div[2]</value>
-      <webElementGuid>e408a238-9882-4146-b036-3ea2fe3ccf7f</webElementGuid>
+      <webElementGuid>02ebda6a-7be0-4844-bf25-b40104024fe3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Menu'])[1]/following::div[1]</value>
-      <webElementGuid>7e68d07c-45ab-45a7-aac2-1574be56deb7</webElementGuid>
+      <webElementGuid>24be6ff1-ad20-4df4-bf5f-84fef7d4faf8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Close Menu'])[1]/following::div[3]</value>
-      <webElementGuid>e0b35a5f-8958-47c8-b4e9-380486fda5c8</webElementGuid>
+      <webElementGuid>26c2eb8d-02a1-477d-84f2-059df9c9a1e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//body/div/div[2]</value>
-      <webElementGuid>9a40ed5a-49ae-42a9-bb1e-01608874cc47</webElementGuid>
+      <webElementGuid>2f3e0f98-4769-4f25-8e03-33c68b681194</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -128,6 +128,6 @@
         Checkout: Overview
         QTYDESCRIPTION1Sauce Labs Bike LightA red light isn&quot; , &quot;'&quot; , &quot;t the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.$9.99Payment Information:SauceCard #31337Shipping Information:FREE PONY EXPRESS DELIVERY!Item total: $9.99Tax: $0.80Total: $10.79CANCELFINISH
     &quot;))]</value>
-      <webElementGuid>d3c84217-2d5e-44ef-b5f8-92224f8f8b41</webElementGuid>
+      <webElementGuid>e5d23b9d-71f6-49fc-b209-35fc5861293c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

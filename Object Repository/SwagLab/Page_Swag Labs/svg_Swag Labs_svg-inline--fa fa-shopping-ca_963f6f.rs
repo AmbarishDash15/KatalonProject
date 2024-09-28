@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Swag Labs'])[2]/following::*[name()='svg'][1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Menu'])[1]/following::*[name()='svg'][1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>a101be01-c52c-432d-8323-ffe135e4e401</webElementGuid>
+      <webElementGuid>6b399e8e-7e45-47e0-b058-b28aaac29589</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>bd161bec-4487-42b4-a5ac-571ebb9ec1d7</webElementGuid>
+      <webElementGuid>23e3dfc9-d53d-476a-a47f-96f69ff188be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>data-prefix</name>
       <type>Main</type>
       <value>fas</value>
-      <webElementGuid>6490b91a-c38a-4432-9705-2377d93550c1</webElementGuid>
+      <webElementGuid>f711a907-b244-444b-8b3a-0b90a1bae1e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>data-icon</name>
       <type>Main</type>
       <value>shopping-cart</value>
-      <webElementGuid>565a3b6f-b03e-4b3f-857a-4b416c163b73</webElementGuid>
+      <webElementGuid>b0592020-7b3a-4e41-8818-38d9f8c2b762</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>svg-inline--fa fa-shopping-cart fa-w-18 fa-3x </value>
-      <webElementGuid>4a468bca-aa71-467c-89a7-35f4e67759af</webElementGuid>
+      <webElementGuid>ed90a839-5045-4490-a97a-f7098b078d2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>role</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>7f853f01-ebbf-4860-8cba-1d14d0e818c9</webElementGuid>
+      <webElementGuid>32250476-5e91-4f7e-ae90-ca8ccb92fc61</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xmlns</name>
       <type>Main</type>
       <value>http://www.w3.org/2000/svg</value>
-      <webElementGuid>bdf0ca61-91a4-4f9f-8747-98a71114d250</webElementGuid>
+      <webElementGuid>de438f4b-95a6-4d13-8f8d-5033b7c81ca4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>viewBox</name>
       <type>Main</type>
       <value>0 0 576 512</value>
-      <webElementGuid>3a0eb705-5fca-471f-a3e9-696ef64176dd</webElementGuid>
+      <webElementGuid>cfd52c3c-7037-470e-8bf5-1ebdc852ef7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -93,23 +93,47 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;shopping_cart_container&quot;)/a[@class=&quot;shopping_cart_link fa-layers fa-fw&quot;]/svg[@class=&quot;svg-inline--fa fa-shopping-cart fa-w-18 fa-3x&quot;]</value>
-      <webElementGuid>db9b6a6f-32bf-4fa5-b261-6e00e1808d2f</webElementGuid>
+      <webElementGuid>de6e25e9-1fc2-4d0d-bc4f-6566c291e9b0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Swag Labs'])[2]/following::*[name()='svg'][1]</value>
-      <webElementGuid>e4feaa83-6b46-450b-b3b0-d6851e331a5a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Menu'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>fa0b3d61-18e6-47d4-ba97-9a93638bf0a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Menu'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>43ee7f06-2cf1-4b54-95d8-cca60ba34c94</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close Menu'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>0446afa7-474f-44e4-b2cb-89c48785538c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Products'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>78058ca3-46c6-44f5-b62f-eaded7b5e454</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sauce Labs Backpack'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>81022128-b560-4326-a19c-2765350b8062</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Swag Labs'])[2]/following::*[name()='svg'][1]</value>
+      <webElementGuid>b716501d-a75a-4596-a70b-f2485225c5a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='&lt;- Back'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>b4899b58-1fa8-4bb4-96f9-af866f2d73a2</webElementGuid>
+      <webElementGuid>c2892149-d271-44e5-9f4b-2d2b0faa146f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sauce Labs Onesie'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>28ae60de-c243-4b97-bf58-30a5c305424d</webElementGuid>
+      <webElementGuid>dbf17c20-f12a-4799-8fa5-d05866f7dc8d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +157,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sauce Labs Fleece Jacket'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>aee854a6-571c-47d7-bed8-811399d0da78</webElementGuid>
+      <webElementGuid>4538b5b2-07be-4bbd-a7c0-1e6b488280e1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

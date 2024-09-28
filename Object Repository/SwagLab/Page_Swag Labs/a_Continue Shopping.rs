@@ -4,7 +4,12 @@
    <name>a_Continue Shopping</name>
    <tag></tag>
    <elementGuidId>e222588e-ac37-49eb-9561-69b28760c2c3</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_Swag Labs/a_Continue Shopping.png</imagePath>
    <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_Swag Labs/a_Continue Shopping.png</value>
+      </entry>
       <entry>
          <key>CSS</key>
          <value>a.btn_secondary</value>
@@ -29,7 +34,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>41844282-0571-4d06-8045-a009a9a5ecf3</webElementGuid>
+      <webElementGuid>08369365-6488-41c9-9364-3bd516ee7868</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn_secondary</value>
-      <webElementGuid>49694845-616e-4572-b1f6-3cf9a2177232</webElementGuid>
+      <webElementGuid>e46b043b-4c13-4288-8c46-f8bfec6d35e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +50,7 @@
       <name>href</name>
       <type>Main</type>
       <value>./inventory.html</value>
-      <webElementGuid>a8e9f51e-4ca7-4d4b-b5cf-89549f69f0d2</webElementGuid>
+      <webElementGuid>18a21544-c1ff-4e3d-82d7-ebad2e9769f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +58,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Continue Shopping</value>
-      <webElementGuid>7671954d-5a60-4441-bc30-cd676137f8cf</webElementGuid>
+      <webElementGuid>a1281164-230b-492a-8fc2-c63ba9b559f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +66,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;cart_contents_container&quot;)/div[1]/div[@class=&quot;cart_footer&quot;]/a[@class=&quot;btn_secondary&quot;]</value>
-      <webElementGuid>3d12578f-45a3-4171-871f-12555bac76c0</webElementGuid>
+      <webElementGuid>e04a3e91-3f6f-4333-8589-6dcb1e17be36</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='cart_contents_container']/div/div[2]/a</value>
-      <webElementGuid>48019b5f-d337-43a1-9cdd-d9475f633bd8</webElementGuid>
+      <webElementGuid>b5257a93-46ca-465b-add7-59ba455807c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +82,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Continue Shopping')]</value>
-      <webElementGuid>f97fa6dd-9174-404d-aab9-cc68ddcb2c89</webElementGuid>
+      <webElementGuid>a93d9e85-23d3-49d4-ad3f-c49d59d4427c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='REMOVE'])[1]/following::a[1]</value>
-      <webElementGuid>00efb3bf-a0c4-4aeb-96fa-e085d0a50f1f</webElementGuid>
+      <webElementGuid>40795924-e4a3-4ca7-888a-6e4321be6316</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sauce Labs Backpack'])[1]/following::a[1]</value>
-      <webElementGuid>757ba553-351e-4e2d-9c36-8a4d91738354</webElementGuid>
+      <webElementGuid>f56a6f6e-a76e-443c-ac44-78e38c536db2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +106,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CHECKOUT'])[1]/preceding::a[1]</value>
-      <webElementGuid>f20afa71-8cc3-4ec7-ab13-b74c61fa7964</webElementGuid>
+      <webElementGuid>759bcf1c-5858-4fb2-babd-ecdd72111a23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +114,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Twitter'])[1]/preceding::a[2]</value>
-      <webElementGuid>4a8c65f6-856a-4a9e-9498-4d2fb55e048c</webElementGuid>
+      <webElementGuid>ced8a4de-e2c7-4870-a94b-3e627960e4c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +122,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Continue Shopping']/parent::*</value>
-      <webElementGuid>33f3058f-a2ec-407a-86a5-bfcf41eb89a4</webElementGuid>
+      <webElementGuid>def70983-5828-4673-b433-e32694387d54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +130,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, './inventory.html')])[2]</value>
-      <webElementGuid>634e5f80-e420-41ba-a052-e16c1954ca03</webElementGuid>
+      <webElementGuid>fad6a8dd-c607-4a88-9d20-9fc97f601a3f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +138,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div[2]/a</value>
-      <webElementGuid>ccae61b0-7340-4f39-ab83-278826398685</webElementGuid>
+      <webElementGuid>b4c8f363-5fa5-4fd7-87a1-b5245ee84027</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +146,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = './inventory.html' and (text() = 'Continue Shopping' or . = 'Continue Shopping')]</value>
-      <webElementGuid>1f2b8037-51fd-4bdc-8781-07eb090f3c36</webElementGuid>
+      <webElementGuid>a4a52e07-36bf-4b5c-b540-3aa6196a4eec</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

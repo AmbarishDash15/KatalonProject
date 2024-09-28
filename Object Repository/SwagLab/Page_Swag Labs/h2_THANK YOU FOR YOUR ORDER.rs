@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
-      <webElementGuid>59a0d4fd-9092-4f2f-8ab9-f3cbdcd220ec</webElementGuid>
+      <webElementGuid>0ba2a871-6118-44bc-9b12-9734747ff3e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>complete-header</value>
-      <webElementGuid>3b6e17ff-2467-458b-97b7-b420aaedcb68</webElementGuid>
+      <webElementGuid>01103e8b-a95b-4043-a790-19d94e7151d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>THANK YOU FOR YOUR ORDER</value>
-      <webElementGuid>9f56b803-b065-4c9d-8685-44456a9e4a15</webElementGuid>
+      <webElementGuid>c7d39353-3bdc-49c1-9b4a-07a046ddacfd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;checkout_complete_container&quot;)/h2[@class=&quot;complete-header&quot;]</value>
-      <webElementGuid>4b48557b-09bf-4281-aed6-4a028bc2fdc3</webElementGuid>
+      <webElementGuid>afa6da98-1e1f-412f-be56-4730fc18e836</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='checkout_complete_container']/h2</value>
-      <webElementGuid>7ba7f5f4-f411-4d95-8da6-33e450ff4127</webElementGuid>
+      <webElementGuid>0716da1b-f8a5-494d-91bd-ef89c8b5f401</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Finish'])[1]/following::h2[1]</value>
-      <webElementGuid>b0d2a603-6ebd-4a7e-86ad-947749aab215</webElementGuid>
+      <webElementGuid>b26d3e5e-96eb-4722-89bf-de0d1515f8c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Menu'])[1]/following::h2[1]</value>
-      <webElementGuid>fcfb45cc-fd9f-4fc0-999f-8234ed78d338</webElementGuid>
+      <webElementGuid>235e363f-ab05-4767-b7c0-c34e4764ae36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Twitter'])[1]/preceding::h2[1]</value>
-      <webElementGuid>8ffef84f-8732-433e-9561-922fd082803e</webElementGuid>
+      <webElementGuid>6bd871d8-022d-4bb9-b5ee-4a56e4672db1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/preceding::h2[1]</value>
-      <webElementGuid>04ef807a-a973-426b-87e9-69602730a48c</webElementGuid>
+      <webElementGuid>fde81e50-7ec0-44f8-a1a2-e2fbbb04c779</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='THANK YOU FOR YOUR ORDER']/parent::*</value>
-      <webElementGuid>ae5cfbe7-876f-40b7-8de5-319e0c9b1a3d</webElementGuid>
+      <webElementGuid>130161af-07f4-4344-869f-161d3beedb9b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h2</value>
-      <webElementGuid>79756fa9-5aad-4c98-a412-56dade51fa8d</webElementGuid>
+      <webElementGuid>ba077e34-b4ab-4bc2-91d2-299d7917abf0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[(text() = 'THANK YOU FOR YOUR ORDER' or . = 'THANK YOU FOR YOUR ORDER')]</value>
-      <webElementGuid>aa58daf9-3f87-47eb-a0f8-b8d3728ecaeb</webElementGuid>
+      <webElementGuid>8ea94f9b-a1d8-4233-8221-59a0285a469f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

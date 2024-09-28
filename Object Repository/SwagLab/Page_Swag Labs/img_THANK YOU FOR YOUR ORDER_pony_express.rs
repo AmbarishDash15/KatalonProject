@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>4fd8672c-f68e-4966-b834-1c7e2fae625c</webElementGuid>
+      <webElementGuid>aeec0509-34d5-4085-b12f-95176702723d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>pony_express</value>
-      <webElementGuid>6a61d638-2212-43be-9cd8-74b4f851b3bf</webElementGuid>
+      <webElementGuid>0a329337-8e49-46f6-9572-6d50b3000323</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>src</name>
       <type>Main</type>
       <value>img/pony-express.png</value>
-      <webElementGuid>f3236e75-7318-4c3b-868f-7f6cc5c35f54</webElementGuid>
+      <webElementGuid>327fbc6c-10b6-45bc-a646-6bee8a973f72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;checkout_complete_container&quot;)/img[@class=&quot;pony_express&quot;]</value>
-      <webElementGuid>3fe67437-7d78-4af7-9360-985c5883921f</webElementGuid>
+      <webElementGuid>313095f4-971e-485c-9086-d45f490d9d51</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='checkout_complete_container']/img</value>
-      <webElementGuid>a67c739b-1cbc-4951-87d0-cf7be804c0a3</webElementGuid>
+      <webElementGuid>98d08359-9b02-4543-8455-66169f72d211</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//img</value>
-      <webElementGuid>dfeedee9-2675-4c55-af8e-3a94675fe60a</webElementGuid>
+      <webElementGuid>7d48d194-075b-4f88-be89-284838d9ba34</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,6 +77,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'img/pony-express.png']</value>
-      <webElementGuid>889fdcd6-142f-4915-b789-3fc332bbdce4</webElementGuid>
+      <webElementGuid>e989da6c-cb4e-4e26-9fcd-179774060453</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
