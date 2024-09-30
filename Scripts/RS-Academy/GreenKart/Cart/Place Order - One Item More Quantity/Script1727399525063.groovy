@@ -19,21 +19,23 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl(launchURL)
+WebUI.navigateToUrl(GlobalVariable.appURL)
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('RS-Academy/Page_Landing/input_Name'), name)
+WebUI.setText(findTestObject('RS-Academy/Page_Landing/input_Name'), GlobalVariable.Name)
 
-WebUI.setText(findTestObject('RS-Academy/Page_Landing/input_eMail'), eMail)
+WebUI.setText(findTestObject('RS-Academy/Page_Landing/input_eMail'), GlobalVariable.eMail)
 
 WebUI.click(findTestObject('RS-Academy/Page_Landing/button_Submit'))
 
 WebUI.delay(1)
 
-WebUI.verifyElementPresent(findTestObject('RS-Academy/Page_Home/a_Automation Practise - 1'), 0)
+WebUI.click(findTestObject('RS-Academy/Page_Home/a_Automation Practise - 1', [('practicePath') : GlobalVariable.Path]))
 
-WebUI.click(findTestObject('RS-Academy/Page_Home/a_Automation Practise - 1'))
+siteURL = WebUI.getUrl()
+
+WebUI.verifyMatch(siteURL, GlobalVariable.pathURL, false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementPresent(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/div_GREENKART'), 0)
 

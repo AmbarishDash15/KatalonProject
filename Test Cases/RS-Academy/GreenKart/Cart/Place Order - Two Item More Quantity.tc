@@ -10,24 +10,6 @@
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>e983be15-95cc-4dd0-81f5-9925d146fd3c</variableId>
-   </variableLinks>
-   <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
-      <variableId>03597618-a019-4eec-8944-db61af5aface</variableId>
-   </variableLinks>
-   <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
-      <variableId>045b4c9e-a194-45e1-9c85-3660cabb9d30</variableId>
-   </variableLinks>
-   <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
       <variableId>01309960-08d6-4f93-b8fc-0f20474fc078</variableId>
    </variableLinks>
    <variableLinks>
@@ -72,27 +54,6 @@
       <value></value>
       <variableId>e60d7b17-167d-46eb-a8d0-f4482ddc52e7</variableId>
    </variableLinks>
-   <variable>
-      <defaultValue>'https://rahulshettyacademy.com/practice-project'</defaultValue>
-      <description></description>
-      <id>e983be15-95cc-4dd0-81f5-9925d146fd3c</id>
-      <masked>false</masked>
-      <name>launchURL</name>
-   </variable>
-   <variable>
-      <defaultValue>'Ambarish'</defaultValue>
-      <description></description>
-      <id>03597618-a019-4eec-8944-db61af5aface</id>
-      <masked>false</masked>
-      <name>name</name>
-   </variable>
-   <variable>
-      <defaultValue>'dash.ambarish15@gmail.com'</defaultValue>
-      <description></description>
-      <id>045b4c9e-a194-45e1-9c85-3660cabb9d30</id>
-      <masked>false</masked>
-      <name>eMail</name>
-   </variable>
    <variable>
       <defaultValue>2</defaultValue>
       <description></description>

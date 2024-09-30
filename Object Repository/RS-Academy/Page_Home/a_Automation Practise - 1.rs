@@ -6,15 +6,15 @@
    <elementGuidId>fd155ea8-bee2-4bd0-85ec-0baced3c7b10</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'${practicePath}')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>div.projects-item > a</value>
       </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//section[@id='project-container']/div/div/a</value>
-      </entry>
    </selectorCollection>
-   <selectorMethod>CSS</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>8b4018d3-03b1-48db-9e04-f958b18ec2ba</webElementGuid>
+      <webElementGuid>cbb26566-de7a-42f5-8de3-ce27febe3f59</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://rahulshettyacademy.com/seleniumPractise/#/</value>
-      <webElementGuid>aa5645f2-9f98-4143-a61c-653583ec0ad4</webElementGuid>
+      <webElementGuid>66eabe8c-f913-4117-b289-19957489cb10</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Automation Practise - 1</value>
-      <webElementGuid>2e00e400-4bda-4d9f-86d6-cb1e308e08ae</webElementGuid>
+      <webElementGuid>b3d3272e-31aa-404f-9bbe-4159c4051b01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;project-container&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;projects-item&quot;]/a[1]</value>
-      <webElementGuid>d9611fee-9e3c-4475-9b3c-7ad932d03e5b</webElementGuid>
+      <webElementGuid>6dc4fec2-6607-487c-a099-08a4ca1bcaf6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='project-container']/div/div/a</value>
-      <webElementGuid>e114f8ca-d25f-4fdb-99d8-8f83aa4800e3</webElementGuid>
+      <webElementGuid>15bdc9d0-e4b5-47bb-9095-206d0cccaba5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Automation Practise - 1')]</value>
-      <webElementGuid>dd37f9e8-fd11-461e-96b7-fd53f167fcd0</webElementGuid>
+      <webElementGuid>f3aefd04-29aa-49cc-9c15-1974e43719a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OUR PROJECTS'])[1]/following::a[1]</value>
-      <webElementGuid>014dffff-190d-40ea-b69f-adec85cda67c</webElementGuid>
+      <webElementGuid>09714e05-ce90-42d2-bc5a-2682b786e02b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[2]/following::a[1]</value>
-      <webElementGuid>c3c2ca05-e1f7-4305-83b7-f1b8d94666e9</webElementGuid>
+      <webElementGuid>ff701317-7e48-45ef-9de8-be27dbabbe35</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Practise - 2'])[1]/preceding::a[1]</value>
-      <webElementGuid>f0e67fba-ba9c-4051-b278-3241a9bd5fda</webElementGuid>
+      <webElementGuid>27d03e58-19dd-4575-8dd5-77139952f646</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Practise - 3'])[1]/preceding::a[2]</value>
-      <webElementGuid>fa072409-1a95-427b-8ae9-f3213830faa2</webElementGuid>
+      <webElementGuid>e898bd4c-fe39-4aa6-a7f0-96afc78048cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Automation Practise - 1']/parent::*</value>
-      <webElementGuid>9bd7e9a4-d06b-4127-a1ed-64991716dc11</webElementGuid>
+      <webElementGuid>a292029b-2ce7-441d-98c3-e82c4d5e3739</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://rahulshettyacademy.com/seleniumPractise/#/')]</value>
-      <webElementGuid>9c0c3ad6-b71b-4e6b-be7e-657ec976aadc</webElementGuid>
+      <webElementGuid>b8ccb7df-a3f8-4c7d-a65c-86365182e325</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section/div/div/a</value>
-      <webElementGuid>9982381b-1677-44fe-9626-f77d0122333f</webElementGuid>
+      <webElementGuid>229abab9-928e-48fd-8fdc-3e49ac10927a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://rahulshettyacademy.com/seleniumPractise/#/' and (text() = 'Automation Practise - 1' or . = 'Automation Practise - 1')]</value>
-      <webElementGuid>8974ed25-8102-4e07-8ecf-609ec246f9ca</webElementGuid>
+      <webElementGuid>22da9f84-b9c6-4a66-817a-e679ed6bcb43</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

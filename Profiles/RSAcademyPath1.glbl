@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>RSAcademyPath1</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Ambarish'</initValue>
+      <name>Name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'dash.ambarish15@gmail.com'</initValue>
+      <name>eMail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://rahulshettyacademy.com/practice-project'</initValue>
+      <name>appURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Automation Practise - 1'</initValue>
+      <name>Path</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://rahulshettyacademy.com/seleniumPractise/#/'</initValue>
+      <name>pathURL</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

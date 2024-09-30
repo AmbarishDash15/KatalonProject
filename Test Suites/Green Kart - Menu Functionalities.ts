@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Green Kart - Item Functionalities</name>
+   <name>Green Kart - Menu Functionalities</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -15,7 +15,7 @@
       <guid>67f4eb5b-855e-4c73-a746-4458c02b42d3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/RS-Academy/GreenKart/Check Quantity with Loop increment</testCaseId>
+      <testCaseId>Test Cases/RS-Academy/GreenKart/Menu/Check Quantity with Loop increment</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -64,7 +64,7 @@
       <guid>24a7c695-d714-4303-96e4-53bfbb5fce99</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/RS-Academy/GreenKart/CheckItemPriceMultiple - Datafile</testCaseId>
+      <testCaseId>Test Cases/RS-Academy/GreenKart/Menu/CheckItemPriceMultiple - Datafile</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>f08aeff2-4a6d-40ae-9e4d-184f38b62a15</id>
@@ -98,7 +98,7 @@
       <guid>7fea2b1b-74e7-4df8-b951-e5da0c2a82f1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/RS-Academy/GreenKart/AddItemToCartWithIncreasedQuantity - Datafile</testCaseId>
+      <testCaseId>Test Cases/RS-Academy/GreenKart/Menu/AddItemToCartWithIncreasedQuantity - Datafile</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>f8126270-19ac-43c2-8460-987077096e9e</id>
@@ -133,7 +133,7 @@
          <masked>false</masked>
          <name>item</name>
       </iterationNameVariable>
-      <testCaseId>Test Cases/RS-Academy/GreenKart/Update quantity without incrementor</testCaseId>
+      <testCaseId>Test Cases/RS-Academy/GreenKart/Menu/Update quantity without incrementor</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>1cf22576-ca04-428f-b2a2-8b0fa78acce8</id>
@@ -161,7 +161,7 @@
       <guid>3d91b387-ff21-4c3e-bc79-d08b5a214393</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/RS-Academy/GreenKart/Search and add item</testCaseId>
+      <testCaseId>Test Cases/RS-Academy/GreenKart/Menu/Search and add item</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>15924360-a0c5-42f4-b232-952e088bcdfb</id>

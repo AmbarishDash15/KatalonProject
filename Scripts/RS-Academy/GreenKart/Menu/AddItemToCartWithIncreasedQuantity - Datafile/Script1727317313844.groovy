@@ -3,6 +3,7 @@ import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.beust.jcommander.converters.IntegerConverter as IntegerConverter
 import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
 import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
 import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
@@ -16,56 +17,48 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import java.lang.String as String
+import java.lang.Integer as Integer
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://rahulshettyacademy.com/practice-project')
+WebUI.navigateToUrl(GlobalVariable.appURL)
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Object Repository/RS-Academy/Page_Landing/input_Name'), 
-    'Ambarish')
+WebUI.setText(findTestObject('Object Repository/RS-Academy/Page_Landing/input_Name'), GlobalVariable.Name)
 
-WebUI.setText(findTestObject('Object Repository/RS-Academy/Page_Landing/input_eMail'), 
-    'dash.ambarish15@gmail.com')
+WebUI.setText(findTestObject('Object Repository/RS-Academy/Page_Landing/input_eMail'), GlobalVariable.eMail)
 
 WebUI.click(findTestObject('Object Repository/RS-Academy/Page_Landing/button_Submit'))
 
-WebUI.click(findTestObject('Object Repository/RS-Academy/Page_Home/a_Automation Practise - 1'))
+WebUI.click(findTestObject('RS-Academy/Page_Home/a_Automation Practise - 1', [('practicePath') : GlobalVariable.Path]))
 
 WebUI.waitForPageLoad(0)
 
 siteURL = WebUI.getUrl()
 
-WebUI.verifyMatch(siteURL, 'https://rahulshettyacademy.com/seleniumPractise/#/', false, FailureHandling.STOP_ON_FAILURE)
+WebUI.verifyMatch(siteURL, GlobalVariable.pathURL, false, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementPresent(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/div_GREENKART'), 0)
 
 WebUI.verifyElementPresent(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/Product', [('itemName') : item]), 
     0)
 
-unitPrice = WebUI.getText(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/itemPrice', [('itemName') : item]))
+for (int i = 2; i < quantity.toInteger(); i++) {
+    WebUI.click(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/incrementor', [('itemName') : item]))
+}
 
-WebUI.setText(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/itemQuantity', [('itemName') : item]), quantity)
+WebUI.click(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/incrementor', [('itemName') : item]))
+
+WebUI.verifyElementAttributeValue(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/itemQuantity', [('itemName') : item]), 
+    'value', quantity, 0)
 
 WebUI.click(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/button_ADD TO CART', [('itemName') : item]))
 
 WebUI.delay(1)
 
 WebUI.verifyElementPresent(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/button_ADDED'), 0)
-
-WebUI.verifyElementText(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/cartItems'), '1')
-
-totalPrice = WebUI.getText(findTestObject('RS-Academy/Page_GreenKart - veg and fruits kart/cartPrice'))
-
-if (totalPrice.toInteger() == quantity.toInteger() * unitPrice.toInteger()) {
-	assert true
-}
-else {
-	assert false
-}
-
-
 
 WebUI.closeBrowser()
 

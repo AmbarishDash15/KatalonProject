@@ -15,26 +15,8 @@
       <guid>97355383-cd0e-4736-bd11-f2b881e58a21</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/RS-Academy/GreenKart/Place Order - One Item More Quantity</testCaseId>
+      <testCaseId>Test Cases/RS-Academy/GreenKart/Cart/Place Order - One Item More Quantity</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>ff2972e6-dce9-41b1-a744-6e40caf00368</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>692eeb16-d757-44f9-a67e-b4ef941f897f</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>7e71463e-b788-42ed-8005-b4271b558c80</variableId>
-      </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -76,26 +58,8 @@
       <guid>df78b356-bcd7-4882-9a51-7e9db9adab33</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/RS-Academy/GreenKart/Place Order - Two Item More Quantity</testCaseId>
+      <testCaseId>Test Cases/RS-Academy/GreenKart/Cart/Place Order - Two Item More Quantity</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>e983be15-95cc-4dd0-81f5-9925d146fd3c</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>03597618-a019-4eec-8944-db61af5aface</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>045b4c9e-a194-45e1-9c85-3660cabb9d30</variableId>
-      </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>

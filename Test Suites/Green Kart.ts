@@ -15,7 +15,7 @@
             <runConfigurationId>Firefox</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Green Kart - Item Functionalities</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Green Kart - Menu Functionalities</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
